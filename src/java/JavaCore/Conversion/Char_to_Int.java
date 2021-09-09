@@ -7,7 +7,6 @@ public class Char_to_Int {
         int a = c;
         int b = c2;
 
-
         System.out.println(a);
         System.out.println(b);
 
