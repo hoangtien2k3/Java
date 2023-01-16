@@ -31,7 +31,6 @@ while ((byteRead = in.read()) != -1) {
   System.out.println(byteRead);
 }
 ```
-
 Đọc theo từng mảng byte.
 ```java
 //Dữ liệu đọc được lưu vào mảng byteBuf.
