@@ -10,7 +10,6 @@
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/TheAlgorithms/Java)
 
 
-
 # JavaCore
 ### Luồng IO trong Java Core
 Trong project này chúng ta sẽ cùng nhau làm quen với khái niệm luồng (streams) và file.
@@ -26,14 +25,12 @@ Nhìn trong hình, bạn có thể hiểu được quan hệ giữa các class t
 - **FileInputStream**: Làm việc với file, Đọc từng byte dữ liệu bằng phương thức read(), khi kết thúc nó trả về giá trị -1. Cách này có tốc độ tương đối chậm.
 Đọc theo từng byte:
 
-
 ```sh
 FileInputStream in = new FileInputStream("data.txt");
 while ((byteRead = in.read()) != -1) {
   System.out.println(byteRead);
 }
 ```
-
 Đọc theo từng mảng byte.
 ```java
 //Dữ liệu đọc được lưu vào mảng byteBuf.
