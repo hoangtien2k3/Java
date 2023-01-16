@@ -10,7 +10,6 @@
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/TheAlgorithms/Java)
 
 
-
 # JavaCore
 ### Luồng IO trong Java Core
 Trong project này chúng ta sẽ cùng nhau làm quen với khái niệm luồng (streams) và file.
@@ -20,7 +19,6 @@ Trong project này chúng ta sẽ cùng nhau làm quen với khái niệm luồn
 - Các luồng byte được định nghĩa dùng hai lớp phân cấp, mức trên cùng là hai lớp trừu tượng **InputStream** và **OutputStream**, là các lớp cha của các lớp xuất nhập kiểu byte. InputStream định nghĩa những đặc điểm chung cho những luồng nhập byte. OutputStream mô tả cách xử lý của các luồng xuất byte.
 
 <h1 align="center"><img src="http://i.imgur.com/TdlBT3Z.png"></h1>
-
 
 Nhìn trong hình, bạn có thể hiểu được quan hệ giữa các class trong IO với nhau. Chúng ta cần quan tâm nhiều đến **FileInputStream** (FileOutputStream) và **BufferedInputStream** (BufferedOutputStream) khi làm việc xuất nhập với file.
 - **FileInputStream**: Làm việc với file, Đọc từng byte dữ liệu bằng phương thức read(), khi kết thúc nó trả về giá trị -1. Cách này có tốc độ tương đối chậm.
