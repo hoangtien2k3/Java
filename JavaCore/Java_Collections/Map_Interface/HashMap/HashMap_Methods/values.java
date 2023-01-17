@@ -16,6 +16,7 @@ public class values {
 
         Collection<Integer> values = map.values();
         System.out.println("Length: " + values.size());
+        System.out.println("Value: " + map.values());
         System.out.println("Value: " + values);
     }
 }

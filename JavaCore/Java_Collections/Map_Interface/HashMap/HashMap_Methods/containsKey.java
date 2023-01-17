@@ -25,7 +25,7 @@ public class containsKey {
 
         System.out.println("key (1) is contain: " + hash_map.containsKey(1));
         System.out.println("key (17) is contain: " + hash_map.containsKey(17));
-        System.out.println("Key (6) is contain: " + hash_map.containsKey(100));
+        System.out.println("Key (100) is contain: " + hash_map.containsKey(100));
 
     }
 }
