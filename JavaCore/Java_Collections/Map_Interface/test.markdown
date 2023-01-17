@@ -1,8 +1,5 @@
 
-# List - ArrayList :
-
-*Lưu trữ và truy xuất các giá trị ArrayList từ hashmap*
-
+# <h1 align="center">List - ArrayList 
 
 ### - Method1 : Use putIfAbsent
 ```java
