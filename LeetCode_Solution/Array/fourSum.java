@@ -75,11 +75,10 @@ class Solution_fourSum {
     }
 }
 
-
 public class fourSum {
     public static void main(String[] args) {
         Solution_fourSum solution = new Solution_fourSum();
-        int[] nums = new int[] {2, 2, 2, 2, 2};
+        int[] nums = new int[] {2, 2, 2, 2, 2, 10, -10, 0, 0};
         int target = 8;
         List<List<Integer>> ans = solution.fourSum(nums, target);
         System.out.println(ans);
