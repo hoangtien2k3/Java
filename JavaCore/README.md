@@ -2,6 +2,9 @@
 # Java Core:
 #### JAVA CORE là kiến thức nền tảng của ngôn ngữ lập trình JAVA...
 
+<img align = "right" alt = "Coding" width = "400" src="https://cdn.mindmajix.com/blog/images/core-java-0604.png">
+
+
 - #### Java Core:
     - [*Java Array*](https://github.com/hoangtien2k3qx1/Java/tree/main/JavaCore/Java_Array)
     - [*Java Collection*](https://github.com/hoangtien2k3qx1/Java/tree/main/JavaCore/Java_Collections)
