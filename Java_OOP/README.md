@@ -7,9 +7,9 @@
 & Learn Java OOPs.
 
 - ### Java OOP:
-    - [*Java Object Class*]()
-    - [*Java OOPs*]()
-    - [*Java OOPs Misc*]()
+    - [*Java Object Class*](https://github.com/hoangtien2k3qx1/Java/tree/main/Java_OOP/Java_Object_Class)
+    - [*Java OOPs*](https://github.com/hoangtien2k3qx1/Java/tree/main/Java_OOP/Java_OOPs)
+    - [*Java OOPs Misc*](https://github.com/hoangtien2k3qx1/Java/tree/main/Java_OOP/Java_OOPs_Misc)
 
 
 
