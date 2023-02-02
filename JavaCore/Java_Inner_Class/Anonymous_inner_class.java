@@ -1,26 +1,40 @@
+/*
+*   => Anonymous Inner Class là một loại Inner Class trong Java mà không có tên.
+*   Nó được tạo trực tiếp khi gọi và không cần tạo một đối tượng riêng cho nó.
+*
+* */
+
+
 package JavaCore.Java_Inner_Class;
 
-import java.awt.event.ActionEvent;
-import java.awt.event.ActionListener;
-import javax.swing.JButton;
-import javax.swing.JFrame;
+abstract class Shape {
+    abstract void draw();
+}
 
-public class Anonymous_inner_class {
+interface Printable {
+    void print();
+}
+
+class Main {
     public static void main(String[] args) {
-        JFrame frame = new JFrame("Anonymous Inner Class Example");
-        JButton button = new JButton("Clicked");
-
-        // Anonymous inner class to handle button click event
-        button.addActionListener(new ActionListener() {
+        // Anonymous Inner Class với Abstract class
+        Shape shape = new Shape() {
             @Override
-            public void actionPerformed(ActionEvent e) {
-                System.out.println("Hoàng Anh Tiến Thật Đẹp Trai!!!");
+            void draw() {
+                System.out.println("Drawing a shape");
             }
-        });
+        };
+        shape.draw();
 
-        frame.add(button);
-        frame.setSize(300, 300);
-        frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        frame.setVisible(true);
+
+        // Anonymous Inner Class với Interface
+        Printable printable = new Printable() {
+            @Override
+            public void print() {
+                System.out.println("Printing something");
+            }
+        };
+        printable.print();
+
     }
 }
