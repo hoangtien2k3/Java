@@ -1,5 +1,5 @@
 /*
-*   Public:  Phạm vi truy xuất bên trong Project (truy xuất mọi nơi bên trong Project)
+*   Public:  Phạm vi truy xuất bên trong Project (truy xuất mọi nơi bên trong chương trình)
 
 * */
 
