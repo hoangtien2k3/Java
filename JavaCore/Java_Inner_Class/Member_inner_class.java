@@ -19,7 +19,6 @@
 *
 * */
 
-
 package JavaCore.Java_Inner_Class;
 
 public class Member_inner_class {
@@ -34,7 +33,6 @@ public class Member_inner_class {
     public static void main(String args[]) {
         Member_inner_class obj = new Member_inner_class();
         Member_inner_class.Inner in = obj.new Inner();
-
         in.msg();
     }
 }
