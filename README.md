@@ -1,3 +1,9 @@
+
+<p align="center">
+    <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.svg" height="150">
+</p>
+
+
 # Java
  Java is the programming language and development platform.  Write once, run anywhere (WORA). App Java, Dev Java, Web Java ... 
 
