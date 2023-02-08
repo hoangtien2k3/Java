@@ -16,7 +16,9 @@ public class Sleep_a_Thread extends Thread {
     public void run() {
         for (int i = 1; i < 5; i++) {
             try {
+                long start = System.currentTimeMillis();
                 Thread.sleep(500);
+                System.out.println("Sleep time in ms = " + (System.currentTimeMillis() - start));
             } catch (InterruptedException e) {
                 System.out.println(e);
             }

@@ -1,6 +1,7 @@
 
 ## Phương thức sleep trong java
 
+#### Link: [Sleep a thread](https://kungfutech.edu.vn/bai-viet/java/su-dung-sleep-va-join-trong-java)
 
 Phương thức sleep trong Java Thread dùng để đặt chế độ "ngủ" cho một luồng trong một khoảng thời gian nhất định. 
 
@@ -32,7 +33,16 @@ public class SleepExample extends Thread{
 
 **Lưu ý**: Phương thức sleep có thể gây ra ngoại lệ InterruptedException nếu luồng bị ngắt trong khoảng thời gian chờ.
 
+### Trong Java, có 2 phương thức chính của lớp Thread dùng để đặt chế độ "ngủ" cho một luồng:
+```java
+public static void sleep(long millis) throws InterruptedException
+```
+Phương thức này đặt chế độ "ngủ" cho luồng hiện tại trong một khoảng thời gian cho trước, được chỉ định bằng tham số millis, đơn vị tính là millisecond.
 
+```java
+public static void sleep(long millis, int nanos) throws InterruptedException
+```
+Phương thức này đặt chế độ "ngủ" cho luồng hiện tại trong một khoảng thời gian cho trước, được chỉ định bằng tham số millis và nanos, đơn vị tính là millisecond và nanosecond tương ứng.
 
 
 
