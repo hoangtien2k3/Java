@@ -1,17 +1,11 @@
 
 ## Thread scheduler trong java
 
-Định nghĩa:
+Java Thread Scheduler là một phần của Java Virtual Machine (JVM) đảm nhiệm cho việc quản lý và sắp xếp các luồng đang chạy trong hệ thống. Nó tìm ra luồng nào cần phải chạy và cho phép chúng chạy trong thời gian tốt nhất, đảm bảo tối ưu hóa sử dụng tài nguyên và tối ưu hóa hiệu suất hệ thống.
 
-- Trong Java, thread scheduler là một phần của Java Virtual Machine (JVM) hoạt động để quản lý và điều hướng việc thực thi các luồng (threads). Nó xác định luồng nào được chạy và thời gian chạy mỗi luồng.
+Java Thread Scheduler sử dụng một giải pháp sắp xếp luồng động (dynamic scheduling) để xác định luồng nào cần phải chạy trong thời gian tới. Nó sẽ đánh giá các yếu tố như ưu tiên, trạng thái, độ trễ và số lần chạy của mỗi luồng và sau đó chọn ra luồng để chạy.
 
-> - Không có sự đảm bảo rằng thread có trạng thái runnable nào sẽ được chọn để chạy bởi thread scheduler
-> 
-> - Chỉ có một thread tại một thời điểm có thể chạy trong một xử lý duy nhất.
-> 
-> - Thread scheduler chủ yếu sử dụng việc lập kệ hoạch ưu tiên hoặc phân chia thời gian để lên lịch các luồng.
- 
-
+Các luồng có thể có ưu tiên cao hoặc ưu tiên thấp, có thể đang chờ hoặc đang chạy. Ưu tiên của mỗi luồng có thể được thiết lập bằng phương thức setPriority(). Java Thread Scheduler sẽ tự động sắp xếp luồng theo thứ tự ưu tiên, nhưng không giữ cho chúng chạy theo thứ tự này mãi mãi. Nó sẽ tự động đánh giá và sắp xếp lại các luồng để tối ưu hóa t
 
 
 
