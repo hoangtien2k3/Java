@@ -13,6 +13,20 @@
 | [Nested Interface](https://www.javatpoint.com/nested-interface)           | 	Một interface được tạo ra bên trong một lớp hoặc một interface.                                                      |
 
 
+
+## Lợi ích Inner Class Java:
+Trong Java, member inner class là một loại inner class được định nghĩa trong một lớp bên trong một lớp khác. Member inner class cung cấp một số lợi ích sau:
+
+1. Tổ chức mã: Member inner class giúp tổ chức mã tốt hơn bằng cách gom các phần liên quan trong một lớp.
+
+2. Truy cập vào các thành viên private của lớp cha: Member inner class có thể truy cập đến các thành viên private của lớp cha, giúp cho việc sử dụng dữ liệu từ lớp cha trở nên dễ dàng hơn.
+
+3. Tạo ra các đối tượng của lớp cha: Member inner class có thể tạo ra đối tượng của lớp cha, giúp cho việc sử dụng các thuộc tính và phương thức của lớp cha trở nên dễ dàng hơn.
+
+4. Tạo ra các đối tượng độc lập: Member inner class cũng có thể tạo ra các đối tượng độc lập, giúp cho việc tái sử dụng mã trở nên dễ dàng hơn.
+
+
+
 ## *Member inner class* trong java:
 Định nghĩa và cú pháp:
 
