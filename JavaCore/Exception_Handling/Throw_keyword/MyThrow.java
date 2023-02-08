@@ -20,7 +20,7 @@ public class MyThrow {
 
     public static void main(String[] args) {
         try {
-            chia2so(1, 2);
+            chia2so(1, 0);
         } catch (MyException e) {
             System.out.println(e.getError());
         }
