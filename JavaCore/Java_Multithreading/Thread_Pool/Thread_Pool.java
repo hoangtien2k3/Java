@@ -28,7 +28,7 @@ class WorkerThread implements Runnable{
 
     public void run() {
         System.out.println(Thread.currentThread().getName() + " (Start) message = " + message);
-        processMessage();
+        processMessage(); // được gọi để xử lý công việc và sleep trong 2 giây.
         System.out.println(Thread.currentThread().getName() + " (End)");
     }
 
@@ -55,5 +55,11 @@ public class Thread_Pool {
         }
 
         System.out.println("Finished all threads !!!");
+
+        /*
+            Mục đích của Thread Pool là giảm chi phí tạo và hủy thread, tăng hiệu suất và
+            cải thiện tính dễ dàng quản lý của việc chạy các công việc trên nhiều thread.
+        */
+
     }
 }
