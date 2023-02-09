@@ -1,6 +1,7 @@
 /*
-    Phương thức join() được sử dụng để đảm bảo cho quá trình thực thi của Thread đang chạy không bị gián đoạn bởi các Thread khác.
-
+    => Thread join() là gì?
+        + Phương thức join() được sử dụng để đảm bảo cho quá trình thực thi của Thread đang chạy không
+        bị gián đoạn bởi các Thread khác.
 
 
 */
