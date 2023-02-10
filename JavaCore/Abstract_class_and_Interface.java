@@ -22,11 +22,17 @@
         3. Tính trừu tượng:
 
             + Abstract class cung cấp mức độ trừu tượng cao hơn so với interface.
-              Abstract class có thể chứa cả phương thức trừu tượng và phương thức không trừu tượng.
+               - Abstract class có thể chứa cả phương thức trừu tượng và phương thức không trừu tượng.
+
+               *Syntax phương thức trừu tượng:
+
+                      public abstract returntype methodname(parameter list);
+
 
             + Interface, bạn chỉ có thể định nghĩa các phương thức chung và không thể sử dụng tính đa hình.
-              interface chỉ chứa phương thức trừu tượng. Tất cả các phương thức trong một interface đều phải
-              là phương thức trừu tượng, vì vậy không có phương thức không trừu tượng trong một interface.
+               - Interface chỉ chứa phương thức trừu tượng.
+              Tất cả các phương thức trong một interface đều phải là phương thức trừu tượng,
+              vì vậy không có phương thức không trừu tượng trong một interface.
 
 
         4. Độ rộng của trừu tượng:
@@ -35,6 +41,24 @@
             Bạn có thể sử dụng abstract class để tạo ra các phương thức và biến cụ thể và sử dụng tính đa hình.
 
             + Chỉ có thể sử dụng interface để định nghĩa các phương thức chung và không thể sử dụng tính
+
+
+
+    Phương thức trừu tượng trong interface và abstract class có một số sự khác biệt như sau:
+
+        + Tạo ra: Phương thức trừu tượng trong interface được tạo ra để định nghĩa một tập hợp các phương thức
+        mà một lớp cần phải thực hiện. Trong khi đó, phương thức trừu tượng trong abstract class được tạo ra
+        để định nghĩa một tập hợp các phương thức mà một lớp con cần phải thực hiện hoặc ghi đè.
+
+        + Sử dụng: Trong interface, một lớp có thể implement nhiều interface và phải thực hiện tất cả các phương
+        thức trừu tượng được định nghĩa trong các interface đó. Trong abstract class, một lớp con có thể kế
+        thừa từ chỉ một abstract class và ghi đè tất cả các phương thức trừu tượng được định nghĩa trong
+        abstract class đó.
+
+        + Ghi đè: Trong interface, tất cả các phương thức trừu tượng phải được ghi đè bởi lớp implement nó.
+        Trong abstract class, có thể có hoặc không có phương thức trừu tượng được ghi đè bởi lớp con kế thừa.
+        Nếu không có ph
+
 
 
 */

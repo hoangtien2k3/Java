@@ -8,6 +8,11 @@
         và truyền nó như một đối số cho các phương thức khác.
 
 
+    Tại sao sử dụng biểu thức Lambda:
+        + Cung cấp bản thực hiện cho interface Chức năng.
+        + Viết ít code hơn.
+
+
     syntax:
 
             (input parameters) -> expression
