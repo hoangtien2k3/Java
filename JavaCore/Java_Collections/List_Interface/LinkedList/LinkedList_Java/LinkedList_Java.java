@@ -2,7 +2,7 @@
     Lý Thuyết:
 
 *   => Lớp LinkedList trong java là một lớp kế thừa lớp AbstractSequentialList và triển khai của
-*      List, Queue Interface trong Collections Framework nên nó sẽ có một vài đặc điểm và
+*      List, Queue JavaCore.Interface trong Collections Framework nên nó sẽ có một vài đặc điểm và
 *      phương thức tương đồng với List, Queue.
 *
 *   => Lớp LinkedList trong java sử dụng cấu trúc danh sách liên kết kép Doubly để lưu trữ các phần tử.

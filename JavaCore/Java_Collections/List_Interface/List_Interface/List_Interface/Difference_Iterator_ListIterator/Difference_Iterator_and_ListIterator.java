@@ -44,7 +44,7 @@ public class Difference_Iterator_and_ListIterator {
         so_nguyen.add(58);
         System.out.println(so_nguyen);
 
-        // Sử dụng Iterator Interface trong Java
+        // Sử dụng Iterator JavaCore.Interface trong Java
         Iterator<Integer> phan_tu = so_nguyen.iterator();
         int i = phan_tu.next();
         System.out.println(i);
@@ -72,7 +72,7 @@ public class Difference_Iterator_and_ListIterator {
 
         System.out.println();
 
-        // ListIterator Interface trong Java
+        // ListIterator JavaCore.Interface trong Java
         ListIterator<String> itr = list.listIterator();
 
         System.out.println("Using ListIterator: Traversing the list in the forward direction ");

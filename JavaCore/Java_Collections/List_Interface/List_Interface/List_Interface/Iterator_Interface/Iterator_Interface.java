@@ -7,7 +7,7 @@
 *
 *
 *   Các phương thức của Iterator:
-        - Iterator Interface cung cấp 4 phương thức:
+        - Iterator JavaCore.Interface cung cấp 4 phương thức:
             + Phương thức hasNext(): Trả về true nếu tồn tại một phần tử trong tập hợp.
             + Phương thức next(): Trả về phần tử tiếp theo của tập hợp.
             + Phương thức remove(): Loại bỏ phần tử cuối cùng được trả về bởi next().
@@ -16,10 +16,10 @@
 *
 *
 *
-*   * Ưu điểm của Iterator Interface
-        + Nó không phải là một Interface kế thừa và có thể duyệt qua các phần tử của các tập hợp như ArrayList, HashMap, TreeSet, HashSet, và các tập hợp khác.
+*   * Ưu điểm của Iterator JavaCore.Interface
+        + Nó không phải là một JavaCore.Interface kế thừa và có thể duyệt qua các phần tử của các tập hợp như ArrayList, HashMap, TreeSet, HashSet, và các tập hợp khác.
         + Nó có thể được sử dụng cho bất kỳ tập hợp nào.
-        + Các thao tác đọc và xóa được hỗ trợ trong Interface này.
+        + Các thao tác đọc và xóa được hỗ trợ trong JavaCore.Interface này.
         + Tên phương thức của Iterator đơn giản và dễ sử dụng.
 
 
@@ -47,7 +47,7 @@ public class Iterator_Interface {
         System.out.println(so_nguyen); // in ra các phần tu của ArrayList
 
 
-        // Iterator Interface trong Java
+        // Iterator JavaCore.Interface trong Java
         Iterator<Integer> phan_tu = so_nguyen.iterator();
         System.out.println(phan_tu.next());  // in ra giá trị phần tử đầu tiên trong ArrayList
         phan_tu.remove();       // xóa bỏ phần tử đầu tiên trong danh sách.

@@ -25,7 +25,7 @@
     + int: Java int keyword is used to declare a variable that can hold a 32-bit signed integer.
     + interface: Java interface keyword is used to declare an interface. It can have only abstract methods.
     + long: Java long keyword is used to declare a variable that can hold a 64-bit integer.
-    + native: Java native keyword is used to specify that a method is implemented in native code using JNI (Java Native Interface).
+    + native: Java native keyword is used to specify that a method is implemented in native code using JNI (Java Native JavaCore.Interface).
     + new: Java new keyword is used to create new objects.
     + null: Java null keyword is used to indicate that a reference does not refer to anything. It removes the garbage value.
     + package: Java package keyword is used to declare a Java package that includes the classes.

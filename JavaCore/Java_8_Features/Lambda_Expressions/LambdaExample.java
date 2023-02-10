@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.function.Predicate;
 
-// Functional interface với nhiều hàm
+// Functional interface
 @FunctionalInterface
 interface EmployeeFilter {
     List<Employee> filter(List<Employee> employees, Predicate<Employee> condition);

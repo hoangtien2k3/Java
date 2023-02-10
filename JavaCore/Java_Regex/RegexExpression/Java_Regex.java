@@ -6,7 +6,7 @@
         các mô hình dùng để tìm kiếm hoặc thao tác chuỗi.
 
 *   Gói java.util.regex package:
-            + Interface MatchResult
+            + JavaCore.Interface MatchResult
             + Lớp Matcher
             + Lớp Pattern
             + Lớp PatternSyntaxException

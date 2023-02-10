@@ -27,7 +27,7 @@ class Main {
         shape.draw();
 
 
-        // Anonymous Inner Class với Interface
+        // Anonymous Inner Class với JavaCore.Interface
         Printable printable = new Printable() {
             @Override
             public void print() {

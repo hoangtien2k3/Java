@@ -1,5 +1,5 @@
 /*
-*   => Lớp HashMap trong java là một lớp kế thừa lớp AbstractMap và triển khai của Map Interface
+*   => Lớp HashMap trong java là một lớp kế thừa lớp AbstractMap và triển khai của Map JavaCore.Interface
 *      trong Collections Framework nên nó sẽ có một vài đặc điểm và phương thức tương đồng với Map.
 *
 *

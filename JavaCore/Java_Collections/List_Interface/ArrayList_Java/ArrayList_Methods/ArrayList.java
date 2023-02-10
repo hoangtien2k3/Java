@@ -1,6 +1,6 @@
 /*
 *   ArrayList:
-*       + Lớp ArrayList trong java là một lớp kế thừa lớp AbstractList và triển khai của List Interface
+*       + Lớp ArrayList trong java là một lớp kế thừa lớp AbstractList và triển khai của List JavaCore.Interface
 *       trong Collections Framework nên nó sẽ có một vài đặc điểm và phương thức tương đồng với List.
 *
 *       +  ArrayList được sử dụng như một mảng động để lưu trữ các phần tử.

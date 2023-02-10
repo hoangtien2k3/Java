@@ -1,7 +1,7 @@
 /*
 *   * Lớp HashSet trong Java:
 *       + HashSet trong java là một lớp kế thừa lớp AbstractSet và triển khai của
-*         Set Interface trong Collections Framework.
+*         Set JavaCore.Interface trong Collections Framework.
 *
 *       + HashSet được sử dụng để tạo một bộ sưu tập sử dụng bảng băm để lưu trữ.
 *         Nó kế thừa lớp AbstractSet và triển khai Set interface.

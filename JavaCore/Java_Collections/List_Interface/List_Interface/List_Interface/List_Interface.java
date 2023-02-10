@@ -1,7 +1,7 @@
 /*
 *
 *   * List_Interface:
-*       + List là một kiểu Collection và là Interface dành cho kiểu danh sách.
+*       + List là một kiểu Collection và là JavaCore.Interface dành cho kiểu danh sách.
 *       + ArrayList là một danh sách kiểu mảng, là một lớp thực thể (concrete) của List.
 *
 *
@@ -10,7 +10,7 @@
 *
 *
 *
-*   syntax List Interface:
+*   syntax List JavaCore.Interface:
 *
 *                   public interface List<E> extends Collection<E>
  *
@@ -19,7 +19,7 @@
 *
 *   Lợi ích:
 *       + Khi khai báo List thì các hàm có thể trả về cùng 1 kiểu dữ liệu.
-*       Nguyên nhân là do các lớp: ArrayList, Vector hay LinkedList đều implement từ Interface List
+*       Nguyên nhân là do các lớp: ArrayList, Vector hay LinkedList đều implement từ JavaCore.Interface List
 *           Ex:
 *               List <data-type> list1= new ArrayList();
                 List <data-type> list2 = new LinkedList();

@@ -10,7 +10,7 @@
 | [Anonymous Inner Class](https://www.javatpoint.com/anonymous-inner-class) | Một lớp được tạo ra để implements interface hoặc extends class. Tên của nó được quyết định bởi trình biên dịch java.. |
 | [Local Inner Class](https://www.javatpoint.com/local-inner-class)         | 	Một lớp được tạo ra bên trong một phương thức.                                                                       |
 | [Static Nested Class](https://www.javatpoint.com/static-nested-class)     | Một lớp static được tạo ra bên trong một lớp.                                                                         |
-| [Nested Interface](https://www.javatpoint.com/nested-interface)           | 	Một interface được tạo ra bên trong một lớp hoặc một interface.                                                      |
+| [Nested JavaCore.Interface](https://www.javatpoint.com/nested-interface)           | 	Một interface được tạo ra bên trong một lớp hoặc một interface.                                                      |
 
 
 
@@ -165,11 +165,11 @@ static class TestOuter1$Inner {
 ```
 
 
-## *Nested Interface* trong java:
+## *Nested JavaCore.Interface* trong java:
 
 Định nghĩa:
 
-- Nested Interface trong Java là một giao diện bên trong được khai báo trong một lớp hoặc giao diện bên ngoài. Nó có thể truy cập những biến static và các phương thức định nghĩa tại lớp hoặc giao diện bên ngoài.
+- Nested JavaCore.Interface trong Java là một giao diện bên trong được khai báo trong một lớp hoặc giao diện bên ngoài. Nó có thể truy cập những biến static và các phương thức định nghĩa tại lớp hoặc giao diện bên ngoài.
 
 ```java
 class OuterClass {

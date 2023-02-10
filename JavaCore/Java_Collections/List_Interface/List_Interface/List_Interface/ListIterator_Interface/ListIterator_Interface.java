@@ -1,5 +1,5 @@
 /*
-*   * ListIterator Interface:
+*   * ListIterator JavaCore.Interface:
 *
 *       syntax:
 *               public interface ListIterator<E> extends Iterator_Interface<E>
@@ -38,7 +38,7 @@ public class ListIterator_Interface {
 
         System.out.println();
 
-        // ListIterator Interface trong Java
+        // ListIterator JavaCore.Interface trong Java
         ListIterator<String> itr = list.listIterator();
 
         System.out.println("Using ListIterator: Traversing the list in the forward direction ");
