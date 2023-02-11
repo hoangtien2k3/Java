@@ -55,10 +55,7 @@
 */
 
 
-package JavaCore.Java_8_Features;
-
-import java.util.Arrays;
-import java.util.List;
+package JavaCore.Java_8.Lambda_Expression;
 
 interface Drawable {
     public void draw();

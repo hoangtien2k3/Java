@@ -1,4 +1,4 @@
-package JavaCore.Java_8_Features;
+package JavaCore.Java_8.Lambda_Expression;
 
 interface Operation {
     public int add(int a, int b);

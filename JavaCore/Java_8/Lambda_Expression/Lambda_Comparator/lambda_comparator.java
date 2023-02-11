@@ -1,4 +1,4 @@
-package JavaCore.Java_8_Features.Lambda_Comparator;
+package JavaCore.Java_8.Lambda_Expression.Lambda_Comparator;
 
 import java.util.ArrayList;
 import java.util.Collections;

@@ -1,4 +1,4 @@
-package JavaCore.Java_8_Features.Lambda_Expressions;
+package JavaCore.Java_8.Lambda_Expression.Lambda_Expressions;
 
 public class Employee {
     private int age;

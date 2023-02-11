@@ -10,12 +10,10 @@
 
 */
 
-package JavaCore.Java_8_Features.Lambda_Filter_Collection;
+package JavaCore.Java_8.Lambda_Expression.Lambda_Filter_Collection;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
-import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 class Employee {

@@ -1,6 +1,4 @@
-package JavaCore.Java_8_Features.Lambda_Thread;
-
-import JavaCore.Java_Multithreading.Create_Thread.Student;
+package JavaCore.Java_8.Lambda_Expression.Lambda_Thread;
 
 public class lambda_thread {
     public static void main(String[] args) {

@@ -1,7 +1,6 @@
-package JavaCore.Java_8_Features.Lambda_forEach;
+package JavaCore.Java_8.Lambda_Expression.Lambda_forEach;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 
 public class lambda_forEach {

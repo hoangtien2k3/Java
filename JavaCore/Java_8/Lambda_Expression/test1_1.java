@@ -1,4 +1,4 @@
-package JavaCore.Java_8_Features;
+package JavaCore.Java_8.Lambda_Expression;
 
 interface Sayable_5 {
     public String say(String word);
