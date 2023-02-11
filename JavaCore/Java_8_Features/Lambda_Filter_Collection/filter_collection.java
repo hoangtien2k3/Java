@@ -58,6 +58,10 @@ public class filter_collection {
 
 
 
+        /*
+        *   Sử dụng
+        *
+        **/
 
         System.out.println("\nEmployees with salary less 6000: ");
         Stream<Employee> filter_date = employees.stream().filter(p -> p.getSalary() < 6000);
@@ -75,7 +79,7 @@ public class filter_collection {
 //                .limit(2)
 //                .collect(Collectors.toList());
 
-        
+
 
 //        List<Integer> numbers = Arrays.asList(1, 2, 3, 4, 5, 6);
 //        int sum = numbers.stream()
