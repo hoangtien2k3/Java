@@ -12,7 +12,7 @@ abstract class Shape {
 }
 
 interface Printable {
-    void print();
+    public void print();
 }
 
 class Main {
@@ -35,6 +35,16 @@ class Main {
             }
         };
         printable.print();
+
+
+
+        // Lambda Expression trong java
+        Runnable shape1 = () -> {
+            System.out.println("Drawing a shape1");
+        };
+        Thread t1 = new Thread(shape1);
+        t1.start();
+
 
     }
 }

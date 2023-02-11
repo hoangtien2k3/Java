@@ -2,6 +2,7 @@ package JavaCore.Java_8_Features.Lambda_Expressions;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.function.Consumer;
 import java.util.function.Predicate;
 
 // Functional interface
@@ -39,6 +40,10 @@ public class LambdaExample {
             }
             return result;
         };
+
+
+        Consumer<Integer> consumer = (Integer a) -> System.out.println(a);
+        consumer.accept(100);
 
 
     }
