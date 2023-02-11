@@ -1,4 +1,4 @@
-## Luồng I/O trong Java
+## [*Luồng I/O trong Java - Viblo*](https://viblo.asia/p/luong-io-trong-java-vlZL990WLQK)
 Trong project này chúng ta sẽ cùng nhau làm quen với khái niệm luồng (streams) và file.
 - **Khái niệm luồng (stream)**: Một stream có thể được định nghĩa như là một dãy liên tục dữ liệu. Java định nghĩa 2 kiểu luồng: byte và ký tự (phiên bản gốc chỉ định nghĩa kiểu luồng byte, và sau đó luồng ký tự được thêm vào trong các phiên bản về sau). Luồng ký tự được thiết kế hỗ trợ việc nhập xuất dữ liệu kiểu ký tự (Unicode). Trong một vài trường hợp luồng ký tự sử dụng hiệu quả hơn luồng byte, nhưng ở mức hệ thống thì tất cả những xuất nhập đều phải qui về byte. Luồng ký tự hỗ trợ hiệu quả chỉ đối với việc quản lý, xử lý các ký tự.
 
