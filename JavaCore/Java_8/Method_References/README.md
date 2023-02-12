@@ -35,6 +35,17 @@ Các method trong Stream trong Java 8 là các hàm dùng để xử lý dữ li
 9. [average](): dùng để tính trung bình cộng của tất cả các phần tử trong stream.
 
 
+Chúng ta có thể kết hợp các method trên để tạo ra các biểu thức xử lý dữ liữ liệu phức tạp hơn. Ví dụ, chúng ta có thể sử dụng filter để lọc ra những phần tử của stream có tuổi lớn hơn 18, sau đó sử dụng map để chuyển đổi các phần tử của stream thành chuỗi với định dạng "tên, tuổi", cuối cùng sử dụng forEach để in ra màn hình các phần tử của stream mới:
+
+```java
+List<Person> people = ...;
+people.stream()
+      .filter(person -> person.getAge() > 18)
+      .map(person -> person.getName() + ", " + person.getAge())
+      .forEach(System.out::println);
+```
+
+
 
 
 
