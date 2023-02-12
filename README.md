@@ -1,4 +1,4 @@
-## hoangtien2k3qx1 - Java - 2021
+## [**Directory Java**](DIRECTORY.md) - 2021
 
 [![Build](https://github.com/TheAlgorithms/Java/actions/workflows/build.yml/badge.svg?branch=master)](https://github.com/hoangtien2k3qx1/Java)
 [![Discord chat](https://img.shields.io/discord/808045925556682782.svg?logo=discord&colorB=7289DA&style=flat-square)](https://discord.com/channels/1016568392267866162/1016568393068986463)
@@ -8,17 +8,12 @@
     <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.svg" height="150">
 </p>
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/TheAlgorithms/Java)
 
-### All algorithms are implemented in Java (for educational purposes)
-These implementations are intended for learning purposes. As such, they may be less efficient than the Java standard library.
-
-## Contribution Guidelines
-Please read our [Contribution Guidelines](CONTRIBUTING.md) before you contribute to this project.
+### All Project are implemented in Java (learn code).
+These implementations are intended for learning purposes. As such, project java may be less efficient than the Java standard library.
 
 ## Community Channel hoangtien2k3qx1
-We're on [Gitter](https://gitter.im/hoangtien2k3qx1)! Come join us.
+I was on [**Gitter**](https://gitter.im/hoangtien2k3qx1)! Come join.
 
 ## Full Project Java
-Our [directory](DIRECTORY.md) has the full list of applications.
-
+My [**Directory**](DIRECTORY.md) has the full list of applications.
