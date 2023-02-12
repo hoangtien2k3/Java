@@ -26,7 +26,7 @@ jobs:
         run: |
             import os
             from typing import Iterator
-            URL_BASE = "https://github.com/hoangtien2k3qx1/Java"
+            URL_BASE = "https://github.com/hoangtien2k3qx1/Java/blob/master"
             g_output = []
             def good_filepaths(top_dir: str = ".") -> Iterator[str]:
                 for dirpath, dirnames, filenames in os.walk(top_dir):
