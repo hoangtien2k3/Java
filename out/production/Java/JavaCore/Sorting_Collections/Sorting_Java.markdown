@@ -256,7 +256,7 @@ Giá trị trả về của 2 phương thức này:
 
 
 - ### 5.1 Implement Comparable và override phương thức compareTo(T obj):
-- Đối với cách này, chúng ta cần thay đổi lớp gốc (original class), tức là lớp của đối tượng so sánh phải chỉnh sửa và implement Comparable Interface để cài đặt bộ so sánh.
+- Đối với cách này, chúng ta cần thay đổi lớp gốc (original class), tức là lớp của đối tượng so sánh phải chỉnh sửa và implement Comparable JavaCore.Interface để cài đặt bộ so sánh.
 
 ```java
 public class Student implements Comparable<Student> {
@@ -315,7 +315,7 @@ public class SortedObjectExample1 {
 ```
 
 ### 5.2. Implement Comparator và override phương thức compare(T obj1, T obj2):
-Đối với cách này không làm thay đổi lớp gốc (original class). Chúng ta có thể tạo một class mới, sử dụng Anonymous function, inner class hoặc sử dụng lamda, implement Comparator Interface để cài đặt bộ so sánh.
+Đối với cách này không làm thay đổi lớp gốc (original class). Chúng ta có thể tạo một class mới, sử dụng Anonymous function, inner class hoặc sử dụng lamda, implement Comparator JavaCore.Interface để cài đặt bộ so sánh.
 
 ```java
 import java.util.Arrays;
