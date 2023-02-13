@@ -1,4 +1,29 @@
 
+## Java 8
+  * Lambda Expression
+    * Lambda Comparator
+      * [lambda comparator](https://github.com/hoangtien2k3qx1/Java/blob/master/Java_8/Lambda_Expression/Lambda_Comparator/lambda_comparator.java)
+    * [Lambda Expression](https://github.com/hoangtien2k3qx1/Java/blob/master/Java_8/Lambda_Expression/Lambda_Expression.java)
+    * Lambda Expressions
+      * [Employee](https://github.com/hoangtien2k3qx1/Java/blob/master/Java_8/Lambda_Expression/Lambda_Expressions/Employee.java)
+      * [LambdaExample](https://github.com/hoangtien2k3qx1/Java/blob/master/Java_8/Lambda_Expression/Lambda_Expressions/LambdaExample.java)
+    * Lambda Filter Collection
+      * [filter collection](https://github.com/hoangtien2k3qx1/Java/blob/master/Java_8/Lambda_Expression/Lambda_Filter_Collection/filter_collection.java)
+    * Lambda forEach
+      * [lambda forEach](https://github.com/hoangtien2k3qx1/Java/blob/master/Java_8/Lambda_Expression/Lambda_forEach/lambda_forEach.java)
+    * Lambda Thread
+      * [lambda thread](https://github.com/hoangtien2k3qx1/Java/blob/master/Java_8/Lambda_Expression/Lambda_Thread/lambda_thread.java)
+    * [test1 1](https://github.com/hoangtien2k3qx1/Java/blob/master/Java_8/Lambda_Expression/test1_1.java)
+    * [test2 2](https://github.com/hoangtien2k3qx1/Java/blob/master/Java_8/Lambda_Expression/test2_2.java)
+  * Method References
+    * [Reference constructor](https://github.com/hoangtien2k3qx1/Java/blob/master/Java_8/Method_References/Reference_constructor.java)
+    * [Reference method instance](https://github.com/hoangtien2k3qx1/Java/blob/master/Java_8/Method_References/Reference_method_instance.java)
+    * [Reference static method](https://github.com/hoangtien2k3qx1/Java/blob/master/Java_8/Method_References/Reference_static_method.java)
+  * Stream API
+    * [stream api](https://github.com/hoangtien2k3qx1/Java/blob/master/Java_8/Stream_API/stream_api.java)
+  * Stream Filter
+    * [Stream Filter](https://github.com/hoangtien2k3qx1/Java/blob/master/Java_8/Stream_Filter/Stream_Filter.java)
+
 ## Java OOP
   * Java Object Class
     * Binding Java
@@ -147,7 +172,7 @@
     * Wrapper Class
       * [Wrapper Class](https://github.com/hoangtien2k3qx1/Java/blob/master/Java_OOP/Java_OOPs_Misc/Wrapper_Class/Wrapper_Class.java)
 
-## JavaCore
+## src.main.java.JavaCore
   * [Abstract class and Interface](https://github.com/hoangtien2k3qx1/Java/blob/master/JavaCore/Abstract_class_and_Interface.java)
   * [Convert in to String](https://github.com/hoangtien2k3qx1/Java/blob/master/JavaCore/Convert_in_to_String.java)
   * Exception Handling
@@ -182,30 +207,6 @@
   * [Function interface](https://github.com/hoangtien2k3qx1/Java/blob/master/JavaCore/Function_interface.java)
   * [Interface](https://github.com/hoangtien2k3qx1/Java/blob/master/JavaCore/Interface.java)
   * [Interface and Function interface](https://github.com/hoangtien2k3qx1/Java/blob/master/JavaCore/Interface_and_Function_interface.java)
-  * Java 8
-    * Lambda Expression
-      * Lambda Comparator
-        * [lambda comparator](https://github.com/hoangtien2k3qx1/Java/blob/master/JavaCore/Java_8/Lambda_Expression/Lambda_Comparator/lambda_comparator.java)
-      * [Lambda Expression](https://github.com/hoangtien2k3qx1/Java/blob/master/JavaCore/Java_8/Lambda_Expression/Lambda_Expression.java)
-      * Lambda Expressions
-        * [Employee](https://github.com/hoangtien2k3qx1/Java/blob/master/JavaCore/Java_8/Lambda_Expression/Lambda_Expressions/Employee.java)
-        * [LambdaExample](https://github.com/hoangtien2k3qx1/Java/blob/master/JavaCore/Java_8/Lambda_Expression/Lambda_Expressions/LambdaExample.java)
-      * Lambda Filter Collection
-        * [filter collection](https://github.com/hoangtien2k3qx1/Java/blob/master/JavaCore/Java_8/Lambda_Expression/Lambda_Filter_Collection/filter_collection.java)
-      * Lambda forEach
-        * [lambda forEach](https://github.com/hoangtien2k3qx1/Java/blob/master/JavaCore/Java_8/Lambda_Expression/Lambda_forEach/lambda_forEach.java)
-      * Lambda Thread
-        * [lambda thread](https://github.com/hoangtien2k3qx1/Java/blob/master/JavaCore/Java_8/Lambda_Expression/Lambda_Thread/lambda_thread.java)
-      * [test1 1](https://github.com/hoangtien2k3qx1/Java/blob/master/JavaCore/Java_8/Lambda_Expression/test1_1.java)
-      * [test2 2](https://github.com/hoangtien2k3qx1/Java/blob/master/JavaCore/Java_8/Lambda_Expression/test2_2.java)
-    * Method References
-      * [Reference constructor](https://github.com/hoangtien2k3qx1/Java/blob/master/JavaCore/Java_8/Method_References/Reference_constructor.java)
-      * [Reference method instance](https://github.com/hoangtien2k3qx1/Java/blob/master/JavaCore/Java_8/Method_References/Reference_method_instance.java)
-      * [Reference static method](https://github.com/hoangtien2k3qx1/Java/blob/master/JavaCore/Java_8/Method_References/Reference_static_method.java)
-    * Stream API
-      * [stream api](https://github.com/hoangtien2k3qx1/Java/blob/master/JavaCore/Java_8/Stream_API/stream_api.java)
-    * Stream Filter
-      * [Stream Filter](https://github.com/hoangtien2k3qx1/Java/blob/master/JavaCore/Java_8/Stream_Filter/Stream_Filter.java)
   * Java Array
     * [Array 1](https://github.com/hoangtien2k3qx1/Java/blob/master/JavaCore/Java_Array/Array_1.java)
     * [Array 2](https://github.com/hoangtien2k3qx1/Java/blob/master/JavaCore/Java_Array/Array_2.java)
