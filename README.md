@@ -12,8 +12,5 @@
 ### All Project are implemented in Java (learn code).
 These implementations are intended for learning purposes. As such, project java may be less efficient than the Java standard library.
 
-## Community Channel hoangtien2k3qx1
-I was on [**Gitter**](https://gitter.im/hoangtien2k3qx1)! Come join.
-
 ## Full Project Java
 My [**Directory**](DIRECTORY.md) has the full list of applications.
