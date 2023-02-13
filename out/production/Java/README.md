@@ -1,4 +1,4 @@
-## [*Directory Java*](DIRECTORY.md) - 2023 update
+## [*Directory Java*](DIRECTORY.md)
 
 [![Build](https://github.com/hoangtien2k3qx1/Java/actions/workflows/build.yml/badge.svg?branch=master)](https://github.com/hoangtien2k3qx1/Java/blob/main/DIRECTORY.md)
 [![Discord chat](https://img.shields.io/discord/808045925556682782.svg?logo=discord&colorB=7289DA&style=flat-square)](https://discord.com/channels/1016568392267866162/1016568393068986463)
