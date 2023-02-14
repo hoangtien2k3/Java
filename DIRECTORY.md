@@ -22,6 +22,8 @@
           * [Reference constructor](https://github.com/hoangtien2k3qx1/Java/blob/master/src/main/java/Java_8/Method_References/Reference_constructor.java)
           * [Reference method instance](https://github.com/hoangtien2k3qx1/Java/blob/master/src/main/java/Java_8/Method_References/Reference_method_instance.java)
           * [Reference static method](https://github.com/hoangtien2k3qx1/Java/blob/master/src/main/java/Java_8/Method_References/Reference_static_method.java)
+        * Optional Java
+          * [Optional Java](https://github.com/hoangtien2k3qx1/Java/blob/master/src/main/java/Java_8/Optional_Java/Optional_Java.java)
         * Stream API
           * [stream api](https://github.com/hoangtien2k3qx1/Java/blob/master/src/main/java/Java_8/Stream_API/stream_api.java)
         * Stream Filter
