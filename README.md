@@ -1,7 +1,8 @@
 <p align="center">
-    <img src="https://media.giphy.com/media/217dIo4SbvpRzhpQMl/giphy.gif" height="150">
+    <img src="https://1.bp.blogspot.com/-ek6ihOfv4e8/Xdj3ubNoEAI/AAAAAABHMvs/ps91pFjoZPAXcqnCG0pPCNq5y2b1-H47wCLcBGAsYHQ/s1600/AW4045541_00.gif" height="150">
     <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.svg" height="150">
     <img src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" height="150">
+    <img src="https://2.bp.blogspot.com/-gphUOIAs3Fw/Xdj35REehzI/AAAAAABHMxM/EYOFvtkYx0A1AQo839vnfNnj0ORDf7SywCLcBGAsYHQ/s1600/AW4045541_23.gif" height="150">
 </p>
 
 ## [*Full Directory*](DIRECTORY.md) Project Java
