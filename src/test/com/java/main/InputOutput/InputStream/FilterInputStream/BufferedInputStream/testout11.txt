@@ -1,0 +1,14 @@
+class MyProFile():
+
+  def __init__(self):
+    self.name = "Hoang Anh Tien";
+    self.username = "hoangtien2k3";
+    self.location = "Ha Noi, VietNam";
+    self.web = "https://hoangtien2k3.blogspot.com/";
+    self.blog = "https://hoangtien2k3.github.io"
+
+  def __str__(self):
+    return self.name
+
+if __name__ == '__main__':
+    me = MyProFile()
