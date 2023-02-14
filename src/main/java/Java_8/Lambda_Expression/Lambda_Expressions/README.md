@@ -13,8 +13,6 @@
 
 6. [**sum**](): tính toán tổng của các phần tử trong Stream. Phương thức này chỉ có thể được sử dụng cho các Stream của các kiểu dữ liệu nguyên (int, long, double).
 
-7. [**reduce**](): tính toán trên các phần tử trong Stream để trả về một giá trị duy nhất.
-
 
 
 ### Sử dụng Stream API có một số lợi ích so với việc không sử dụng:

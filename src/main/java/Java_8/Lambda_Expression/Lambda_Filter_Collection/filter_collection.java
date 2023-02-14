@@ -13,7 +13,10 @@
 package src.main.java.Java_8.Lambda_Expression.Lambda_Filter_Collection;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
+import java.util.Optional;
+import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 class Employee {
@@ -49,6 +52,7 @@ public class filter_collection {
         employees.add(new Employee("Emily Brown", 35, 7000));
 
 
+        //
         System.out.println("Employees with salary greater than 5000: ");
         employees.stream()
                 .filter(e -> e.getSalary() > 5000)
@@ -56,11 +60,7 @@ public class filter_collection {
 
 
 
-        /*
-        *   Sử dụng
-        *
-        **/
-
+        //
         System.out.println("\nEmployees with salary less 6000: ");
         Stream<Employee> filter_date = employees.stream().filter(p -> p.getSalary() < 6000);
         filter_date.forEach(p -> {
@@ -70,22 +70,46 @@ public class filter_collection {
 
 
 
-//        List<Integer> numbers1 = Arrays.asList(1, 2, 3, 4, 5, 6, 2, 4, 6);
-//        List<Integer> evenNumbers = numbers1.stream()
-//                .filter(x -> x % 2 == 0)
-//                .distinct()
-//                .limit(2)
-//                .collect(Collectors.toList());
+        // Optional findFirst trong Java Optional
+        System.out.println("\nOptional 'findFirst' trong Java Optional");
+        Optional<Employee> salaryOptional = employees.stream().filter(p -> p.getSalary() > 8000).findFirst();
+        if (salaryOptional.isPresent()) {
+            System.out.println(salaryOptional.get().toString());
+        } else {
+            System.out.println("Gia trị la NULL nên không thể tính toán với giá trị đó !!!");
+        }
 
 
 
-//        List<Integer> numbers = Arrays.asList(1, 2, 3, 4, 5, 6);
-//        int sum = numbers.stream()
-//                .filter(x -> x % 2 == 0)
-//                .mapToInt(x -> x)
-//                .sum();
-//
-//        System.out.println("Sum: " + sum);
+
+
+        //
+        List<Integer> numbers1 = Arrays.asList(1, 2, 3, 4, 5, 6, 2, 4, 6);
+
+
+        List<Integer> evenNumbers = numbers1.stream()
+                .filter(x -> x % 2 == 0)
+                .distinct()     // lấy ra giá trị duy nhất trong danh sách. không lấy giá trị trùng lặp
+                .limit(2)
+                .collect(Collectors.toList());
+
+        System.out.println("\nGía trị duy nhất % 2 trong list: " + evenNumbers);
+
+
+
+
+        int sum = numbers1.stream()
+                .filter(x -> x % 2 == 0)    // lọc ra cách phần tử (x % 2) trong danh sách.
+                .mapToInt(x -> x) // chuyển đổi các phần tử của Stream thành kiểu số nguyên Int
+                .sum();     // tính tổng tất cả các phần tử tong danh sách
+        System.out.println("Sum: " + sum);
+
+
+
+
+        Integer sum1 = numbers1.stream().reduce((a, b) -> a + b).get();
+        System.out.println("\nSum Full: " + sum1);
+
 
 
     }
