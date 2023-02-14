@@ -1,5 +1,7 @@
 <p align="center">
     <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.svg" height="150">
+    <img src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" height="150">
+   
 </p>
 
 ## [*Full Directory*](DIRECTORY.md) Project Java
