@@ -8,9 +8,9 @@
     <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.svg" height="150">
 </p>
 
+## Full Project Java
+My [**Directory**](DIRECTORY.md) has the full list of applications.
 
 ### All Project are implemented in Java (learn code).
 These implementations are intended for learning purposes. As such, project java may be less efficient than the Java standard library.
 
-## Full Project Java
-My [**Directory**](DIRECTORY.md) has the full list of applications.
