@@ -1,28 +1,25 @@
-## How to contribute?
+## Làm thế nào để đóng góp ?
 
-### Did you find a bug?
+### Bạn đã tìm thấy một lỗi?
 
-**Ensure the bug was not already reported** by searching on GitHub under [Project Issues](https://github.com/hoangtien2k3qx1/Java/issues).
-  - If it is mentioned in the issues and you want to fix it, [fork](https://github.com/hoangtien2k3qx1/Java/fork) the repository and submit your implementation in a pull request. The project maintainers will evaluate it.
-  - If the bug is **NOT** mentioned in the issues, [open a new issue](https://github.com/hoangtien2k3qx1/Java/issues/new). Be sure to include a **title**, a clear **description** and a **test case** demonstrating the expected behavior that is not occurring.
+**Đảm bảo lỗi chưa được báo cáo** bằng cách tìm kiếm trên GitHub bên dưới [Project Issues](https://github.com/hoangtien2k3qx1/Java/issues).
+  - Nếu nó được đề cập trong vấn đề và bạn muốn khắc phục nó, hãy [fork](https://github.com/hoangtien2k3qx1/Java/fork) kho lưu trữ và gửi triển khai của bạn trong yêu cầu kéo. Những người duy trì dự án sẽ đánh giá nó.
+  - Nếu lỗi **KHÔNG** được đề cập trong các vấn đề, [open a new issue](https://github.com/hoangtien2k3qx1/Java/issues/new). Đảm bảo bao gồm **tiêu đề**, **mô tả** rõ ràng và **trường hợp thử nghiệm** thể hiện hành vi dự kiến sẽ không xảy ra.
 
-NOTE: *Please avoid opening issues asking to be "assigned" to a particular algorithm. This merely creates unnecessary noise for maintainers. Instead, please submit your implementation in a pull request and project maintainers will evaluate it.*
-
-
-### Do you want to contribute to the documentation?
-   - [Fork](https://github.com/hoangtien2k3qx1/Java/fork) the repository and make necessary changes.
-   - Create a pull request.
-   - It will be put under review for approval.
-   - If approved, the requested changes will be merged to the repository.
-
-### Do you want to add a new feature?
-
-- [Open a new issue](https://github.com/hoangtien2k3qx1/Java/issues/new).
-- Be sure to include a **title**, a clear **description** and a **test case** demonstrating the new feature you want to add to the project.
+LƯU Ý: *Vui lòng tránh mở các sự cố yêu cầu được "gán" cho một thuật toán cụ thể. Điều này chỉ đơn thuần tạo ra tiếng ồn không cần thiết cho người bảo trì. Thay vào đó, vui lòng gửi triển khai của bạn trong yêu cầu kéo và những người bảo trì dự án sẽ đánh giá nó.*
 
 
-### Do you have questions about the source code?
+### Bạn có muốn đóng góp tài liệu không?
+   - [Fork](https://github.com/hoangtien2k3qx1/Java/fork) kho lưu trữ và thực hiện các thay đổi cần thiết.
+   - Tạo yêu cầu kéo.
+   - Nó sẽ được đưa vào xem xét để phê duyệt.
+   - Nếu được chấp thuận, các thay đổi được yêu cầu sẽ được hợp nhất vào kho lưu trữ.
 
-- Ask any question about how to use the repository in the [**open a new issue**](https://github.com/hoangtien2k3qx1/Java/issues/new)
+### Bạn có muốn thêm tính năng mới không?
 
-:+1::tada: That's all you need to know about the process now it's your turn to help us improve the repository, thank you again! :+1::tada:
+- [open a new issue](https://github.com/hoangtien2k3qx1/Java/issues/new).
+- Đảm bảo bao gồm **tiêu đề**, **mô tả** rõ ràng và **trường hợp thử nghiệm** thể hiện tính năng mới mà bạn muốn thêm vào dự án.
+
+### Bạn có thắc mắc về mã nguồn không?
+
+:+1::tada: - Đặt bất kỳ câu hỏi nào về cách sử dụng kho lưu trữ trong [**open a new issue**](https://github.com/hoangtien2k3qx1/Java/issues/new)
