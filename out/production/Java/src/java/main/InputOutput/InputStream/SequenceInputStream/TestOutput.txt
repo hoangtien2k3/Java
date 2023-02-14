@@ -1,0 +1,1 @@
+Welcome to Java Input Output Stream.It is the example of SequenceInputStream.
