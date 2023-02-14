@@ -1,6 +1,0 @@
-
-### transient trong java
-
-```java
-
-```
