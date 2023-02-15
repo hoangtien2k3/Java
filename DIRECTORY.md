@@ -285,9 +285,6 @@
         * [Data Types](https://github.com/hoangtien2k3qx1/Java/blob/main/src/java/JavaCore/Tutorial/Data_Types.java)
         * [Java Keyworlds](https://github.com/hoangtien2k3qx1/Java/blob/main/src/java/JavaCore/Tutorial/Java_Keyworlds.java)
         * [Java Variables](https://github.com/hoangtien2k3qx1/Java/blob/main/src/java/JavaCore/Tutorial/Java_Variables.java)
-    * JavaSwing
-      * [HelloSwing](https://github.com/hoangtien2k3qx1/Java/blob/main/src/java/JavaSwing/HelloSwing.java)
-      * [HelloWorld](https://github.com/hoangtien2k3qx1/Java/blob/main/src/java/JavaSwing/HelloWorld.java)
     * main
       * Collections
         * CollectionInterface
@@ -768,3 +765,11 @@
           * [Map Java](https://github.com/hoangtien2k3qx1/Java/blob/main/src/java/main/Sorting/Sort/Map_Java.java)
           * [Set Java](https://github.com/hoangtien2k3qx1/Java/blob/main/src/java/main/Sorting/Sort/Set_Java.java)
         * [sortingCollection](https://github.com/hoangtien2k3qx1/Java/blob/main/src/java/main/Sorting/sortingCollection.java)
+    * Swing
+      * [AWTExample](https://github.com/hoangtien2k3qx1/Java/blob/main/src/java/Swing/AWTExample.java)
+      * [AWTExample2](https://github.com/hoangtien2k3qx1/Java/blob/main/src/java/Swing/AWTExample2.java)
+      * [HelloSwing](https://github.com/hoangtien2k3qx1/Java/blob/main/src/java/Swing/HelloSwing.java)
+      * [HelloWorld](https://github.com/hoangtien2k3qx1/Java/blob/main/src/java/Swing/HelloWorld.java)
+      * JavaSwing
+        * [Swing1](https://github.com/hoangtien2k3qx1/Java/blob/main/src/java/Swing/JavaSwing/Swing1.java)
+        * [Swing2](https://github.com/hoangtien2k3qx1/Java/blob/main/src/java/Swing/JavaSwing/Swing2.java)
