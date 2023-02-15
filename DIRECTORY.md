@@ -772,10 +772,12 @@
       * [HelloWorld](https://github.com/hoangtien2k3qx1/Java/blob/main/src/java/Swing/HelloWorld.java)
       * JavaSwing
         * JButton
-          * [NewJFrame](https://github.com/hoangtien2k3qx1/Java/blob/main/src/java/Swing/JavaSwing/JButton/NewJFrame.java)
           * [SwingJButton](https://github.com/hoangtien2k3qx1/Java/blob/main/src/java/Swing/JavaSwing/JButton/SwingJButton.java)
           * [SwingJButton2](https://github.com/hoangtien2k3qx1/Java/blob/main/src/java/Swing/JavaSwing/JButton/SwingJButton2.java)
           * [test](https://github.com/hoangtien2k3qx1/Java/blob/main/src/java/Swing/JavaSwing/JButton/test.java)
+        * JFrame
+          * [Java JFrame](https://github.com/hoangtien2k3qx1/Java/blob/main/src/java/Swing/JavaSwing/JFrame/Java_JFrame.java)
+          * [test](https://github.com/hoangtien2k3qx1/Java/blob/main/src/java/Swing/JavaSwing/JFrame/test.java)
         * JLabel
           * [Java JLabel](https://github.com/hoangtien2k3qx1/Java/blob/main/src/java/Swing/JavaSwing/JLabel/Java_JLabel.java)
         * [Swing1](https://github.com/hoangtien2k3qx1/Java/blob/main/src/java/Swing/JavaSwing/Swing1.java)
