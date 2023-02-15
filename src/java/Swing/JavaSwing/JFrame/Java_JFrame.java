@@ -69,7 +69,7 @@ public class Java_JFrame {
                 super.windowClosing(e);
             }
         });
-        
+
 
         frame.setVisible(true); // setVisible dùng để hiển thị frame đó ra màn hình
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE ); // EXIT_ON_CLOSE: Sau frame đóng thì chương trình sẽ tắt theo.

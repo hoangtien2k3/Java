@@ -21,8 +21,7 @@ public class Java_JLabel {
     }
 
     public static void main(String[] args) {
-        Java_JLabel swingJlabelExam1 = new Java_JLabel();
-        swingJlabelExam1.showLabelDemo();
+        new Java_JLabel().showLabelDemo();
     }
 
     private void prepareGUI() {
@@ -31,11 +30,11 @@ public class Java_JLabel {
         mainFrame.setLayout(new GridLayout(3, 1));
         mainFrame.addWindowListener(new WindowAdapter() {
             public void windowClosing(WindowEvent windowEvent) {
-                System.exit(0);
+                System.exit(0); // thoát khỏi chương trình.
             }
         });
-        headerLabel = new JLabel("", JLabel.CENTER);
-        statusLabel = new JLabel("", JLabel.CENTER);
+        headerLabel = new JLabel("Hi", JLabel.CENTER);
+        statusLabel = new JLabel("hi", JLabel.CENTER);
         statusLabel.setSize(350, 100);
         controlPanel = new JPanel();
         controlPanel.setLayout(new FlowLayout());
