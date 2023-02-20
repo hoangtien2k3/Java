@@ -479,6 +479,9 @@
         * [Timestamp to Date](https://github.com/hoangtien2k3qx1/Java/blob/main/src/java/JavaCore/Conversion/Timestamp_to_Date.java)
       * [Convert in to String](https://github.com/hoangtien2k3qx1/Java/blob/main/src/java/JavaCore/Convert_in_to_String.java)
       * [Function interface](https://github.com/hoangtien2k3qx1/Java/blob/main/src/java/JavaCore/Function_interface.java)
+      * Generic
+        * [GenericWildcardExample](https://github.com/hoangtien2k3qx1/Java/blob/main/src/java/JavaCore/Generic/GenericWildcardExample.java)
+        * [WildcardDemo](https://github.com/hoangtien2k3qx1/Java/blob/main/src/java/JavaCore/Generic/WildcardDemo.java)
       * [Interface](https://github.com/hoangtien2k3qx1/Java/blob/main/src/java/JavaCore/Interface.java)
       * [Interface and Function interface](https://github.com/hoangtien2k3qx1/Java/blob/main/src/java/JavaCore/Interface_and_Function_interface.java)
       * Math
