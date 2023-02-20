@@ -64,7 +64,7 @@ public class Main {
 
         Dimension dimension = Toolkit.getDefaultToolkit().getScreenSize();
 
-        JFrame jFrame = new JFrame("Game co ca ro 9 o");
+        JFrame jFrame = new JFrame("Game XO");
         jFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         jFrame.setResizable(true);
         jFrame.add(jPanel);

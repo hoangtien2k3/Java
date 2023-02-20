@@ -219,7 +219,7 @@ public class Board extends JPanel {
                 cell.setW(w);
                 cell.setH(h);
 
-                Color color = k % 2 == 0 ? Color.BLUE : Color.RED;
+                Color color = k % 2 == 0 ? Color.BLUE : Color.YELLOW;
                 graphic2d.setColor(color);
                 graphic2d.fillRect(x,y, w, h);
 
