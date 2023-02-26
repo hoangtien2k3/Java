@@ -1,6 +1,9 @@
 <p align="center">
     <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.svg" height="150">
+<<<<<<< HEAD
     <img src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" height="150">
+=======
+>>>>>>> main
     <img src="https://2.bp.blogspot.com/-gphUOIAs3Fw/Xdj35REehzI/AAAAAABHMxM/EYOFvtkYx0A1AQo839vnfNnj0ORDf7SywCLcBGAsYHQ/s1600/AW4045541_23.gif" height="150">
 </p>
 
@@ -16,3 +19,5 @@ My [**Directory**](DIRECTORY.md) has the full list of applications.
 ### All Project are implemented in Java (learn code).
 These implementations are intended for learning purposes. As such, project java may be less efficient than the Java standard library.
 
+
+![](https://raw.githubusercontent.com/s4kibs4mi/java-developer-roadmap/master/java-developer-roadmap.png)

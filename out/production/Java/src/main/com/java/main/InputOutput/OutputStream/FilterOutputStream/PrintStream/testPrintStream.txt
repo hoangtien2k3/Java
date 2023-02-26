@@ -1,3 +1,0 @@
-2016
-Hello Java
-Welcome to Java
