@@ -28,8 +28,6 @@ public class LambdaExample {
             }
         };
 
-
-
         // Sử dụng biểu thức lambda
         EmployeeFilter lambdaFilter = (employees, condition) -> {
             List<Employee> result = new ArrayList<>();
@@ -41,13 +39,9 @@ public class LambdaExample {
             return result;
         };
 
-
         Consumer<Integer> consumer = (Integer a) -> System.out.println(a);
         consumer.accept(100);
-
-
     }
-
 }
 
 
