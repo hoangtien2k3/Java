@@ -4,6 +4,23 @@ import java.util.*;
 
 public class WildcardDemo {
 
+    // giới hạn kiểu dữ liệu phải là lớp con của một lớp cụ thể.
+    public static double sum(List<? extends Number> list) {
+        double sum = 0;
+        for (Number n : list) {
+            sum += n.doubleValue();
+        }
+        return sum;
+    }
+
+    // giới hạn kiểu dữ liệu phải là lớp cha của một lớp cụ thể.
+    public static void printList(List<? super Integer> list) {
+        for (Object o : list) {
+            System.out.print(o + " ");
+        }
+        System.out.println();
+    }
+
     public static void main(String[] args) {
         List<Integer> intList = new ArrayList<Integer>();
         intList.add(1);
@@ -23,22 +40,5 @@ public class WildcardDemo {
         objectList.add(3.0);
         System.out.println("List of objects: ");
         printList(objectList);
-    }
-
-    // giới hạn kiểu dữ liệu phải là lớp con của một lớp cụ thể.
-    public static double sum(List<? extends Number> list) {
-        double sum = 0;
-        for (Number n : list) {
-            sum += n.doubleValue();
-        }
-        return sum;
-    }
-
-    // giới hạn kiểu dữ liệu phải là lớp cha của một lớp cụ thể.
-    public static void printList(List<? super Integer> list) {
-        for (Object o : list) {
-            System.out.print(o + " ");
-        }
-        System.out.println();
     }
 }
