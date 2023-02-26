@@ -328,8 +328,6 @@
           * [Map Java](https://github.com/hoangtien2k3qx1/Java/blob/main/src/java/Collection/Sorting/Sort/Map_Java.java)
           * [Set Java](https://github.com/hoangtien2k3qx1/Java/blob/main/src/java/Collection/Sorting/Sort/Set_Java.java)
         * [Sorting Collection](https://github.com/hoangtien2k3qx1/Java/blob/main/src/java/Collection/Sorting/Sorting_Collection.java)
-      * Stream API
-        * [stream](https://github.com/hoangtien2k3qx1/Java/blob/main/src/java/Collection/Stream_API/stream.java)
     * ExceptionHandling
       * Exceptions
         * [CheckException](https://github.com/hoangtien2k3qx1/Java/blob/main/src/java/ExceptionHandling/Exceptions/CheckException.java)
@@ -428,6 +426,7 @@
       * Optional
         * [Optional Java](https://github.com/hoangtien2k3qx1/Java/blob/main/src/java/Java8/Optional/Optional_Java.java)
       * StreamAPI
+        * [ConvertToStreamExample](https://github.com/hoangtien2k3qx1/Java/blob/main/src/java/Java8/StreamAPI/ConvertToStreamExample.java)
         * [stream api](https://github.com/hoangtien2k3qx1/Java/blob/main/src/java/Java8/StreamAPI/stream_api.java)
       * StreamFilter
         * [Stream Filter](https://github.com/hoangtien2k3qx1/Java/blob/main/src/java/Java8/StreamFilter/Stream_Filter.java)
