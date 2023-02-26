@@ -22,8 +22,6 @@ class Person {
     public String getName() {
         return name;
     }
-
-
 }
 
 public class Optional_Java {
