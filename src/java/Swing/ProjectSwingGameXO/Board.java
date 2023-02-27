@@ -12,8 +12,6 @@ import javax.sound.sampled.Clip;
 public class Board extends JPanel {
     private static final int N = 3;
     private static final int M = 3;
-
-
     public static final int ST_DRAW = 0;
     public static final int ST_WIN = 1;
     public static final int ST_NORMAL = 2;

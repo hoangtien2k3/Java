@@ -21,7 +21,6 @@ public class ConvertToStreamExample {
         testStream2.forEach(x -> System.out.println(x));
     }
 
-
     // Generate Streams from Collections
     public static void streamFromCollection() {
         List<String> items = new ArrayList<>();

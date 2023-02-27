@@ -64,15 +64,13 @@ public class stream_api {
 
 
         // Sum by using Collectors Methods
-        double totalPrice3 = productsList
-                .stream()
+        double totalPrice3 = productsList.stream()
                 .collect(Collectors.summingDouble(product -> product.price));
         System.out.println("Sum price: " + totalPrice3);
 
 
         // Find Max and Min Product Price
-        Product productA = productsList
-                .stream()
+        Product productA = productsList.stream()
                 .max((product1, product2) -> product1.price > product2.price ? 1 : -1)
                 .get();
         System.out.println("\nMax price: " + productA.price);

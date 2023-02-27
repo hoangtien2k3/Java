@@ -37,17 +37,13 @@ public class variable_hiding {
         SubClass sub = new SubClass();
         System.out.println(((SuperClass)sub).x); // up-casting
 
-
         SuperClass a = new SubClass();
 //        System.out.println(a.x); // vẫn truy xuất đến thuộc tính lớp cha
         System.out.println(((SubClass)a).x); // down-casting
 
-
         ((SubClass)a).display(); // ghi đè thì nó sẽ truy cập tới phương thức của lớp con
 
-
         ((SubClass)a).print_Display_SuperClass(); // dùng phương thức và supper để truy cập tới Display của lớp cha
-
 
     }
 }

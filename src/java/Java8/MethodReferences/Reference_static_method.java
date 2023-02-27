@@ -23,7 +23,8 @@ public class Reference_static_method {
         // map nhận lambda expression
         numbers.stream()
                 .map(num -> MathUtil.powerOfTwo(num))
-                .forEach(System.out::println);
+                .forEach(e -> System.out.println(e));
+//                .forEach(System.out::println);
 
     }
 }

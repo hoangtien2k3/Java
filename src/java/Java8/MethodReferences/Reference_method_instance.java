@@ -16,5 +16,6 @@ public class Reference_method_instance {
         strings.stream()
                 .map(stringUtil::length)
                 .forEach(System.out::println);
+
     }
 }

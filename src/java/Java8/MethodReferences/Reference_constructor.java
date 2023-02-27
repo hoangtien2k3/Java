@@ -24,8 +24,5 @@ public class Reference_constructor {
                 .map(name -> new Person(name, 0))
                 .forEach(person -> System.out.println(person.getName()));
 
-        
-
-
     }
 }
