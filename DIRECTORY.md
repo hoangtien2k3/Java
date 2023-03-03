@@ -10,6 +10,18 @@
         * [JSP](https://github.com/hoangtien2k3qx1/Java/blob/main/src/backend/AdvanceJava/JSP/JSP.java)
       * Servlets
         * [Servlets](https://github.com/hoangtien2k3qx1/Java/blob/main/src/backend/AdvanceJava/Servlets/Servlets.java)
+    * QuanLyBanHang
+      * project
+        * javacore
+          * [App](https://github.com/hoangtien2k3qx1/Java/blob/main/src/backend/QuanLyBanHang/project/javacore/App.java)
+          * orders
+            * models
+              * [OrderDetail](https://github.com/hoangtien2k3qx1/Java/blob/main/src/backend/QuanLyBanHang/project/javacore/orders/models/OrderDetail.java)
+              * [Orders](https://github.com/hoangtien2k3qx1/Java/blob/main/src/backend/QuanLyBanHang/project/javacore/orders/models/Orders.java)
+              * [Product](https://github.com/hoangtien2k3qx1/Java/blob/main/src/backend/QuanLyBanHang/project/javacore/orders/models/Product.java)
+            * services
+              * [OrderService](https://github.com/hoangtien2k3qx1/Java/blob/main/src/backend/QuanLyBanHang/project/javacore/orders/services/OrderService.java)
+              * [ProductService](https://github.com/hoangtien2k3qx1/Java/blob/main/src/backend/QuanLyBanHang/project/javacore/orders/services/ProductService.java)
   * java
     * Collection
       * CollectionInterface
