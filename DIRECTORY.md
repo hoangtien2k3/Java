@@ -13,8 +13,9 @@
     * QuanLyBanHang
       * project
         * javacore
-          * [App](https://github.com/hoangtien2k3qx1/Java/blob/main/src/backend/QuanLyBanHang/project/javacore/App.java)
           * orders
+            * App
+              * [App](https://github.com/hoangtien2k3qx1/Java/blob/main/src/backend/QuanLyBanHang/project/javacore/orders/App/App.java)
             * models
               * [OrderDetail](https://github.com/hoangtien2k3qx1/Java/blob/main/src/backend/QuanLyBanHang/project/javacore/orders/models/OrderDetail.java)
               * [Orders](https://github.com/hoangtien2k3qx1/Java/blob/main/src/backend/QuanLyBanHang/project/javacore/orders/models/Orders.java)
