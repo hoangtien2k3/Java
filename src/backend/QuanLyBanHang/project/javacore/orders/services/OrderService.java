@@ -1,6 +1,6 @@
 package src.backend.QuanLyBanHang.project.javacore.orders.services;
 
-import src.backend.QuanLyBanHang.project.javacore.App;
+import src.backend.QuanLyBanHang.project.javacore.orders.App.App;
 import src.backend.QuanLyBanHang.project.javacore.orders.models.OrderDetail;
 import src.backend.QuanLyBanHang.project.javacore.orders.models.Orders;
 import src.backend.QuanLyBanHang.project.javacore.orders.models.Product;
