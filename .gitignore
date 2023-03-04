@@ -1,3 +1,11 @@
+# git rm -r --cached ( file.txt / Project )
+# Ex: git rm -r --cached out/
+
+# Node: 
+##        git rm: lệnh để xóa một tập tin hoặc thư mục khỏi Git.
+##        git rm: lệnh để xóa một tập tin hoặc thư mục khỏi Git.
+##        --cached: tùy chọn để giữ lại nội dung của thư mục (hoặc tập tin) trong thư mục làm việc của bạn, nhưng không giữ lại trong Git. 
+
 # Compiled class file
 *.class
 
