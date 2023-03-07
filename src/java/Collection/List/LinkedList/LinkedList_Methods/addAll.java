@@ -25,5 +25,6 @@ public class addAll {
         // Add all elements of mammals in animals
         animals.addAll(mammals); // addAll tất cả phần tủ từ mammals sang animals
         System.out.println("Animals: " + animals);
+
     }
 }
