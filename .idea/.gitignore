@@ -8,11 +8,8 @@
 ##                  trong thư mục làm việc của bạn, nhưng không giữ lại trong Git.
 
 *.class
-
 *.log
-
 *.ctxt
-
 .mtj.tmp/
 
 out/
