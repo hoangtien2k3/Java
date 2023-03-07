@@ -14,12 +14,17 @@ public class Reference_static_method {
         List<Double> numbers = Arrays.asList(1.0, 2.0, 3.0, 4.0);
 
         // map nhận method reference
-        numbers.stream().map(MathUtil::powerOfTwo).forEach(System.out::println);
+        numbers.stream()
+                .map(MathUtil::powerOfTwo)
+                .forEach(System.out::println);
 
         System.out.println("\nCách Khác");
 
         // map nhận lambda expression
-        numbers.stream().map(num -> MathUtil.powerOfTwo(num)).forEach(System.out::println);
+        numbers.stream()
+                .map(num -> MathUtil.powerOfTwo(num))
+                .forEach(e -> System.out.println(e));
+//                .forEach(System.out::println);
 
     }
 }

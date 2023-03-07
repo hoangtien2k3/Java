@@ -6,14 +6,10 @@
 ### [*Full Directory*](DIRECTORY.md) / [**RoadMap-Java**](https://github.com/hoangtien2k3qx1/Java/blob/main/src/java/ProgrammingBook/roadmap-java.pdf)
 
 [![Build](https://github.com/hoangtien2k3qx1/Java/actions/workflows/build.yml/badge.svg?branch=master)](https://github.com/hoangtien2k3qx1/Java/blob/main/DIRECTORY.md)
-[![Discord chat](https://img.shields.io/discord/808045925556682782.svg?logo=discord&colorB=7289DA&style=flat-square)](https://discord.com/channels/1016568392267866162/1016568393068986463)
+[![Discord chat](https://img.shields.io/discord/808045925556682782.svg?logo=discord&colorB=7289DA&style=flat-square)](https://discord.gg/cFAkCXVQ)
 [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/hoangtien2k3qx1)
-
 
 My [**Directory**](DIRECTORY.md) has the full list of applications. [**Roadmap-Backend**](https://github.com/hoangtien2k3qx1/Java/blob/main/src/java/ProgrammingBook/roadmap-backend.pdf)
 
 ### All Project are implemented in Java (learn code).
 These implementations are intended for learning purposes. As such, project java may be less efficient than the Java standard library.
-
-
-

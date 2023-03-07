@@ -20,9 +20,11 @@ public class Call_By_Value {
         data = data + 100;  // chỉ có thể thay đổi được giá trị của biến cục bộ.
                             // Không thể thay đổi giá trị của biến toàn cục.
     }
+
     void ChangerValue(Call_By_Value op) {
         op.data = op.data + 100; // sẽ thay đổi được giá trị.
     }
+
     public static void main(String[] args) {
         Call_By_Value op = new Call_By_Value();
 

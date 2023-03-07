@@ -13,7 +13,7 @@ public class lambda_forEach {
 
 
         // cách viết chi tiết, tường minh hơn
-        list.forEach((element) -> {
+        list.forEach(element-> {
             System.out.print(element + "\t");
         });
 
