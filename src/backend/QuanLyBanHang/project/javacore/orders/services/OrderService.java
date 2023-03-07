@@ -66,9 +66,7 @@ public class OrderService {
                 orderDetail.setQuantity(quantity);
 
                 orders.getOrderDetails().add(orderDetail);
-
             }
-
             App.ORDERS.add(orders);
 
         } catch(InputMismatchException ei) {

@@ -5,8 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="faedc056-e68a-483d-bcf1-dd3425de15ba" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/backend/QuanLyBanHang/project/javacore/orders/App/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/backend/QuanLyBanHang/project/javacore/orders/App/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/backend/QuanLyBanHang/project/javacore/orders/models/Orders.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/backend/QuanLyBanHang/project/javacore/orders/models/Orders.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/backend/QuanLyBanHang/project/javacore/orders/services/OrderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/backend/QuanLyBanHang/project/javacore/orders/services/OrderService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/backend/QuanLyBanHang/project/javacore/orders/services/ProductService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/backend/QuanLyBanHang/project/javacore/orders/services/ProductService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/backend/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/backend/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/JavaCore/OOP/JavaOOPsMisc/Call_By_Value/Call_By_Value.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/JavaCore/OOP/JavaOOPsMisc/Call_By_Value/Call_By_Value.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

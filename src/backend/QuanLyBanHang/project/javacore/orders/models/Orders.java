@@ -9,7 +9,6 @@ public class Orders {
     private String phone;
     private String email;
 
-
     public List<OrderDetail> orderDetails = new ArrayList<>();
 
     public Orders(Integer id, String customerName, String phone, String email) {

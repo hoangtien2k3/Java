@@ -22,8 +22,8 @@ public class App {
         System.out.println("5. Mua hàng");
         System.out.println("6. Hiển thị danh sách đơn hàng");
         System.out.println("7. Thoát");
-
     }
+
     public static void main(String[] args) {
         int function = 0;
 

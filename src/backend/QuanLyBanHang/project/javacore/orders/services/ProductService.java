@@ -61,10 +61,10 @@ public class ProductService {
     public void update() {
         Scanner input = new Scanner(System.in);
 
-
         try {
             System.out.println("Nhập mã: ");
             Integer id = input.nextInt();
+
             Product product = null;
 
             for(Product p : App.PRODUCTS) {
