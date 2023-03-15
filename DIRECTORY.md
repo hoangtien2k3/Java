@@ -427,6 +427,9 @@
         * FilerWriter
           * [FileWriterExample](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/java/InputOutput/Writer/FilerWriter/FileWriterExample.java)
     * Java8
+      * DateAndTime
+        * LocalTime
+          * [localtime](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/java/Java8/DateAndTime/LocalTime/localtime.java)
       * LambdaExpression
         * Lambda Comparator
           * [lambda comparator](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/java/Java8/LambdaExpression/Lambda_Comparator/lambda_comparator.java)
@@ -718,6 +721,7 @@
       * [Call run method](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/java/Multithreading/Call_run_method.java)
       * CreateThread
         * [Student](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/java/Multithreading/CreateThread/Student.java)
+        * [test](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/java/Multithreading/CreateThread/test.java)
         * [Thread1](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/java/Multithreading/CreateThread/Thread1.java)
         * [Thread2](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/java/Multithreading/CreateThread/Thread2.java)
       * DaemonThread
@@ -738,6 +742,10 @@
         * [Sleep a Thread](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/java/Multithreading/SleepThread/Sleep_a_Thread.java)
         * [Sleep Thread](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/java/Multithreading/SleepThread/Sleep_Thread.java)
       * [Start a Thread twice](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/java/Multithreading/Start_a_Thread_twice.java)
+      * ThreadExample
+        * [Main](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/java/Multithreading/ThreadExample/Main.java)
+        * [ThreadOne](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/java/Multithreading/ThreadExample/ThreadOne.java)
+        * [ThreadTwo](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/java/Multithreading/ThreadExample/ThreadTwo.java)
       * ThreadGroup
         * [Thread group](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/java/Multithreading/ThreadGroup/Thread_group.java)
       * ThreadPool
