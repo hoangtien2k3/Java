@@ -1,15 +1,15 @@
 
 ## src
   * backend
-    * AdvanceJava
+    * Advance
       * HibernateFramework
-        * [HibernateFramework](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/backend/AdvanceJava/HibernateFramework/HibernateFramework.java)
+        * [HibernateFramework](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/backend/Advance/HibernateFramework/HibernateFramework.java)
       * JDBC
-        * [JDBC](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/backend/AdvanceJava/JDBC/JDBC.java)
+        * [JDBC](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/backend/Advance/JDBC/JDBC.java)
       * JSP
-        * [JSP](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/backend/AdvanceJava/JSP/JSP.java)
+        * [JSP](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/backend/Advance/JSP/JSP.java)
       * Servlets
-        * [Servlets](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/backend/AdvanceJava/Servlets/Servlets.java)
+        * [Servlets](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/backend/Advance/Servlets/Servlets.java)
     * QuanLyBanHang
       * project
         * javacore
