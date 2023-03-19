@@ -6,7 +6,7 @@
 
 package src.java.Multithreading.CreateThread;
 
-public class Thread1{
+public class Thread1 {
     public static void main(String args[]) {
         Runnable task1 = new Student(20, "A");
         Thread t1 = new Thread(task1);

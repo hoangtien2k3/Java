@@ -2,7 +2,6 @@
 ## Java Virtual Machine (JVM)
 Virtual Machine (hay còn gọi là máy ảo) là một instance của máy vật lý, phân tích và thực thi bytecode.
 
-![JVM](https://user-images.githubusercontent.com/122768076/221397122-f10e9017-8309-4a8c-8c6e-69cd00fb9c59.png)
 
 ### JVM làm việc như thế nào?
 Theo mô hình kiến trúc trên, JVM được chia thành 3 hệ thống con chính :

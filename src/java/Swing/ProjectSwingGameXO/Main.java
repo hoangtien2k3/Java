@@ -8,7 +8,6 @@ import java.util.Timer;
 import java.util.TimerTask;
 
 public class Main {
-
     private static int sec = 0;
     private static Timer timer = new Timer();
     private static JLabel lblTime;

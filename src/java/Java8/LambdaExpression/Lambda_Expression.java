@@ -86,8 +86,5 @@ public class Lambda_Expression {
         Drawable d3 = () -> System.out.println("Drawing with Lambda: " + width);
 
 
-
-
-
     }
 }

@@ -11,5 +11,13 @@ public class test1_1 {
             return word;
         };
         System.out.println(s.say("Meo meo!"));
+
+
+        Sayable_5 str = index -> {
+            return index;
+        };
+        System.out.println(str.say("Hoàng Tiến"));
+
+
     }
 }
