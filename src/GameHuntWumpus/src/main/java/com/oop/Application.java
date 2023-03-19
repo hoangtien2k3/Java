@@ -1,8 +1,7 @@
-package src.GameBasic.src.main.java.com.oop;
+package src.GameHuntWumpus.src.main.java.com.oop;
 
-import src.GameBasic.src.main.java.com.oop.validator.GameUtils;
-import src.GameBasic.src.main.java.com.oop.game.*;
-import src.GameBasic.src.main.java.com.oop.model.*;
+import src.GameHuntWumpus.src.main.java.com.oop.validator.GameUtils;
+import src.GameHuntWumpus.src.main.java.com.oop.game.*;
 
 import java.util.Scanner;
 

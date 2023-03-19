@@ -1,8 +1,8 @@
-package src.GameBasic.src.main.java.com.oop.game;
+package src.GameHuntWumpus.src.main.java.com.oop.game;
 
-import src.GameBasic.src.main.java.com.oop.model.Hunter;
-import src.GameBasic.src.main.java.com.oop.model.Monster;
-import src.GameBasic.src.main.java.com.oop.model.Location;
+import src.GameHuntWumpus.src.main.java.com.oop.model.Hunter;
+import src.GameHuntWumpus.src.main.java.com.oop.model.Monster;
+import src.GameHuntWumpus.src.main.java.com.oop.model.Location;
 
 import java.util.List;
 

@@ -1,7 +1,7 @@
-package src.GameBasic.src.main.java.com.oop.validator;
+package src.GameHuntWumpus.src.main.java.com.oop.validator;
 
-import src.GameBasic.src.main.java.com.oop.GameConfig;
-import src.GameBasic.src.main.java.com.oop.model.Location;
+import src.GameHuntWumpus.src.main.java.com.oop.GameConfig;
+import src.GameHuntWumpus.src.main.java.com.oop.model.Location;
 import java.util.Random;
 import java.util.Collection;
 

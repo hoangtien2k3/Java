@@ -1,9 +1,9 @@
-package src.GameBasic.src.main.java.com.oop.game;
+package src.GameHuntWumpus.src.main.java.com.oop.game;
 
-import src.GameBasic.src.main.java.com.oop.GameConfig;
-import src.GameBasic.src.main.java.com.oop.model.*;
-import src.GameBasic.src.main.java.com.oop.model.Character;
-import src.GameBasic.src.main.java.com.oop.validator.GameUtils;
+import src.GameHuntWumpus.src.main.java.com.oop.GameConfig;
+import src.GameHuntWumpus.src.main.java.com.oop.model.*;
+import src.GameHuntWumpus.src.main.java.com.oop.model.Character;
+import src.GameHuntWumpus.src.main.java.com.oop.validator.GameUtils;
 
 import java.util.ArrayList;
 import java.util.List;
