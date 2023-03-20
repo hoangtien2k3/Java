@@ -5,25 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="faedc056-e68a-483d-bcf1-dd3425de15ba" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/game/GameSnake/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/game/GameSnake/Graphics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/game/GameSnake/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GameHuntWumpus/src/main/java/com/oop/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/GameHuntWumpus/src/main/java/com/oop/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GameHuntWumpus/src/main/java/com/oop/GameConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/GameHuntWumpus/src/main/java/com/oop/GameConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GameHuntWumpus/src/main/java/com/oop/characteristic/Attackable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/GameHuntWumpus/src/main/java/com/oop/characteristic/Attackable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GameHuntWumpus/src/main/java/com/oop/characteristic/Damaged.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/GameHuntWumpus/src/main/java/com/oop/characteristic/Damaged.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GameHuntWumpus/src/main/java/com/oop/characteristic/Moable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/GameHuntWumpus/src/main/java/com/oop/characteristic/Moable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GameHuntWumpus/src/main/java/com/oop/game/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/GameHuntWumpus/src/main/java/com/oop/game/Game.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GameHuntWumpus/src/main/java/com/oop/game/HunterActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/GameHuntWumpus/src/main/java/com/oop/game/HunterActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GameHuntWumpus/src/main/java/com/oop/game/HunterActivityWatcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/GameHuntWumpus/src/main/java/com/oop/game/HunterActivityWatcher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GameHuntWumpus/src/main/java/com/oop/model/Bear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/GameHuntWumpus/src/main/java/com/oop/model/Bear.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GameHuntWumpus/src/main/java/com/oop/model/Character.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/GameHuntWumpus/src/main/java/com/oop/model/Character.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GameHuntWumpus/src/main/java/com/oop/model/Hunter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/GameHuntWumpus/src/main/java/com/oop/model/Hunter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GameHuntWumpus/src/main/java/com/oop/model/Location.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/GameHuntWumpus/src/main/java/com/oop/model/Location.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GameHuntWumpus/src/main/java/com/oop/model/Monster.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/GameHuntWumpus/src/main/java/com/oop/model/Monster.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GameHuntWumpus/src/main/java/com/oop/model/RobinHood.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/GameHuntWumpus/src/main/java/com/oop/model/RobinHood.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GameHuntWumpus/src/main/java/com/oop/validator/GameUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/GameHuntWumpus/src/main/java/com/oop/validator/GameUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/game/FlappyBirds/SourcePackages/gamesframework/AFrameOnImage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/FlappyBirds/SourcePackages/gamesframework/AFrameOnImage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/game/FlappyBirds/SourcePackages/gamesframework/Animation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/FlappyBirds/SourcePackages/gamesframework/Animation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/game/FlappyBirds/SourcePackages/gamesframework/GameScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/FlappyBirds/SourcePackages/gamesframework/GameScreen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/game/FlappyBirds/SourcePackages/gamesframework/GameThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/FlappyBirds/SourcePackages/gamesframework/GameThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/game/FlappyBirds/SourcePackages/gamesframework/Objects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/FlappyBirds/SourcePackages/gamesframework/Objects.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/game/FlappyBirds/SourcePackages/gamesframework/QueueList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/FlappyBirds/SourcePackages/gamesframework/QueueList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/game/FlappyBirds/SourcePackages/gamesframework/SoundPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/FlappyBirds/SourcePackages/gamesframework/SoundPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/game/GameSnake/Game.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/game/GameSnake/Graphics.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/game/GameSnake/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,11 +75,11 @@
       </method>
     </configuration>
     <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.game.GameHuntWumpus.src.main.java.com.oop.Application" />
+      <option name="MAIN_CLASS_NAME" value="GameHuntWumpus.src.main.java.com.oop.Application" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.game.GameHuntWumpus.src.main.java.com.oop.*" />
+          <option name="PATTERN" value="GameHuntWumpus.src.main.java.com.oop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
