@@ -1,9 +1,9 @@
-package src.GameHuntWumpus.src.main.java.com.oop.game;
+package src.game.GameHuntWumpus.src.main.java.com.oop.game;
 
-import src.GameHuntWumpus.src.main.java.com.oop.GameConfig;
-import src.GameHuntWumpus.src.main.java.com.oop.model.*;
-import src.GameHuntWumpus.src.main.java.com.oop.model.Character;
-import src.GameHuntWumpus.src.main.java.com.oop.validator.GameUtils;
+import src.game.GameHuntWumpus.src.main.java.com.oop.GameConfig;
+import src.game.GameHuntWumpus.src.main.java.com.oop.model.*;
+import src.game.GameHuntWumpus.src.main.java.com.oop.model.Character;
+import src.game.GameHuntWumpus.src.main.java.com.oop.validator.GameUtils;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -98,7 +98,10 @@ public class Game {
             return hero.name();
         }
 
-        final var monsterOpt = monster.stream().filter(monster -> monster.getLocation().equals(currentLocation)).findFirst();
+        final var monsterOpt = monster
+                .stream()
+                .filter(monster -> monster.getLocation().equals(currentLocation))
+                .findFirst();
         if (monsterOpt.isEmpty()) {
             return "-";
         }

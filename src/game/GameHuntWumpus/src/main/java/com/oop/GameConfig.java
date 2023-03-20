@@ -1,4 +1,4 @@
-package src.GameHuntWumpus.src.main.java.com.oop;
+package src.game.GameHuntWumpus.src.main.java.com.oop;
 
 public class GameConfig {
     private final int numberOfMonsters;

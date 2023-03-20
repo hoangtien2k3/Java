@@ -5,22 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="faedc056-e68a-483d-bcf1-dd3425de15ba" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/game/GameSnake/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/GameSnake/Graphics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/GameSnake/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GameBasic/src/main/java/com/oop/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GameHuntWumpus/src/main/java/com/oop/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GameBasic/src/main/java/com/oop/GameConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GameHuntWumpus/src/main/java/com/oop/GameConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GameBasic/src/main/java/com/oop/characteristic/Attackable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GameHuntWumpus/src/main/java/com/oop/characteristic/Attackable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GameBasic/src/main/java/com/oop/characteristic/Damaged.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GameHuntWumpus/src/main/java/com/oop/characteristic/Damaged.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GameBasic/src/main/java/com/oop/characteristic/Moable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GameHuntWumpus/src/main/java/com/oop/characteristic/Moable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GameBasic/src/main/java/com/oop/game/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GameHuntWumpus/src/main/java/com/oop/game/Game.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GameBasic/src/main/java/com/oop/game/HunterActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GameHuntWumpus/src/main/java/com/oop/game/HunterActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GameBasic/src/main/java/com/oop/game/HunterActivityWatcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GameHuntWumpus/src/main/java/com/oop/game/HunterActivityWatcher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GameBasic/src/main/java/com/oop/model/Bear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GameHuntWumpus/src/main/java/com/oop/model/Bear.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GameBasic/src/main/java/com/oop/model/Character.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GameHuntWumpus/src/main/java/com/oop/model/Character.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GameBasic/src/main/java/com/oop/model/Hunter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GameHuntWumpus/src/main/java/com/oop/model/Hunter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GameBasic/src/main/java/com/oop/model/Location.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GameHuntWumpus/src/main/java/com/oop/model/Location.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GameBasic/src/main/java/com/oop/model/Monster.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GameHuntWumpus/src/main/java/com/oop/model/Monster.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GameBasic/src/main/java/com/oop/model/RobinHood.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GameHuntWumpus/src/main/java/com/oop/model/RobinHood.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GameBasic/src/main/java/com/oop/validator/GameUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GameHuntWumpus/src/main/java/com/oop/validator/GameUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GameHuntWumpus/src/main/java/com/oop/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/GameHuntWumpus/src/main/java/com/oop/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GameHuntWumpus/src/main/java/com/oop/GameConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/GameHuntWumpus/src/main/java/com/oop/GameConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GameHuntWumpus/src/main/java/com/oop/characteristic/Attackable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/GameHuntWumpus/src/main/java/com/oop/characteristic/Attackable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GameHuntWumpus/src/main/java/com/oop/characteristic/Damaged.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/GameHuntWumpus/src/main/java/com/oop/characteristic/Damaged.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GameHuntWumpus/src/main/java/com/oop/characteristic/Moable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/GameHuntWumpus/src/main/java/com/oop/characteristic/Moable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GameHuntWumpus/src/main/java/com/oop/game/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/GameHuntWumpus/src/main/java/com/oop/game/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GameHuntWumpus/src/main/java/com/oop/game/HunterActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/GameHuntWumpus/src/main/java/com/oop/game/HunterActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GameHuntWumpus/src/main/java/com/oop/game/HunterActivityWatcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/GameHuntWumpus/src/main/java/com/oop/game/HunterActivityWatcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GameHuntWumpus/src/main/java/com/oop/model/Bear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/GameHuntWumpus/src/main/java/com/oop/model/Bear.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GameHuntWumpus/src/main/java/com/oop/model/Character.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/GameHuntWumpus/src/main/java/com/oop/model/Character.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GameHuntWumpus/src/main/java/com/oop/model/Hunter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/GameHuntWumpus/src/main/java/com/oop/model/Hunter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GameHuntWumpus/src/main/java/com/oop/model/Location.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/GameHuntWumpus/src/main/java/com/oop/model/Location.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GameHuntWumpus/src/main/java/com/oop/model/Monster.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/GameHuntWumpus/src/main/java/com/oop/model/Monster.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GameHuntWumpus/src/main/java/com/oop/model/RobinHood.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/GameHuntWumpus/src/main/java/com/oop/model/RobinHood.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GameHuntWumpus/src/main/java/com/oop/validator/GameUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/GameHuntWumpus/src/main/java/com/oop/validator/GameUtils.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,8 +33,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -53,7 +56,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Code Java/tutorials&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Code Java/rockman&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.CommitDialog&quot;
   }
 }</component>
@@ -61,8 +64,11 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Code Java\Java-Backend-Developer\src\backend\JDBC\src\lib" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Code Java\Java-Backend-Developer\src\game\FlappyBirds\SourcePackages" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.Application">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="AWTExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.java.Swing.AWTExample" />
       <module name="Java" />
@@ -77,11 +83,11 @@
       </method>
     </configuration>
     <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.GameHuntWumpus.src.main.java.com.oop.Application" />
+      <option name="MAIN_CLASS_NAME" value="src.game.GameHuntWumpus.src.main.java.com.oop.Application" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.GameHuntWumpus.src.main.java.com.oop.*" />
+          <option name="PATTERN" value="src.game.GameHuntWumpus.src.main.java.com.oop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Reference_constructor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.java.Java8.MethodReferences.Reference_constructor" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.game.GameSnake.Main" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.java.Java8.MethodReferences.*" />
+          <option name="PATTERN" value="src.game.GameSnake.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Application" />
         <item itemvalue="Application.AWTExample" />
         <item itemvalue="Application.SwingJButton" />
         <item itemvalue="Application.src.java.Swing.ProjectSwingGameXO.Main" />
-        <item itemvalue="Application.Reference_constructor" />
       </list>
     </recent_temporary>
   </component>

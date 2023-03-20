@@ -1,7 +1,7 @@
-package src.GameHuntWumpus.src.main.java.com.oop;
+package src.game.GameHuntWumpus.src.main.java.com.oop;
 
-import src.GameHuntWumpus.src.main.java.com.oop.validator.GameUtils;
-import src.GameHuntWumpus.src.main.java.com.oop.game.*;
+import src.game.GameHuntWumpus.src.main.java.com.oop.validator.GameUtils;
+import src.game.GameHuntWumpus.src.main.java.com.oop.game.*;
 
 import java.util.Scanner;
 

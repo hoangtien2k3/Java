@@ -1,7 +1,7 @@
-package src.GameHuntWumpus.src.main.java.com.oop.model;
+package src.game.GameHuntWumpus.src.main.java.com.oop.model;
 
-import src.GameHuntWumpus.src.main.java.com.oop.characteristic.Damaged;
-import src.GameHuntWumpus.src.main.java.com.oop.validator.GameUtils;
+import src.game.GameHuntWumpus.src.main.java.com.oop.characteristic.Damaged;
+import src.game.GameHuntWumpus.src.main.java.com.oop.validator.GameUtils;
 
 public class RobinHood extends Hunter {
     private int bulletCount;

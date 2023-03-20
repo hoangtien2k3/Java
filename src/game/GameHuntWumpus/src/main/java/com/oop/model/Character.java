@@ -1,4 +1,4 @@
-package src.GameHuntWumpus.src.main.java.com.oop.model;
+package src.game.GameHuntWumpus.src.main.java.com.oop.model;
 
 public abstract class Character {
     private final Location location;
