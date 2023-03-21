@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package FlappyBirds.SourcePackages.gamesframework;
+package GameFlappyBirds.SourceFlappyBirds.gamesframework;
 
 import java.awt.Graphics2D;
 import java.awt.event.KeyEvent;
@@ -50,7 +50,6 @@ public abstract class GameScreen extends JFrame implements KeyListener{
     }
     
     private void InitScreen(){
-        
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         this.addKeyListener(this);
         setSize(CUSTOM_WIDTH, CUSTOM_HEIGHT);

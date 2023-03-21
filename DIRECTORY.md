@@ -24,7 +24,7 @@
               * [OrderService](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/backend/QuanLyBanHang/project/javacore/orders/services/OrderService.java)
               * [ProductService](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/backend/QuanLyBanHang/project/javacore/orders/services/ProductService.java)
   * game
-    * FlappyBirds
+    * GameFlappyBirds
       * SourcePackages
         * gamesframework
           * [AFrameOnImage](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/game/FlappyBirds/SourcePackages/gamesframework/AFrameOnImage.java)
