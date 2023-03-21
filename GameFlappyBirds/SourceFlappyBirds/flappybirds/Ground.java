@@ -41,5 +41,4 @@ public class Ground {
     public int getYGround() {
         return y1;
     }
-
 }

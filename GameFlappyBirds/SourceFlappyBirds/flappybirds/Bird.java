@@ -1,8 +1,10 @@
 package GameFlappyBirds.SourceFlappyBirds.flappybirds;
 
 import GameFlappyBirds.SourceFlappyBirds.gamesframework.Objects;
+import GameFlappyBirds.SourceFlappyBirds.gamesframework.SoundPlayer;
 
 import java.awt.*;
+import java.io.File;
 
 public class Bird extends Objects {
     private float vt = 0; // tốc độ rơi của con chim hiện tại set cho nó bằng 0;
@@ -10,12 +12,10 @@ public class Bird extends Objects {
     private Rectangle rectangle; // hình chữ nhật.
     private boolean isLive = true; // kiểm tra con chim còn sống hay không
 
-
     public Bird(int x, int y, int w, int h) {
         super(x, y, w, h);
         rectangle = new Rectangle(x, y, w, h);
     }
-
 
     public void setLive(boolean check){
         isLive = check;
@@ -47,8 +47,6 @@ public class Bird extends Objects {
         } else {
             isFlying = false; // thì nó không bay lên thôi.
         }
-
-
     }
 
     public void fly() {
@@ -58,6 +56,4 @@ public class Bird extends Objects {
     public boolean getIsFlying() {
         return isFlying;
     }
-
-
 }

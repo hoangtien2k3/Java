@@ -5,27 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="faedc056-e68a-483d-bcf1-dd3425de15ba" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/GameFlappyBirds/Image/bird_sprite.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GameFlappyBirds/Image/chimney.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GameFlappyBirds/Image/chimney2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GameFlappyBirds/Image/fall.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GameFlappyBirds/Image/fap.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GameFlappyBirds/Image/getpoint.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GameFlappyBirds/Image/ground.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GameFlappyBirds/SourceFlappyBirds/flappybirds/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GameFlappyBirds/SourceFlappyBirds/flappybirds/Chimney.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GameFlappyBirds/SourceFlappyBirds/flappybirds/ChimneyGround.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GameFlappyBirds/SourceFlappyBirds/flappybirds/FlappyBirds.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GameFlappyBirds/SourceFlappyBirds/flappybirds/Ground.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DIRECTORY.md" beforeDir="false" afterPath="$PROJECT_DIR$/DIRECTORY.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlappyBirds/SourcePackages/gamesframework/AFrameOnImage.java" beforeDir="false" afterPath="$PROJECT_DIR$/GameFlappyBirds/SourceFlappyBirds/gamesframework/AFrameOnImage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlappyBirds/SourcePackages/gamesframework/Animation.java" beforeDir="false" afterPath="$PROJECT_DIR$/GameFlappyBirds/SourceFlappyBirds/gamesframework/Animation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlappyBirds/SourcePackages/gamesframework/GameScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/GameFlappyBirds/SourceFlappyBirds/gamesframework/GameScreen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlappyBirds/SourcePackages/gamesframework/GameThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/GameFlappyBirds/SourceFlappyBirds/gamesframework/GameThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlappyBirds/SourcePackages/gamesframework/Objects.java" beforeDir="false" afterPath="$PROJECT_DIR$/GameFlappyBirds/SourceFlappyBirds/gamesframework/Objects.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlappyBirds/SourcePackages/gamesframework/QueueList.java" beforeDir="false" afterPath="$PROJECT_DIR$/GameFlappyBirds/SourceFlappyBirds/gamesframework/QueueList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlappyBirds/SourcePackages/gamesframework/SoundPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/GameFlappyBirds/SourceFlappyBirds/gamesframework/SoundPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameFlappyBirds/Image/fall.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameFlappyBirds/Image/fap.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameFlappyBirds/Image/getpoint.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameFlappyBirds/SourceFlappyBirds/flappybirds/Bird.java" beforeDir="false" afterPath="$PROJECT_DIR$/GameFlappyBirds/SourceFlappyBirds/flappybirds/Bird.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameFlappyBirds/SourceFlappyBirds/flappybirds/Chimney.java" beforeDir="false" afterPath="$PROJECT_DIR$/GameFlappyBirds/SourceFlappyBirds/flappybirds/Chimney.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameFlappyBirds/SourceFlappyBirds/flappybirds/ChimneyGround.java" beforeDir="false" afterPath="$PROJECT_DIR$/GameFlappyBirds/SourceFlappyBirds/flappybirds/ChimneyGround.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameFlappyBirds/SourceFlappyBirds/flappybirds/FlappyBirds.java" beforeDir="false" afterPath="$PROJECT_DIR$/GameFlappyBirds/SourceFlappyBirds/flappybirds/FlappyBirds.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameFlappyBirds/SourceFlappyBirds/flappybirds/Ground.java" beforeDir="false" afterPath="$PROJECT_DIR$/GameFlappyBirds/SourceFlappyBirds/flappybirds/Ground.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +46,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/Code Java/Java-Backend-Developer/GameFlappyBirds",
+    "last_opened_file_path": "D:/Code Java/Java",
     "settings.editor.selected.configurable": "project.propVCSSupport.CommitDialog"
   }
 }]]></component>
