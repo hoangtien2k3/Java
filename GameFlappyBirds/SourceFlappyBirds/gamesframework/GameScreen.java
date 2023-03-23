@@ -9,6 +9,7 @@ import java.awt.Graphics2D;
 import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;
 import java.awt.image.BufferedImage;
+import java.io.IOException;
 import javax.swing.JFrame;
 
 /**
@@ -31,7 +32,7 @@ public abstract class GameScreen extends JFrame implements KeyListener{
         InitThread();
         InitScreen();
     }
-    
+
     public void RegisterImage(int id, BufferedImage image){
         
     }
@@ -80,7 +81,7 @@ public abstract class GameScreen extends JFrame implements KeyListener{
     }
     
     public abstract void GAME_UPDATE(long deltaTime);
-    public abstract void GAME_PAINT(Graphics2D g2);
+    public abstract void GAME_PAINT(Graphics2D g2) throws IOException;
     public abstract void KEY_ACTION(KeyEvent e, int Event);
     
 }

@@ -5,11 +5,14 @@ import GameFlappyBirds.SourceFlappyBirds.gamesframework.Animation;
 import GameFlappyBirds.SourceFlappyBirds.gamesframework.GameScreen;
 
 import javax.imageio.ImageIO;
+import javax.swing.*;
 import java.awt.*;
 import java.awt.event.KeyEvent;
 import java.awt.image.BufferedImage;
 import java.io.File;
+import java.io.FileNotFoundException;
 import java.io.IOException;
+import java.net.URL;
 
 public class FlappyBirds extends GameScreen {
     private BufferedImage birds;
@@ -31,11 +34,10 @@ public class FlappyBirds extends GameScreen {
     
     public FlappyBirds() throws IOException {
         // set chiều dài và chiều rộng cho màn hình
-        super(800, 600);
+        super(800, 580);
         try {
             // add bức ảnh con chim Flappy Bird vào.
             birds = ImageIO.read(new File("GameFlappyBirds/Image/bird_sprite.png"));
-
         } catch (Exception ex) {
             ex.printStackTrace();
         }
@@ -116,8 +118,16 @@ public class FlappyBirds extends GameScreen {
     @Override
     public void GAME_PAINT(Graphics2D g2) {
         // Set màu nền cho background
-        g2.setColor(Color.decode("#b8daef"));
+        g2.setColor(Color.decode("#b8daef")); // #b8daef
         g2.fillRect(0, 0, MASTER_WIDTH, MASTER_HEIGHT);
+
+//        try {
+//            Image backgroundImage = ImageIO.read(new File("GameFlappyBirds/Image/chimney3.jpg"));
+//            g2.drawImage(backgroundImage, 0, 0, null);
+//        }catch (IOException ex) {
+//            ex.printStackTrace();
+//        }
+
 
         // vẽ cái ống khói.
         chimneyGround.paint(g2);

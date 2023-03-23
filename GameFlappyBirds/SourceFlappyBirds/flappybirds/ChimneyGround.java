@@ -11,13 +11,13 @@ import java.util.Random;
 
 public class ChimneyGround {
     private QueueList<Chimney> chimneys; // tạo danh sách hàng đội để lưu nhiều ống khói.
-    private BufferedImage chimneyImage, chimneyImage2;
+    private BufferedImage chimneyImage, chimneyImage2, chimneyImage3;
     public static int SIZE = 6;
 
     // xét độ dài cột ống khói bên trên.
     private int topChimneyY = -350;
     // xét độ dài cột ống khói bên dưới.
-    private int bottomChimneyY = 200;
+    private int bottomChimneyY = 180;
 
     public Chimney getChimney(int i) {
         return chimneys.get(i);
@@ -84,7 +84,6 @@ public class ChimneyGround {
             cn.setIsBehindBird(false);
             chimneys.push(cn);
         }
-
     }
 
     public void paint(Graphics2D g2) {

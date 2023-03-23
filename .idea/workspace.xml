@@ -5,15 +5,47 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="faedc056-e68a-483d-bcf1-dd3425de15ba" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/GameFlappyBirds/Image/chimney3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GameFlappyBirds/SourceFlappyBirds/flappybirds/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/MultithreadProgramming/Parallel_computing_hardware_P1/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/MultithreadProgramming/Parallel_computing_hardware_P2/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/MultithreadProgramming/Thread_and_Process/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/Multithread_Programming/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GameFlappyBirds/Image/fall.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GameFlappyBirds/Image/fap.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GameFlappyBirds/Image/getpoint.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GameFlappyBirds/SourceFlappyBirds/flappybirds/Bird.java" beforeDir="false" afterPath="$PROJECT_DIR$/GameFlappyBirds/SourceFlappyBirds/flappybirds/Bird.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GameFlappyBirds/SourceFlappyBirds/flappybirds/Chimney.java" beforeDir="false" afterPath="$PROJECT_DIR$/GameFlappyBirds/SourceFlappyBirds/flappybirds/Chimney.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GameFlappyBirds/SourceFlappyBirds/flappybirds/ChimneyGround.java" beforeDir="false" afterPath="$PROJECT_DIR$/GameFlappyBirds/SourceFlappyBirds/flappybirds/ChimneyGround.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GameFlappyBirds/SourceFlappyBirds/flappybirds/FlappyBirds.java" beforeDir="false" afterPath="$PROJECT_DIR$/GameFlappyBirds/SourceFlappyBirds/flappybirds/FlappyBirds.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GameFlappyBirds/SourceFlappyBirds/flappybirds/Ground.java" beforeDir="false" afterPath="$PROJECT_DIR$/GameFlappyBirds/SourceFlappyBirds/flappybirds/Ground.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameFlappyBirds/SourceFlappyBirds/gamesframework/GameScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/GameFlappyBirds/SourceFlappyBirds/gamesframework/GameScreen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Multithreading/Call_run_method.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Multithread_Programming/Call_run_method.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Multithreading/CreateThread/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Multithread_Programming/CreateThread/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Multithreading/CreateThread/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Multithread_Programming/CreateThread/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Multithreading/CreateThread/Thread1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Multithread_Programming/CreateThread/Thread1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Multithreading/CreateThread/Thread2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Multithread_Programming/CreateThread/Thread2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Multithreading/CreateThread/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Multithread_Programming/CreateThread/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Multithreading/DaemonThread/daemon_thread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Multithread_Programming/DaemonThread/daemon_thread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Multithreading/JavaThread/Thread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Multithread_Programming/JavaThread/Thread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Multithreading/JoinThread/Join_a_thread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Multithread_Programming/JoinThread/Join_a_thread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Multithreading/JoinThread/Join_thread.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Multithread_Programming/JoinThread/Join_thread.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Multithreading/JoinThread/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Multithread_Programming/JoinThread/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Multithreading/LifeCycleThread/Image_Life_Of_Thread.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Multithread_Programming/LifeCycleThread/Image_Life_Of_Thread.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Multithreading/LifeCycleThread/Life_of_Thread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Multithread_Programming/LifeCycleThread/Life_of_Thread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Multithreading/LifeCycleThread/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Multithread_Programming/LifeCycleThread/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Multithreading/NamingThread/Naming_Thread_and_Current_Thread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Multithread_Programming/NamingThread/Naming_Thread_and_Current_Thread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Multithreading/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/MultithreadProgramming/Concurrent_and_parallel/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Multithreading/Shutdown/anonymous.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Multithread_Programming/Shutdown/anonymous.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Multithreading/Shutdown/shutdown_hook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Multithread_Programming/Shutdown/shutdown_hook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Multithreading/SleepThread/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Multithread_Programming/SleepThread/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Multithreading/SleepThread/Sleep_Thread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Multithread_Programming/SleepThread/Sleep_Thread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Multithreading/SleepThread/Sleep_a_Thread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Multithread_Programming/SleepThread/Sleep_a_Thread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Multithreading/Start_a_Thread_twice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Multithread_Programming/Start_a_Thread_twice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Multithreading/ThreadExample/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Multithread_Programming/ThreadExample/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Multithreading/ThreadExample/ThreadOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Multithread_Programming/ThreadExample/ThreadOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Multithreading/ThreadExample/ThreadTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Multithread_Programming/ThreadExample/ThreadTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Multithreading/ThreadGroup/Thread_group.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Multithread_Programming/ThreadGroup/Thread_group.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Multithreading/ThreadPool/Thread_Pool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Multithread_Programming/ThreadPool/Thread_Pool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Multithreading/ThreadPriority/Thread_Priority.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Multithread_Programming/ThreadPriority/Thread_Priority.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Multithreading/ThreadScheduler/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Multithread_Programming/ThreadScheduler/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Multithreading/ThreadScheduler/Thread_Scheduling.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Multithread_Programming/ThreadScheduler/Thread_Scheduling.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Multithreading/ThreadScheduler/Thread_scheduler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Multithread_Programming/ThreadScheduler/Thread_scheduler.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,16 +74,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/Code Java/Java",
-    "settings.editor.selected.configurable": "project.propVCSSupport.CommitDialog"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Code C_C++/CodeUTT&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.CommitDialog&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Code Java\Java\GameFlappyBirds\Image" />
       <recent name="D:\Code Java\Java-Backend-Developer\GameFlappyBirds" />
       <recent name="D:\Code Java\Java-Backend-Developer\src\backend\JDBC\src\lib" />
     </key>
@@ -60,19 +93,6 @@
     </key>
   </component>
   <component name="RunManager" selected="Application.GameFlappyBirds.SourceFlappyBirds.flappybirds.FlappyBirds">
-    <configuration name="AWTExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.java.Swing.AWTExample" />
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.java.Swing.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="GameHuntWumpus.src.main.java.com.oop.Application" />
       <module name="Java" />
@@ -112,6 +132,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ImagePanelExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GameFlappyBirds.SourceFlappyBirds.flappybirds.ImagePanelExample" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="GameFlappyBirds.SourceFlappyBirds.flappybirds.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.game.GameSnake.Main" />
       <module name="Java" />
@@ -128,10 +161,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.GameFlappyBirds.SourceFlappyBirds.flappybirds.FlappyBirds" />
+        <item itemvalue="Application.ImagePanelExample" />
+        <item itemvalue="Application.Application" />
         <item itemvalue="Application.FlappyBirds" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Application" />
-        <item itemvalue="Application.AWTExample" />
       </list>
     </recent_temporary>
   </component>
