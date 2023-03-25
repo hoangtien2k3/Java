@@ -1,3 +1,5 @@
+![](https://gpcoder.com/wp-content/uploads/2018/05/java-stream-api.png)
+
 
 ## Method References in Java
 Trong Java 8, có ba kiểu method references:
