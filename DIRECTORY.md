@@ -490,9 +490,14 @@
         * [test1 1](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/java/Java8/LambdaExpression/test1_1.java)
         * [test2 2](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/java/Java8/LambdaExpression/test2_2.java)
       * MethodReferences
-        * [Reference constructor](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/java/Java8/MethodReferences/Reference_constructor.java)
-        * [Reference method instance](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/java/Java8/MethodReferences/Reference_method_instance.java)
-        * [Reference static method](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/java/Java8/MethodReferences/Reference_static_method.java)
+        * ConstructorMethodReference
+          * [ContructorMethodReference](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/java/Java8/MethodReferences/ConstructorMethodReference/ContructorMethodReference.java)
+        * InstanceMethodReference
+          * [InstanceMethodReference](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/java/Java8/MethodReferences/InstanceMethodReference/InstanceMethodReference.java)
+          * [test](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/java/Java8/MethodReferences/InstanceMethodReference/test.java)
+        * StaticMethodReference
+          * [StaticMethodReference](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/java/Java8/MethodReferences/StaticMethodReference/StaticMethodReference.java)
+          * [test](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/java/Java8/MethodReferences/StaticMethodReference/test.java)
       * Optional
         * [Optional Java](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/java/Java8/Optional/Optional_Java.java)
       * StreamAPI
