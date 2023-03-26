@@ -471,9 +471,9 @@
         * FilerWriter
           * [FileWriterExample](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/java/InputOutput/Writer/FilerWriter/FileWriterExample.java)
     * Java8
-      * DateAndTime
+      * DateAndTimeAPI
         * LocalTime
-          * [localtime](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/java/Java8/DateAndTime/LocalTime/localtime.java)
+          * [localtime](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/java/Java8/DateAndTimeAPI/LocalTime/localtime.java)
       * LambdaExpression
         * Lambda Comparator
           * [lambda comparator](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/java/Java8/LambdaExpression/Lambda_Comparator/lambda_comparator.java)
@@ -501,11 +501,10 @@
       * Optional
         * [Optional Java](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/java/Java8/Optional/Optional_Java.java)
       * StreamAPI
-        * [ConvertToStreamExample](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/java/Java8/StreamAPI/ConvertToStreamExample.java)
-        * [stream api](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/java/Java8/StreamAPI/stream_api.java)
-        * [test](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/java/Java8/StreamAPI/test.java)
-      * StreamFilter
-        * [Stream Filter](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/java/Java8/StreamFilter/Stream_Filter.java)
+        * StreamAPI
+          * [ConvertToStreamExample](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/java/Java8/StreamAPI/StreamAPI/ConvertToStreamExample.java)
+          * [stream api](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/java/Java8/StreamAPI/StreamAPI/stream_api.java)
+          * [test](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/java/Java8/StreamAPI/StreamAPI/test.java)
     * JavaCore
       * [Abstract class and Interface](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/java/JavaCore/Abstract_class_and_Interface.java)
       * Array
