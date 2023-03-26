@@ -35,7 +35,6 @@ public class Optional_Java {
         }
 
 
-
         List<Integer> list = Arrays.asList(1, 2, 3, 4, 5, 6, 2, 4, 6);
         Optional<Integer> found = list.stream().filter(p -> p > 8).findFirst();
         if (found.isPresent()) {
