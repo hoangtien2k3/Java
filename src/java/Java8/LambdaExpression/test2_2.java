@@ -28,6 +28,5 @@ public class test2_2 {
         System.out.println("a + b = " + operation2.add(5, 6));
 
 
-
     }
 }

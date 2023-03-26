@@ -1,4 +1,4 @@
-package src.java.Java8.MethodReferences;
+package src.java.Java8.MethodReferences.ConstructorMethodReference;
 
 import java.util.Arrays;
 import java.util.List;
@@ -17,7 +17,7 @@ class Person {
     }
 }
 
-public class Reference_constructor {
+public class ContructorMethodReference {
     public static void main(String[] args) {
         List<String> names = Arrays.asList("John", "Jane", "Jim");
         names.stream()

@@ -5,8 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="faedc056-e68a-483d-bcf1-dd3425de15ba" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/java/Java8/Wrapper/Integer/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/Java8/MethodReferences/InstanceMethodReference/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/Java8/MethodReferences/StaticMethodReference/test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Java8/LambdaExpression/test2_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Java8/LambdaExpression/test2_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Java8/MethodReferences/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Java8/MethodReferences/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Java8/MethodReferences/Reference_constructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Java8/MethodReferences/ConstructorMethodReference/ContructorMethodReference.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Java8/MethodReferences/Reference_method_instance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Java8/MethodReferences/InstanceMethodReference/InstanceMethodReference.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Java8/MethodReferences/Reference_static_method.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Java8/MethodReferences/StaticMethodReference/StaticMethodReference.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Java8/StreamAPI/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Java8/StreamAPI/test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,13 +60,13 @@
       <recent name="D:\Code Java\Java-Backend-Developer\src\game\FlappyBirds\SourcePackages" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.GameFlappyBirds.SourceFlappyBirds.flappybirds.FlappyBirds">
-    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GameHuntWumpus.src.main.java.com.oop.Application" />
+  <component name="RunManager" selected="Application.test">
+    <configuration name="ContructorMethodReference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.java.Java8.MethodReferences.ConstructorMethodReference.ContructorMethodReference" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="GameHuntWumpus.src.main.java.com.oop.*" />
+          <option name="PATTERN" value="src.java.Java8.MethodReferences.StaticMethodReference.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FlappyBirds" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GameFlappyBirds.FlappyBirds.flappybirds.FlappyBirds" />
+    <configuration name="InstanceMethodReference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.java.Java8.MethodReferences.InstanceMethodReference.InstanceMethodReference" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="GameFlappyBirds.FlappyBirds.flappybirds.*" />
+          <option name="PATTERN" value="src.java.Java8.MethodReferences.StaticMethodReference.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GameFlappyBirds.SourceFlappyBirds.flappybirds.FlappyBirds" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GameFlappyBirds.SourceFlappyBirds.flappybirds.FlappyBirds" />
+    <configuration name="src.java.Java8.MethodReferences.StaticMethodReference.test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.java.Java8.MethodReferences.StaticMethodReference.test" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="GameFlappyBirds.SourceFlappyBirds.flappybirds.*" />
+          <option name="PATTERN" value="src.java.Java8.MethodReferences.StaticMethodReference.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ImagePanelExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GameFlappyBirds.SourceFlappyBirds.flappybirds.ImagePanelExample" />
+    <configuration name="src.java.Java8.MethodReferences.StaticMethodReference.test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.java.Java8.MethodReferences.StaticMethodReference.test" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="GameFlappyBirds.SourceFlappyBirds.flappybirds.*" />
+          <option name="PATTERN" value="src.java.Java8.MethodReferences.StaticMethodReference.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.game.GameSnake.Main" />
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.java.Java8.MethodReferences.InstanceMethodReference.test" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.game.GameSnake.*" />
+          <option name="PATTERN" value="src.java.Java8.MethodReferences.InstanceMethodReference.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.GameFlappyBirds.SourceFlappyBirds.flappybirds.FlappyBirds" />
-        <item itemvalue="Application.ImagePanelExample" />
-        <item itemvalue="Application.Application" />
-        <item itemvalue="Application.FlappyBirds" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.src.java.Java8.MethodReferences.StaticMethodReference.test" />
+        <item itemvalue="Application.src.java.Java8.MethodReferences.StaticMethodReference.test (1)" />
+        <item itemvalue="Application.ContructorMethodReference" />
+        <item itemvalue="Application.InstanceMethodReference" />
       </list>
     </recent_temporary>
   </component>

@@ -12,6 +12,15 @@ Trong Java 8, có ba kiểu method references:
 3. [Reference tới constructor](): Khi bạn trỏ tới một constructor của một class.
    - Ví dụ: Person::new
 
+   
+```html
+- Ta có một lambda expression như sau:
+    (args) -> Class.staticMethod(args)
+- Có thể chuyển thành method reference như sau:
+    Class::staticMethod
+```
+
+
 ## Stream Method:
 
 Các method trong Stream trong Java 8 là các hàm dùng để xử lý dữ liệu trong một tập hợp dữ liệu. Các method chính bao gồm:

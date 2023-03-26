@@ -1,7 +1,9 @@
-package src.java.Java8.MethodReferences;
+package src.java.Java8.MethodReferences.StaticMethodReference;
 
+import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
+import java.util.function.Function;
 
 class MathUtil {
     public static double powerOfTwo(double num) {
@@ -9,22 +11,21 @@ class MathUtil {
     }
 }
 
-public class Reference_static_method {
+
+public class StaticMethodReference {
     public static void main(String[] args) {
         List<Double> numbers = Arrays.asList(1.0, 2.0, 3.0, 4.0);
-
-        // map nhận method reference
+        // method reference
         numbers.stream()
                 .map(MathUtil::powerOfTwo)
                 .forEach(System.out::println);
 
-        System.out.println("\nCách Khác");
+        System.out.println("\n");
 
-        // map nhận lambda expression
+        // Lambda expression
         numbers.stream()
                 .map(num -> MathUtil.powerOfTwo(num))
                 .forEach(e -> System.out.println(e));
-//                .forEach(System.out::println);
 
     }
 }
