@@ -498,6 +498,7 @@
       * StreamAPI
         * [ConvertToStreamExample](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/java/Java8/StreamAPI/ConvertToStreamExample.java)
         * [stream api](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/java/Java8/StreamAPI/stream_api.java)
+        * [test](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/java/Java8/StreamAPI/test.java)
       * StreamFilter
         * [Stream Filter](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/java/Java8/StreamFilter/Stream_Filter.java)
     * JavaCore
