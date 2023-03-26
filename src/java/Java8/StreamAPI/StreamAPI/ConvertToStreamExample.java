@@ -1,4 +1,4 @@
-package src.java.Java8.StreamAPI;
+package src.java.Java8.StreamAPI.StreamAPI;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -10,7 +10,7 @@ public class ConvertToStreamExample {
 
     // Generate Streams from Arrays using .stream or Stream.of
     public static void streamFromArray() {
-        String[] languages = { "Java", "C#", "C++", "PHP", "Javascript" };
+        String[] languages = {"Java", "C#", "C++", "PHP", "Javascript"};
 
         // Get Stream using the Arrays.stream
         Stream<String> testStream1 = Arrays.stream(languages);
@@ -32,7 +32,7 @@ public class ConvertToStreamExample {
 
         items.stream().forEach(item -> System.out.println(item));
 
-        items.stream().forEach(e-> {
+        items.stream().forEach(e -> {
             System.out.println(e);
         });
 
@@ -73,9 +73,5 @@ public class ConvertToStreamExample {
 
         streamUsingGenerate();
 
-
-
     }
-
-
 }

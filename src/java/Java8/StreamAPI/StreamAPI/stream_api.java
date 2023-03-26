@@ -1,4 +1,4 @@
-package src.java.Java8.StreamAPI;
+package src.java.Java8.StreamAPI.StreamAPI;
 
 import java.util.*;
 import java.util.stream.Collectors;

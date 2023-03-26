@@ -67,7 +67,6 @@ IntStream, LongStream, DoubleStream Number stream có sẵn các method cho tín
 31. [mapToInt()](): Chuyển đổi các phần tử của một Stream thành các giá trị kiểu nguyên.
 
 
-
 Ngoài ra, Stream cũng có thể được tạo ra từ nhiều nguồn khác nhau, bao gồm các collection, mảng, các nguồn I/O và các generator. Các phương thức để tạo Stream từ các nguồn này bao gồm:
 
 1. [stream()](): Tạo Stream từ một collection.
