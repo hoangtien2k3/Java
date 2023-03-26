@@ -13,24 +13,40 @@ Trong Java 8, có ba kiểu method references:
 ## Stream Method:
 Stream trong Java là một thành phần quan trọng của Java 8 và được sử dụng để thao tác trên các tập dữ liệu. Sau đây là danh sách các method có sẵn trong interface Stream trong Java:
 
+
+### Filter - lọc:
 1. [filter(Predicate<T> predicate)](): Lọc các phần tử theo điều kiện được đưa ra bởi predicate.
-2. [map(Function<T, R> mapper)](): Ánh xạ mỗi phần tử sang một phần tử mới theo một hàm được đưa ra bởi mapper.
+
+### Mapping - chuyển kiểu: 
+2. [map(Function<T, R> mapper)](): phương thức quan trọng được sử dụng để chuyển đổi dữ liệu từ một định dạng sang một định dạng khác.
 3. [flatMap(Function<T, Stream<R>> mapper)](): Ánh xạ mỗi phần tử sang một stream mới và sau đó kết hợp các stream đó thành một stream duy nhất.
-4. [distinct()](): Loại bỏ các phần tử trùng lặp.
+
+### Distinct - duy nhất:
+4. [distinct()](): Loại bỏ các phần tử trùng lặp, và đưa về các phần tử duy nhất.
+
+### Sorted - sắp xếp:
 5. [sorted()](): Sắp xếp các phần tử theo thứ tự tăng dần.
 6. [sorted(Comparator<T> comparator)](): Sắp xếp các phần tử theo thứ tự được chỉ định bởi comparator.
 7. [peek(Consumer<T> action)](): Thực hiện một hành động trên mỗi phần tử và trả về stream đầu vào.
 8. [limit(long maxSize)](): Giới hạn số phần tử được trả về trong stream.
-9. [skip(long n)](): Bỏ qua n phần tử đầu tiên của stream.
+9. [skip(long n)](): trả về 1 stream nhưng bỏ qua n phần tử đầu tiên từ stream ban đầu.
 10. [forEach(Consumer<T> action)](): Thực hiện một hành động trên mỗi phần tử.
 11. [toArray()](): Chuyển stream thành một mảng.
+
+### Reduce:
 12. [reduce(T identity, BinaryOperator<T> accumulator)](): Tính toán kết quả của các phần tử trong stream bằng cách sử dụng một phép tính nhị phân được chỉ định bởi accumulator, với giá trị ban đầu được cung cấp bởi identity.
 13. [collect(Collector<T, A, R> collector)](): Tính toán kết quả của các phần tử trong stream bằng cách sử dụng một đối tượng Collector.
+
+### Matching - khớp:
 14. [anyMatch(Predicate<T> predicate)](): Kiểm tra xem có phần tử nào trong stream thỏa mãn điều kiện được đưa ra bởi predicate hay không.
 15. [allMatch(Predicate<T> predicate)](): Kiểm tra xem tất cả các phần tử trong stream đều thỏa mãn điều kiện được đưa ra bởi predicate hay không.
 16. [noneMatch(Predicate<T> predicate)](): Kiểm tra xem không có phần tử nào trong stream thỏa mãn điều kiện được đưa ra bởi predicate hay không.
+
+### Find - tìm:
 17. [findFirst()](): Trả về phần tử đầu tiên trong stream.
 18. [findAny()](): Trả về bất kỳ phần tử nào trong stream.
+
+### Count - đếm:
 19. [count()](): Đếm số phần tử trong stream.
 20. [max(Comparator<T> comparator)](): Trả về phần tử lớn nhất theo thứ tự được chỉ định bởi comparator.
 21. [min(Comparator<T> comparator)](): Trả về phần tử nhỏ nhất theo thứ tự được chỉ định bởi comparator.
@@ -43,7 +59,14 @@ Stream trong Java là một thành phần quan trọng của Java 8 và được
 28. [close()](): Đóng stream và giải phóng tài nguyên.
 29. [iterator()](): Trả về một iterator cho stream.
 30. [spliterator()](): Trả về một Spliterator cho stream.
+
+
+###  Stream of primitive type:
+IntStream, LongStream, DoubleStream Number stream có sẵn các method cho tính toán với kiểu số như method: sum, count, average, max, min
+
 31. [mapToInt()](): Chuyển đổi các phần tử của một Stream thành các giá trị kiểu nguyên.
+
+
 
 Ngoài ra, Stream cũng có thể được tạo ra từ nhiều nguồn khác nhau, bao gồm các collection, mảng, các nguồn I/O và các generator. Các phương thức để tạo Stream từ các nguồn này bao gồm:
 

@@ -17,6 +17,10 @@ class Product {
     public float getPrice() {
         return price;
     }
+
+    public boolean getPrices() {
+        return price > 30000;
+    }
 }
 
 public class stream_api {
@@ -42,8 +46,9 @@ public class stream_api {
 
 
         // Filtering Collection by using Stream
-        List<Float> productPriceList2 = productsList.stream()
-                .filter(p -> p.price < 30000)   // filtering data
+        List<Float> productPriceList2 = productsList
+                .stream()
+                .filter(p -> p.price < 30000)   // Product::getPrices
                 .map(p -> p.price)                // fetching price
                 .collect(Collectors.toList());  // collecting as list
         System.out.println("Price<30000: " + productPriceList2);
