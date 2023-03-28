@@ -1,5 +1,5 @@
 
-## GameFlappyBirds
+## src.game.GameFlappyBirds
   * SourceFlappyBirds
     * flappybirds
       * [Bird](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/GameFlappyBirds/SourceFlappyBirds/flappybirds/Bird.java)
@@ -17,7 +17,7 @@
       * [QueueList](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/GameFlappyBirds/SourceFlappyBirds/gamesframework/QueueList.java)
       * [SoundPlayer](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/GameFlappyBirds/SourceFlappyBirds/gamesframework/SoundPlayer.java)
 
-## GameHuntWumpus
+## src.game.GameHuntWumpus
   * src
     * main
       * java

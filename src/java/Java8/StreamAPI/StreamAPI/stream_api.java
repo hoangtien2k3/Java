@@ -119,6 +119,5 @@ public class stream_api {
                 .collect(Collectors.toList());  // collecting as list
         System.out.println("\nPrince > 30000: " + productPriceList_1);
 
-
     }
 }

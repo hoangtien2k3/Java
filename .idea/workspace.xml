@@ -5,15 +5,70 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="faedc056-e68a-483d-bcf1-dd3425de15ba" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/java/Java8/MethodReferences/InstanceMethodReference/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/Java8/MethodReferences/StaticMethodReference/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/Regex/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/Java8/LambdaExpression/test2_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Java8/LambdaExpression/test2_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/Java8/MethodReferences/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Java8/MethodReferences/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/Java8/MethodReferences/Reference_constructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Java8/MethodReferences/ConstructorMethodReference/ContructorMethodReference.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/Java8/MethodReferences/Reference_method_instance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Java8/MethodReferences/InstanceMethodReference/InstanceMethodReference.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/Java8/MethodReferences/Reference_static_method.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Java8/MethodReferences/StaticMethodReference/StaticMethodReference.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/Java8/StreamAPI/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Java8/StreamAPI/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DIRECTORY.md" beforeDir="false" afterPath="$PROJECT_DIR$/DIRECTORY.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameFlappyBirds/Image/bird_sprite.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/GameFlappyBirds/Image/bird_sprite.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameFlappyBirds/Image/chimney.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/GameFlappyBirds/Image/chimney.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameFlappyBirds/Image/chimney2.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/GameFlappyBirds/Image/chimney2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameFlappyBirds/Image/chimney3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/GameFlappyBirds/Image/chimney3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameFlappyBirds/Image/ground.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/GameFlappyBirds/Image/ground.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameFlappyBirds/SourceFlappyBirds/flappybirds/Bird.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/GameFlappyBirds/SourceFlappyBirds/flappybirds/Bird.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameFlappyBirds/SourceFlappyBirds/flappybirds/Chimney.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/GameFlappyBirds/SourceFlappyBirds/flappybirds/Chimney.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameFlappyBirds/SourceFlappyBirds/flappybirds/ChimneyGround.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/GameFlappyBirds/SourceFlappyBirds/flappybirds/ChimneyGround.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameFlappyBirds/SourceFlappyBirds/flappybirds/FlappyBirds.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/GameFlappyBirds/SourceFlappyBirds/flappybirds/FlappyBirds.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameFlappyBirds/SourceFlappyBirds/flappybirds/Ground.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/GameFlappyBirds/SourceFlappyBirds/flappybirds/Ground.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameFlappyBirds/SourceFlappyBirds/flappybirds/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameFlappyBirds/SourceFlappyBirds/gamesframework/AFrameOnImage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/GameFlappyBirds/SourceFlappyBirds/gamesframework/AFrameOnImage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameFlappyBirds/SourceFlappyBirds/gamesframework/Animation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/GameFlappyBirds/SourceFlappyBirds/gamesframework/Animation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameFlappyBirds/SourceFlappyBirds/gamesframework/GameScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/GameFlappyBirds/SourceFlappyBirds/gamesframework/GameScreen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameFlappyBirds/SourceFlappyBirds/gamesframework/GameThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/GameFlappyBirds/SourceFlappyBirds/gamesframework/GameThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameFlappyBirds/SourceFlappyBirds/gamesframework/Objects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/GameFlappyBirds/SourceFlappyBirds/gamesframework/Objects.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameFlappyBirds/SourceFlappyBirds/gamesframework/QueueList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/GameFlappyBirds/SourceFlappyBirds/gamesframework/QueueList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameFlappyBirds/SourceFlappyBirds/gamesframework/SoundPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/GameFlappyBirds/SourceFlappyBirds/gamesframework/SoundPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameHuntWumpus/src/main/java/com/oop/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/GameHuntWumpus/src/main/java/com/oop/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameHuntWumpus/src/main/java/com/oop/GameConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/GameHuntWumpus/src/main/java/com/oop/GameConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameHuntWumpus/src/main/java/com/oop/characteristic/Attackable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/GameHuntWumpus/src/main/java/com/oop/characteristic/Attackable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameHuntWumpus/src/main/java/com/oop/characteristic/Damaged.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/GameHuntWumpus/src/main/java/com/oop/characteristic/Damaged.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameHuntWumpus/src/main/java/com/oop/characteristic/Moable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/GameHuntWumpus/src/main/java/com/oop/characteristic/Moable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameHuntWumpus/src/main/java/com/oop/game/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/GameHuntWumpus/src/main/java/com/oop/game/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameHuntWumpus/src/main/java/com/oop/game/HunterActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/GameHuntWumpus/src/main/java/com/oop/game/HunterActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameHuntWumpus/src/main/java/com/oop/game/HunterActivityWatcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/GameHuntWumpus/src/main/java/com/oop/game/HunterActivityWatcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameHuntWumpus/src/main/java/com/oop/model/Bear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/GameHuntWumpus/src/main/java/com/oop/model/Bear.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameHuntWumpus/src/main/java/com/oop/model/Character.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/GameHuntWumpus/src/main/java/com/oop/model/Character.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameHuntWumpus/src/main/java/com/oop/model/Hunter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/GameHuntWumpus/src/main/java/com/oop/model/Hunter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameHuntWumpus/src/main/java/com/oop/model/Location.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/GameHuntWumpus/src/main/java/com/oop/model/Location.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameHuntWumpus/src/main/java/com/oop/model/Monster.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/GameHuntWumpus/src/main/java/com/oop/model/Monster.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameHuntWumpus/src/main/java/com/oop/model/RobinHood.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/GameHuntWumpus/src/main/java/com/oop/model/RobinHood.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameHuntWumpus/src/main/java/com/oop/validator/GameUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/GameHuntWumpus/src/main/java/com/oop/validator/GameUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Java8/DefaultMethods/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Java8/DefaultMethods/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Java8/DefaultMethods/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Java8/DefaultMethods/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Java8/DefaultMethods/MyInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Java8/DefaultMethods/MyInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Java8/DefaultMethods/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Java8/DefaultMethods/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Java8/StaticMethods/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Java8/StaticMethods/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Java8/StaticMethods/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Java8/StaticMethods/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Java8/StaticMethods/ThirdImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Java8/StaticMethods/ThirdImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Java8/StaticMethods/ThirdInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Java8/StaticMethods/ThirdInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Java8/StreamAPI/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Java8/StreamAPI/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Java8/StreamAPI/StreamAPI/stream_api.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Java8/StreamAPI/StreamAPI/stream_api.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/JavaCore/OOP/JavaOOPs/Polymorphism/instanceof_operator/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/JavaCore/OOP/JavaOOPs/Polymorphism/instanceof_operator/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Regex/RegexExample1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Regex/RegexExample1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Regex/RegexExpression/Java_Regex.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Regex/RegexExpression/Pattern_Java/Bieu_Thuc_Co_Duoc_Nhung.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Regex/Pattern_Java/Bieu_Thuc_Co_Duoc_Nhung.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Regex/RegexExpression/Pattern_Java/CANON_EQ.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Regex/Pattern_Java/CANON_EQ.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Regex/RegexExpression/Pattern_Java/CASE_INSENSITIVE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Regex/Pattern_Java/CASE_INSENSITIVE.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Regex/RegexExpression/Pattern_Java/COMMENTS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Regex/Pattern_Java/COMMENTS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Regex/RegexExpression/Pattern_Java/DOTALL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Regex/Pattern_Java/DOTALL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Regex/RegexExpression/Pattern_Java/LITERAL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Regex/Pattern_Java/LITERAL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Regex/RegexExpression/Pattern_Java/MULTILINE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Regex/Pattern_Java/MULTILINE.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Regex/RegexExpression/Pattern_Java/UNICODE_CASE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Regex/Pattern_Java/UNICODE_CASE.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Regex/RegexExpression/Pattern_Java/UNIX_LINES.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Regex/Pattern_Java/UNIX_LINES.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Regex/RegexExpression/Pattern_Java/compile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Regex/Pattern_Java/compile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Regex/RegexExpression/Pattern_Java/group.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Regex/Pattern_Java/group.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Regex/RegexExpression/Pattern_Java/matcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Regex/Pattern_Java/matcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Regex/RegexExpression/Pattern_Java/matches.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Regex/Pattern_Java/matches.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Regex/RegexExpression/Pattern_Java/pattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Regex/Pattern_Java/pattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Regex/RegexExpression/Pattern_Java/replaceAll.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Regex/Pattern_Java/replaceAll.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,14 +97,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/CodeJava/Java",
-    "settings.editor.selected.configurable": "project.propVCSSupport.CommitDialog"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/CodeJava/Data-Structure-And-Algorithm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.CommitDialog&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Code Java\Java\GameFlappyBirds\Image" />
@@ -60,13 +115,13 @@
       <recent name="D:\Code Java\Java-Backend-Developer\src\game\FlappyBirds\SourcePackages" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.test">
-    <configuration name="ContructorMethodReference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.java.Java8.MethodReferences.ConstructorMethodReference.ContructorMethodReference" />
+  <component name="RunManager" selected="Application.FlappyBirds">
+    <configuration name="Driverclass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Driverclass" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.java.Java8.MethodReferences.StaticMethodReference.*" />
+          <option name="PATTERN" value="src.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InstanceMethodReference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.java.Java8.MethodReferences.InstanceMethodReference.InstanceMethodReference" />
+    <configuration name="FlappyBirds" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.game.GameFlappyBirds.SourceFlappyBirds.flappybirds.FlappyBirds" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.java.Java8.MethodReferences.StaticMethodReference.*" />
+          <option name="PATTERN" value="src.game.GameFlappyBirds.SourceFlappyBirds.flappybirds.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +142,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="src.java.Java8.MethodReferences.StaticMethodReference.test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.java.Java8.MethodReferences.StaticMethodReference.test" />
+    <configuration name="ImagePanelExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.game.GameFlappyBirds.SourceFlappyBirds.flappybirds.ImagePanelExample" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.java.Java8.MethodReferences.StaticMethodReference.*" />
+          <option name="PATTERN" value="src.game.GameFlappyBirds.SourceFlappyBirds.flappybirds.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +155,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="src.java.Java8.MethodReferences.StaticMethodReference.test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.java.Java8.MethodReferences.StaticMethodReference.test" />
+    <configuration name="RegexExample1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.java.Regex.RegexExample1" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.java.Java8.MethodReferences.StaticMethodReference.*" />
+          <option name="PATTERN" value="src.java.Regex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +168,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.java.Java8.MethodReferences.InstanceMethodReference.test" />
+    <configuration name="RegexExample2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.java.Regex.RegexExample2" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.java.Java8.MethodReferences.InstanceMethodReference.*" />
+          <option name="PATTERN" value="src.java.Regex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +183,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.test" />
-        <item itemvalue="Application.src.java.Java8.MethodReferences.StaticMethodReference.test" />
-        <item itemvalue="Application.src.java.Java8.MethodReferences.StaticMethodReference.test (1)" />
-        <item itemvalue="Application.ContructorMethodReference" />
-        <item itemvalue="Application.InstanceMethodReference" />
+        <item itemvalue="Application.FlappyBirds" />
+        <item itemvalue="Application.ImagePanelExample" />
+        <item itemvalue="Application.RegexExample2" />
+        <item itemvalue="Application.RegexExample1" />
+        <item itemvalue="Application.Driverclass" />
       </list>
     </recent_temporary>
   </component>

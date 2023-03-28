@@ -18,13 +18,15 @@ public class RegexExample1 {
 
 
         System.out.println("Ngày tháng trong chuỗi text1: " + text1);
+//        System.out.println(:"Regex: " + Pattern.matches());
         while (matcher.find()) {
+            // chỗ này nó sẽ tìm ra substring mà thích hợp với regex đã xét bên trên.
             System.out.println(text1.substring(matcher.start(), matcher.end()));
         }
 
+
         String text2 = "12/04/2003";
         String text3 = "12/04/aaaa";
-
         pattern = Pattern.compile("^\\d{1,2}[-|/]\\d{1,2}[-|/]\\d{4}$");
 //        pattern = Pattern.compile("^[0-9]{1,2}[-|/][0-9]{1,2}[-|/][0-9]{4}$");
         System.out.println("\nChuỗi " + text2 + " có định dạng ngày tháng: " + pattern.matcher(text2).matches());

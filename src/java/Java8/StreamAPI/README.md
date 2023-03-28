@@ -77,10 +77,3 @@ Ngoài ra, Stream cũng có thể được tạo ra từ nhiều nguồn khác n
 6. [concat(Stream<? extends T> a, Stream<? extends T> b)](): Nối hai Stream lại với nhau.
 7. [empty()](): Tạo Stream trống.
 
-
-
-
-
-
-
-
