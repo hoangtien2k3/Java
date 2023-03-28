@@ -1,48 +1,4 @@
 
-## src.game.GameFlappyBirds
-  * SourceFlappyBirds
-    * flappybirds
-      * [Bird](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/GameFlappyBirds/SourceFlappyBirds/flappybirds/Bird.java)
-      * [Chimney](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/GameFlappyBirds/SourceFlappyBirds/flappybirds/Chimney.java)
-      * [ChimneyGround](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/GameFlappyBirds/SourceFlappyBirds/flappybirds/ChimneyGround.java)
-      * [FlappyBirds](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/GameFlappyBirds/SourceFlappyBirds/flappybirds/FlappyBirds.java)
-      * [Ground](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/GameFlappyBirds/SourceFlappyBirds/flappybirds/Ground.java)
-      * [main](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/GameFlappyBirds/SourceFlappyBirds/flappybirds/main.java)
-    * gamesframework
-      * [AFrameOnImage](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/GameFlappyBirds/SourceFlappyBirds/gamesframework/AFrameOnImage.java)
-      * [Animation](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/GameFlappyBirds/SourceFlappyBirds/gamesframework/Animation.java)
-      * [GameScreen](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/GameFlappyBirds/SourceFlappyBirds/gamesframework/GameScreen.java)
-      * [GameThread](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/GameFlappyBirds/SourceFlappyBirds/gamesframework/GameThread.java)
-      * [Objects](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/GameFlappyBirds/SourceFlappyBirds/gamesframework/Objects.java)
-      * [QueueList](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/GameFlappyBirds/SourceFlappyBirds/gamesframework/QueueList.java)
-      * [SoundPlayer](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/GameFlappyBirds/SourceFlappyBirds/gamesframework/SoundPlayer.java)
-
-## src.game.GameHuntWumpus
-  * src
-    * main
-      * java
-        * com
-          * oop
-            * [Application](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/GameHuntWumpus/src/main/java/com/oop/Application.java)
-            * characteristic
-              * [Attackable](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/GameHuntWumpus/src/main/java/com/oop/characteristic/Attackable.java)
-              * [Damaged](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/GameHuntWumpus/src/main/java/com/oop/characteristic/Damaged.java)
-              * [Moable](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/GameHuntWumpus/src/main/java/com/oop/characteristic/Moable.java)
-            * game
-              * [Game](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/GameHuntWumpus/src/main/java/com/oop/game/Game.java)
-              * [HunterActivity](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/GameHuntWumpus/src/main/java/com/oop/game/HunterActivity.java)
-              * [HunterActivityWatcher](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/GameHuntWumpus/src/main/java/com/oop/game/HunterActivityWatcher.java)
-            * [GameConfig](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/GameHuntWumpus/src/main/java/com/oop/GameConfig.java)
-            * model
-              * [Bear](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/GameHuntWumpus/src/main/java/com/oop/model/Bear.java)
-              * [Character](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/GameHuntWumpus/src/main/java/com/oop/model/Character.java)
-              * [Hunter](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/GameHuntWumpus/src/main/java/com/oop/model/Hunter.java)
-              * [Location](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/GameHuntWumpus/src/main/java/com/oop/model/Location.java)
-              * [Monster](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/GameHuntWumpus/src/main/java/com/oop/model/Monster.java)
-              * [RobinHood](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/GameHuntWumpus/src/main/java/com/oop/model/RobinHood.java)
-            * validator
-              * [GameUtils](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/GameHuntWumpus/src/main/java/com/oop/validator/GameUtils.java)
-
 ## src
   * backend
     * Advance
@@ -67,6 +23,48 @@
             * services
               * [OrderService](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/backend/QuanLyBanHang/project/javacore/orders/services/OrderService.java)
               * [ProductService](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/backend/QuanLyBanHang/project/javacore/orders/services/ProductService.java)
+  * game
+    * GameFlappyBirds
+      * SourceFlappyBirds
+        * flappybirds
+          * [Bird](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/game/GameFlappyBirds/SourceFlappyBirds/flappybirds/Bird.java)
+          * [Chimney](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/game/GameFlappyBirds/SourceFlappyBirds/flappybirds/Chimney.java)
+          * [ChimneyGround](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/game/GameFlappyBirds/SourceFlappyBirds/flappybirds/ChimneyGround.java)
+          * [FlappyBirds](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/game/GameFlappyBirds/SourceFlappyBirds/flappybirds/FlappyBirds.java)
+          * [Ground](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/game/GameFlappyBirds/SourceFlappyBirds/flappybirds/Ground.java)
+        * gamesframework
+          * [AFrameOnImage](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/game/GameFlappyBirds/SourceFlappyBirds/gamesframework/AFrameOnImage.java)
+          * [Animation](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/game/GameFlappyBirds/SourceFlappyBirds/gamesframework/Animation.java)
+          * [GameScreen](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/game/GameFlappyBirds/SourceFlappyBirds/gamesframework/GameScreen.java)
+          * [GameThread](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/game/GameFlappyBirds/SourceFlappyBirds/gamesframework/GameThread.java)
+          * [Objects](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/game/GameFlappyBirds/SourceFlappyBirds/gamesframework/Objects.java)
+          * [QueueList](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/game/GameFlappyBirds/SourceFlappyBirds/gamesframework/QueueList.java)
+          * [SoundPlayer](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/game/GameFlappyBirds/SourceFlappyBirds/gamesframework/SoundPlayer.java)
+    * GameHuntWumpus
+      * src
+        * main
+          * java
+            * com
+              * oop
+                * [Application](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/game/GameHuntWumpus/src/main/java/com/oop/Application.java)
+                * characteristic
+                  * [Attackable](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/game/GameHuntWumpus/src/main/java/com/oop/characteristic/Attackable.java)
+                  * [Damaged](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/game/GameHuntWumpus/src/main/java/com/oop/characteristic/Damaged.java)
+                  * [Moable](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/game/GameHuntWumpus/src/main/java/com/oop/characteristic/Moable.java)
+                * game
+                  * [Game](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/game/GameHuntWumpus/src/main/java/com/oop/game/Game.java)
+                  * [HunterActivity](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/game/GameHuntWumpus/src/main/java/com/oop/game/HunterActivity.java)
+                  * [HunterActivityWatcher](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/game/GameHuntWumpus/src/main/java/com/oop/game/HunterActivityWatcher.java)
+                * [GameConfig](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/game/GameHuntWumpus/src/main/java/com/oop/GameConfig.java)
+                * model
+                  * [Bear](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/game/GameHuntWumpus/src/main/java/com/oop/model/Bear.java)
+                  * [Character](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/game/GameHuntWumpus/src/main/java/com/oop/model/Character.java)
+                  * [Hunter](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/game/GameHuntWumpus/src/main/java/com/oop/model/Hunter.java)
+                  * [Location](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/game/GameHuntWumpus/src/main/java/com/oop/model/Location.java)
+                  * [Monster](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/game/GameHuntWumpus/src/main/java/com/oop/model/Monster.java)
+                  * [RobinHood](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/game/GameHuntWumpus/src/main/java/com/oop/model/RobinHood.java)
+                * validator
+                  * [GameUtils](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/game/GameHuntWumpus/src/main/java/com/oop/validator/GameUtils.java)
   * java
     * Collection
       * CollectionInterface
@@ -816,25 +814,23 @@
         * [Thread scheduler](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/java/Multithread_Programming/ThreadScheduler/Thread_scheduler.java)
     * Regex
       * [Check PhoneNumber](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/java/Regex/Check_PhoneNumber.java)
+      * Pattern Java
+        * [CANON EQ](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/java/Regex/Pattern_Java/CANON_EQ.java)
+        * [CASE INSENSITIVE](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/java/Regex/Pattern_Java/CASE_INSENSITIVE.java)
+        * [COMMENTS](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/java/Regex/Pattern_Java/COMMENTS.java)
+        * [compile](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/java/Regex/Pattern_Java/compile.java)
+        * [DOTALL](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/java/Regex/Pattern_Java/DOTALL.java)
+        * [group](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/java/Regex/Pattern_Java/group.java)
+        * [LITERAL](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/java/Regex/Pattern_Java/LITERAL.java)
+        * [matcher](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/java/Regex/Pattern_Java/matcher.java)
+        * [matches](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/java/Regex/Pattern_Java/matches.java)
+        * [MULTILINE](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/java/Regex/Pattern_Java/MULTILINE.java)
+        * [pattern](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/java/Regex/Pattern_Java/pattern.java)
+        * [replaceAll](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/java/Regex/Pattern_Java/replaceAll.java)
+        * [UNICODE CASE](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/java/Regex/Pattern_Java/UNICODE_CASE.java)
+        * [UNIX LINES](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/java/Regex/Pattern_Java/UNIX_LINES.java)
       * [RegexExample1](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/java/Regex/RegexExample1.java)
       * [RegexExample2](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/java/Regex/RegexExample2.java)
-      * RegexExpression
-        * [Java Regex](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/java/Regex/RegexExpression/Java_Regex.java)
-        * Pattern Java
-          * [CANON EQ](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/java/Regex/RegexExpression/Pattern_Java/CANON_EQ.java)
-          * [CASE INSENSITIVE](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/java/Regex/RegexExpression/Pattern_Java/CASE_INSENSITIVE.java)
-          * [COMMENTS](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/java/Regex/RegexExpression/Pattern_Java/COMMENTS.java)
-          * [compile](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/java/Regex/RegexExpression/Pattern_Java/compile.java)
-          * [DOTALL](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/java/Regex/RegexExpression/Pattern_Java/DOTALL.java)
-          * [group](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/java/Regex/RegexExpression/Pattern_Java/group.java)
-          * [LITERAL](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/java/Regex/RegexExpression/Pattern_Java/LITERAL.java)
-          * [matcher](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/java/Regex/RegexExpression/Pattern_Java/matcher.java)
-          * [matches](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/java/Regex/RegexExpression/Pattern_Java/matches.java)
-          * [MULTILINE](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/java/Regex/RegexExpression/Pattern_Java/MULTILINE.java)
-          * [pattern](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/java/Regex/RegexExpression/Pattern_Java/pattern.java)
-          * [replaceAll](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/java/Regex/RegexExpression/Pattern_Java/replaceAll.java)
-          * [UNICODE CASE](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/java/Regex/RegexExpression/Pattern_Java/UNICODE_CASE.java)
-          * [UNIX LINES](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/java/Regex/RegexExpression/Pattern_Java/UNIX_LINES.java)
       * [testExpression](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/java/Regex/testExpression.java)
     * Serialization
       * ObjectInputStream
