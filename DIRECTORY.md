@@ -474,6 +474,11 @@
       * DateAndTimeAPI
         * LocalTime
           * [localtime](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/java/Java8/DateAndTimeAPI/LocalTime/localtime.java)
+      * DefaultMethods
+        * [Car](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/java/Java8/DefaultMethods/Car.java)
+        * [Main](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/java/Java8/DefaultMethods/Main.java)
+        * [MyInterface](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/java/Java8/DefaultMethods/MyInterface.java)
+        * [Vehicle](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/java/Java8/DefaultMethods/Vehicle.java)
       * LambdaExpression
         * Lambda Comparator
           * [lambda comparator](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/java/Java8/LambdaExpression/Lambda_Comparator/lambda_comparator.java)
@@ -500,6 +505,12 @@
           * [test](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/java/Java8/MethodReferences/StaticMethodReference/test.java)
       * Optional
         * [Optional Java](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/java/Java8/Optional/Optional_Java.java)
+        * OptionalExample
+          * [OptionalExample](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/java/Java8/Optional/OptionalExample/OptionalExample.java)
+      * StaticMethods
+        * [Main](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/java/Java8/StaticMethods/Main.java)
+        * [ThirdImpl](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/java/Java8/StaticMethods/ThirdImpl.java)
+        * [ThirdInterface](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/java/Java8/StaticMethods/ThirdInterface.java)
       * StreamAPI
         * StreamAPI
           * [ConvertToStreamExample](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/java/Java8/StreamAPI/StreamAPI/ConvertToStreamExample.java)
@@ -669,10 +680,10 @@
               * [test](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/java/JavaCore/OOP/JavaOOPs/Polymorphism/Instance_initializer_block/test.java)
               * [test1](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/java/JavaCore/OOP/JavaOOPs/Polymorphism/Instance_initializer_block/test1.java)
             * instanceof operator
-              * [Example1](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/java/JavaCore/OOP/JavaOOPs/Polymorphism/instanceof_operator/Example1.java)
               * [Example2](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/java/JavaCore/OOP/JavaOOPs/Polymorphism/instanceof_operator/Example2.java)
               * [Example3](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/java/JavaCore/OOP/JavaOOPs/Polymorphism/instanceof_operator/Example3.java)
               * [instanceof operator](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/java/JavaCore/OOP/JavaOOPs/Polymorphism/instanceof_operator/instanceof_operator.java)
+              * [Main](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/java/JavaCore/OOP/JavaOOPs/Polymorphism/instanceof_operator/Main.java)
             * Method Overloading
               * [Overloading](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/java/JavaCore/OOP/JavaOOPs/Polymorphism/Method_Overloading/Overloading.java)
             * Method Overriding
