@@ -13,8 +13,3 @@ My [**Directory**](DIRECTORY.md) has the full list of applications. [roadmap bac
 
 ### All Project are implemented in Java.
 These implementations are intended for learning purposes. As such, project java may be less efficient than the Java standard library.
-
-
-### Reference documents.
-[OOP P1](https://viblo.asia/p/003-cac-tinh-chat-co-ban-trong-oop-p1-aWj53nWPl6m)
-[OOP P2](https://viblo.asia/p/004-cac-tinh-chat-co-ban-trong-oop-p2-RQqKLooN57z)
