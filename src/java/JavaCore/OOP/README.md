@@ -6,6 +6,11 @@
 
 & Learn Java OOPs.
 
+### Reference documents.
+[OOP P1](https://viblo.asia/p/003-cac-tinh-chat-co-ban-trong-oop-p1-aWj53nWPl6m)
+[OOP P2](https://viblo.asia/p/004-cac-tinh-chat-co-ban-trong-oop-p2-RQqKLooN57z)
+
+
 - ### Java OOP:
     - [*Java Object Class*](https://github.com/hoangtien2k3qx1/Java/tree/main/Java_OOP/Java_Object_Class)
         - [*Binding Java*](https://github.com/hoangtien2k3qx1/Java/tree/main/Java_OOP/Java_Object_Class/Binding_Java)
