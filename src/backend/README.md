@@ -1,5 +1,7 @@
 
 ![image](https://user-images.githubusercontent.com/122768076/225546281-e07e92ee-0b50-4832-b961-908763b1b906.png)
+![](https://images.viblo.asia/99c936d5-36dc-4928-921a-30e1b4338983.png)
+![](https://images.viblo.asia/594d086c-73c2-4802-9266-55c7914f3f43.jpeg)
 #### [1. backend-roadmap](https://drive.google.com/file/d/1TJOYRf4tuRDxRBQGOs00mArmcmzK6UjV/view)
 #### [2. backend-roadmap](https://topdev.vn/blog/wp-content/uploads/2018/08/1_WQviQNNE2cnhVAiQpIXkQg.png)
 
