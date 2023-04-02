@@ -5,17 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="faedc056-e68a-483d-bcf1-dd3425de15ba" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/mssql_jdbc_12_2_0_jre8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/backend/JDBC_API/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/backend/JDBC_API/src/SqlConnectionExample/SqlConnectionExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/backend/JDBC_API/src/database/JDBCUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/backend/JDBC_API/src/test/TestJDBCUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/backend/test/test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Java.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/backend/JDBC/JDBC_Driver/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/backend/JDBC/JDBC_Tutorial/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/backend/JDBC/JDBC_Tutorial/img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/backend/JDBC_API/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/backend/JDBC_API/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

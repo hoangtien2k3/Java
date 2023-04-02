@@ -30,6 +30,33 @@ Tại vì (ODBC driver được viết bằng ngôn ngữ C (là phụ thuộc n
 
 
 
+### JDBC Driver chuyển đổi kiểu dữ liệu của Java thành kiểu dữ liệu của JDBC tương ứng trước khi gửi giá trị dữ liệu tới Database.
+
+| SQL         | 	JDBC/Java            | 	setXXX                      | 	updateXXX      |
+|-------------|-----------------------|------------------------------|-------------------|
+| VARCHAR     | 	java.lang.String     | 	setString                   | 	updateString     |
+| CHAR        | 	java.lang.String     | 	setString	updateString      
+| LONGVARCHAR | 	java.lang.String     | 	setString	                  | updateString      |
+| BIT         | 	boolean	setBoolean   | 	updateBoolean               |
+| NUMERIC     | 	java.math.BigDecimal | 	setBigDecimal               | 	updateBigDecimal |
+| TINYINT     | 	byte                 | 	setByte	updateByte          |
+| SMALLINT    | 	short                | 	setShort                    | 	updateShort      |
+| INTEGER     | 	int	setInt           | 	updateInt                   |
+| BIGINT      | 	long	                | setLong	                     | updateLong        |
+| REAL        | 	float                | 	setFloat                    | 	updateFloat      |
+| FLOAT       | 	float	               | setFloat                     | 	updateFloat      |
+| DOUBLE      | double                | 	setDouble	                  | updateDouble      |
+| VARBINARY   | 	byte[ ]	             | setBytes                     | 	updateBytes      |
+| BINARY      | 	byte[ ]	             | setBytes                     | 	updateBytes      |
+| DATE        | 	java.sql.Date        | 	setDate                     | 	updateDate       |
+| TIME        | 	java.sql.Time	       | setTime                      | 	updateTime       |
+| TIMESTAMP   | 	java.sql.Timestamp   | 	setTimestamp	               | updateTimestamp   |
+| CLOB        | 	java.sql.Clob	       | setClob	updateClob           |
+| BLOB        | 	java.sql.Blob        | 	setBlob	updateBlob          |
+| ARRAY       | 	java.sql.Array	      | setARRAY	                    | updateARRAY       |
+| REF         | 	java.sql.Ref	        | SetRef	                      | updateRef         |
+| STRUCT      | 	java.sql.Struct      | 	SetStruct                   | 	updateStruct     |
+
 
 
 
