@@ -14,8 +14,6 @@
       * src
         * database
           * [JDBCUtil](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/backend/JDBC_API/src/database/JDBCUtil.java)
-        * SqlConnectionExample
-          * [SqlConnectionExample](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/backend/JDBC_API/src/SqlConnectionExample/SqlConnectionExample.java)
         * test
           * [TestJDBCUtil](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/backend/JDBC_API/src/test/TestJDBCUtil.java)
     * QuanLyBanHang
