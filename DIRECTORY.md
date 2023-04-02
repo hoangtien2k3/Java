@@ -10,6 +10,14 @@
         * [JSP](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/backend/Advance/JSP/JSP.java)
       * Servlets
         * [Servlets](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/backend/Advance/Servlets/Servlets.java)
+    * JDBC API
+      * src
+        * database
+          * [JDBCUtil](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/backend/JDBC_API/src/database/JDBCUtil.java)
+        * SqlConnectionExample
+          * [SqlConnectionExample](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/backend/JDBC_API/src/SqlConnectionExample/SqlConnectionExample.java)
+        * test
+          * [TestJDBCUtil](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/backend/JDBC_API/src/test/TestJDBCUtil.java)
     * QuanLyBanHang
       * project
         * javacore
@@ -23,6 +31,8 @@
             * services
               * [OrderService](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/backend/QuanLyBanHang/project/javacore/orders/services/OrderService.java)
               * [ProductService](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/backend/QuanLyBanHang/project/javacore/orders/services/ProductService.java)
+    * test
+      * [test](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/backend/test/test.java)
   * game
     * GameFlappyBirds
       * SourceFlappyBirds
