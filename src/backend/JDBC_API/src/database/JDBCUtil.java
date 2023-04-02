@@ -1,30 +1,27 @@
 package src.backend.JDBC_API.src.database;
 
-import com.microsoft.sqlserver.jdbc.SQLServerDriver;
-
-import java.sql.Connection;
-import java.sql.DriverManager;
-import java.sql.SQLException;
+import java.sql.*;
+import java.util.Properties;
+import java.util.logging.Logger;
 
 public class JDBCUtil {
     public static Connection getConnection() {
         Connection con = null;
 
         try {
-            DriverManager.registerDriver(new SQLServerDriver());
+            // đăng ký MySQL
+            DriverManager.registerDriver(new com.mysql.jdbc.Driver());
 
             // các thông số:
-            String url = "jdbc:sqlserver://localhost:1433;databaseName=HoangTien2k3;user=myusername;password=mypassword";
+            String url = "jdbc:mySQL://localhost:3306/hoangtien2k3";
             String username = "root";
-            String password = "";
+            String password = "12042003";
 
             con = DriverManager.getConnection(url, username, password);
+
         } catch (SQLException ex) {
             ex.printStackTrace();
         }
-
-
-
 
         return con;
     }
