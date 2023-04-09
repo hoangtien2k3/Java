@@ -8,68 +8,68 @@
 
 ```mermaid
 graph LR;
-    A[Backend Developer] -- Ngôn ngữ lập trình --> B[Programming Language]
+    A[Backend Dev.] -- Ngôn ngữ --> B[Programming Lang.]
     A -- Framework --> C[Web Framework]
-    A -- Cơ sở dữ liệu --> D[Database]
+    A -- CSDL --> D[Database]
     A -- Server --> E[Web Server]
     A -- RESTful API --> F[API]
-    A -- Các công cụ phát triển --> G[Development Tools]
-    A -- Kiến trúc phân tán --> H[Distributed Architecture]
+    A -- Công cụ --> G[Dev. Tools]
+    A -- Kiến trúc --> H[Distributed Arch.]
     A -- Triển khai --> I[Deployment]
 
-    subgraph Programming Language
+
         B -- Syntax --> J
         B -- Data Types --> K
         B -- Control Flow --> L
         B -- Functions --> M
-        B -- Object-Oriented Programming --> N
-    end
+        B -- OOP --> N
 
-    subgraph Web Framework
+
+
         C -- Routing --> O
-        C -- Model-View-Controller (MVC) Architecture --> P
+        C -- MVC --> P
         C -- ORM/ODM --> Q
         C -- Middleware --> R
-        C -- Authentication and Authorization --> S
-    end
+        C -- Auth. --> S
 
-    subgraph Database
-        D -- Relational Databases --> T
-        D -- Non-Relational Databases --> U
+
+
+        D -- Relational DB --> T
+        D -- Non-Relational DB --> U
         D -- Data Modeling --> V
-        D -- Querying and Manipulating Data --> W
-        D -- Transactions and Concurrency --> X
-    end
+        D -- Querying --> W
+        D -- Transactions --> X
 
-    subgraph Web Server
+
+
         E -- HTTP Protocol --> Y
         E -- Reverse Proxy --> Z
         E -- Load Balancing --> AA
         E -- Caching --> AB
         E -- Security --> AC
-    end
 
-    subgraph Development Tools
-        G -- Integrated Development Environment (IDE) --> AD
-        G -- Version Control System (VCS) --> AE
-        G -- Testing Framework --> AF
-        G -- Debugging Tools --> AG
-        G -- Build and Deployment Tools --> AH
-    end
 
-    subgraph Distributed Architecture
+
+        G -- IDE --> AD
+        G -- VCS --> AE
+        G -- Testing --> AF
+        G -- Debugging --> AG
+        G -- Build & Deployment --> AH
+
+
+
         H -- Microservices --> AI
-        H -- Service-Oriented Architecture (SOA) --> AJ
+        H -- SOA --> AJ
         H -- Message Queues --> AK
-        H -- Event-Driven Architecture --> AL
-        H -- Containers and Orchestration --> AM
-    end
+        H -- Event-Driven --> AL
+        H -- Containers --> AM
 
-    subgraph Deployment
-        I -- Infrastructure as a Service (IaaS) --> AN
-        I -- Platform as a Service (PaaS) --> AO
-        I -- Continuous Integration and Continuous Deployment (CI/CD) --> AP
+
+
+        I -- IaaS --> AN
+        I -- PaaS --> AO
+        I -- CI/CD --> AP
         I -- Scalability --> AQ
-        I -- Monitoring and Logging --> AR
-    end
-```
+        I -- Monitoring --> AR
+
+``
