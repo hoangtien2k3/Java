@@ -12,10 +12,20 @@
         * [Servlets](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/backend/Advance/Servlets/Servlets.java)
     * JDBC API
       * src
+        * dao
+          * [DAOInterface](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/backend/JDBC_API/src/dao/DAOInterface.java)
+          * [KhachHangDAO](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/backend/JDBC_API/src/dao/KhachHangDAO.java)
+          * [SachDAO](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/backend/JDBC_API/src/dao/SachDAO.java)
+          * [UserDAO](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/backend/JDBC_API/src/dao/UserDAO.java)
         * database
           * [JDBCUtil](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/backend/JDBC_API/src/database/JDBCUtil.java)
+        * model
+          * [KhachHang](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/backend/JDBC_API/src/model/KhachHang.java)
+          * [Sach](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/backend/JDBC_API/src/model/Sach.java)
+          * [User](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/backend/JDBC_API/src/model/User.java)
         * test
-          * [TestJDBCUtil](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/backend/JDBC_API/src/test/TestJDBCUtil.java)
+          * [TestSachDAO](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/backend/JDBC_API/src/test/TestSachDAO.java)
+          * [TestUser](https://github.com/hoangtien2k3qx1/Java-Backend-Developer/blob/main/src/backend/JDBC_API/src/test/TestUser.java)
     * QuanLyBanHang
       * project
         * javacore
