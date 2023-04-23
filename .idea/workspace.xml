@@ -5,19 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="faedc056-e68a-483d-bcf1-dd3425de15ba" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/backend/JDBC_API/src/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/backend/JDBC_API/src/dao/DAOInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/backend/JDBC_API/src/dao/KhachHangDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/backend/JDBC_API/src/dao/SachDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/backend/JDBC_API/src/dao/UserDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/backend/JDBC_API/src/model/KhachHang.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/backend/JDBC_API/src/model/Sach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/backend/JDBC_API/src/model/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/backend/JDBC_API/src/test/TestSachDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/backend/JDBC_API/src/test/TestUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/DataType/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/DataType/ReferenceDataType.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/backend/JDBC_API/src/database/JDBCUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/backend/JDBC_API/src/database/JDBCUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/backend/JDBC_API/src/test/TestJDBCUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +56,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "D:/CodeJava/Data-Structure-And-Algorithm",
+    "last_opened_file_path": "D:/CodeJava/Java",
     "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -90,13 +82,13 @@
       <recent name="src.backend.JDBC_API.src.dao" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestUser">
-    <configuration name="SqlConnectionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.backend.JDBC_API.src.SqlConnectionExample.SqlConnectionExample" />
+  <component name="RunManager" selected="Application.ReferenceDataType">
+    <configuration name="ReferenceDataType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.java.DataType.ReferenceDataType" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.backend.JDBC_API.src.SqlConnectionExample.*" />
+          <option name="PATTERN" value="src.java.DataType.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReferenceDataType" />
         <item itemvalue="Application.TestUser" />
         <item itemvalue="Application.TestSachDAO" />
         <item itemvalue="Application.TestJDBCUtil" />
         <item itemvalue="JAR Application.mssql-jdbc-12.2.0.jre8.jar" />
-        <item itemvalue="Application.SqlConnectionExample" />
       </list>
     </recent_temporary>
   </component>

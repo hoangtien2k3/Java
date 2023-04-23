@@ -44,22 +44,9 @@ graph TD;
     Microservices-->API
     Microservices-->JSON
     
-    
     Back-End-->Docker;
     Back-End-->Containerization
-   
 ```
 
-
-```mermaid
-graph LR;
-    Client-- Gửi request --> Frontend;
-    Frontend-- Truyền request --> Backend;
-    Backend-- Xử lý request --> Application;
-    Application-- Truy vấn database --> Database;
-    Application-- Trả về response --> Backend;
-    Backend-- Truyền response --> Frontend;
-    Frontend-- Hiển thị response --> Client;
-```
 
 
