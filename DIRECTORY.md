@@ -834,6 +834,10 @@
         * [Thread Priority](https://github.com/hoangtien2k3qx1/Java/blob/main/src/java/Multithread_Programming/ThreadPriority/Thread_Priority.java)
       * ThreadScheduler
         * [Thread scheduler](https://github.com/hoangtien2k3qx1/Java/blob/main/src/java/Multithread_Programming/ThreadScheduler/Thread_scheduler.java)
+    * Object
+      * [Object Java](https://github.com/hoangtien2k3qx1/Java/blob/main/src/java/Object/Object_Java.java)
+    * Reflection
+      * [Reflection Java](https://github.com/hoangtien2k3qx1/Java/blob/main/src/java/Reflection/Reflection_Java.java)
     * Regex
       * [Check PhoneNumber](https://github.com/hoangtien2k3qx1/Java/blob/main/src/java/Regex/Check_PhoneNumber.java)
       * Pattern Java
