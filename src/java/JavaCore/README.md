@@ -66,8 +66,25 @@ public class Object_Java {
 
 
 
+## Lớp bao:
+1. Lớp bao (wrapper class)
+2. Autoboxing
+```java
+int p1 = 420;
+Integer p1W = p1; // autoboxing
+int p2 = p1W; // autounboxing
+```
 
-
+```java
+// auto-boxing
+List list = new ArrayList();
+list.add(100); // list.add(new Integer(100));
+Byte b = 100; // chuyển int thành byte, rồi boxing byte thành Byte
+// auto-unboxing
+while (Boolean.TRUE) { ... }
+if (new Integer(2) > 1) { ... }
+int i = 10 + new Integer(2) * 3;
+```
 
 
 

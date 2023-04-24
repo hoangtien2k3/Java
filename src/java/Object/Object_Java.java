@@ -52,7 +52,6 @@ public class Object_Java {
         System.out.println("obj1.equals(obj2): " + obj1.equals(obj2));
         System.out.println("obj1 == obj2: " + (obj1 == obj2));
 
-
         System.out.println("obj1.getClass(): " + obj1.getClass());
         System.out.println("obj2.hashCode(): " + obj2.hashCode());
     }

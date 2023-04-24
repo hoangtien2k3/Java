@@ -5,15 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="faedc056-e68a-483d-bcf1-dd3425de15ba" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/java/Object/Object_Java.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/Object/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/Reflection/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/Reflection/Reflection_Java.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/JavaCore/Static/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/Annotation/Annotation_Java.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Annotation/Annotation_Java.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/Java8/Optional/Optional_Java.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Java8/Optional/Optional_Java.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/Java8/Optional/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Java8/Optional/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/java/JavaCore/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/JavaCore/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Object/Object_Java.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Object/Object_Java.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
