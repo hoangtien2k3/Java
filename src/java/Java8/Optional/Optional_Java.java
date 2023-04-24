@@ -19,6 +19,10 @@ import java.util.Optional;
 
 class Person {
     private String name;
+    public Person() {}
+    public Person(String name) {
+        this.name = name;
+    }
     public String getName() {
         return name;
     }
@@ -27,20 +31,37 @@ class Person {
 public class Optional_Java {
     public static void main(String[] args) {
         Person person = new Person();
+        // tạo ra một đối tượng Optional, nếu giá trị là null(thì trả về Optional rỗng, ngược lại trả về Optional với giá trị được thêm vào.
         Optional<String> nameOptional = Optional.ofNullable(person.getName());
         if (nameOptional.isPresent()) { // kiểu tra xem giá trị trả về có null hay không
             String name = nameOptional.get();
+            System.out.println("Person: " + nameOptional.get());
         } else {
-            System.out.println("Name: NULL" ); // trường hợp không có giá trị name.
+            System.out.println("Person: Name: NULL" ); // trường hợp không có giá trị name.
         }
 
 
-        List<Integer> list = Arrays.asList(1, 2, 3, 4, 5, 6, 2, 4, 6);
-        Optional<Integer> found = list.stream().filter(p -> p > 8).findFirst();
-        if (found.isPresent()) {
-            System.out.println("Gía trị đầu tiên > 8 !!!");
+
+        Person person1 = new Person("Tiến");
+        // tạo ra một đối tượng Optional, nếu giá trị là null(thì trả về Optional rỗng, ngược lại trả về Optional với giá trị được thêm vào.
+        Optional<String> nameOptional1 = Optional.ofNullable(person1.getName());
+        if (nameOptional1.isPresent()) { // kiểu tra xem giá trị trả về có null hay không
+            String name = nameOptional1.get();
+            System.out.println("Person 1: " + nameOptional1.get());
         } else {
-            System.out.println("giá trị đầu tiên không lớn hơn 8 ( < 8) !!!!");
+            System.out.println("Person 1: Name: NULL" ); // trường hợp không có giá trị name.
+        }
+
+
+        List<Integer> list = Arrays.asList(1, 2, 3, 4, 5, 6, 2, 4, 10, 22);
+        Optional<Integer> found = list
+                .stream()
+                .filter(p -> p > 8)
+                .findFirst();
+        if (found.isPresent()) {
+            System.out.println("Giá trị đầu tiên > 8: " + found.get());
+        } else {
+            System.out.println("Giá trị đầu tiên không lớn hơn 8 ( < 8): " + found.get());
         }
 
 

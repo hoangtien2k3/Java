@@ -16,11 +16,11 @@ Khi bạn không chắc tham số của nó có null hay không thì sử dụng
 
 ## Một số phương thức của Optional<T> ?
 
-1. [of()](): Tạo một Optional từ giá trị được chỉ định. Nếu giá trị là null, nó sẽ ném ra một NullPointerException.
+1. [of()](): Tạo một Optional từ giá trị được chỉ định. Nếu giá trị là null, nó sẽ ném ra một **NullPointerException**.
 2. [ofNullable()](): Tạo một Optional từ giá trị được chỉ định. Nếu giá trị là null, nó sẽ trả về một Optional rỗng.
 3. [empty()](): Trả về một Optional rỗng.
 4. [isPresent()](): Kiểm tra xem giá trị trong Optional có tồn tại hay không.
-5. [get()](): Trả về giá trị trong Optional nếu có tồn tại. Nếu không, nó sẽ ném ra một NoSuchElementException.
+5. [get()](): Trả về giá trị trong Optional nếu có tồn tại. Nếu không, nó sẽ ném ra một **NoSuchElementException**.
 6. [orElse()](): Trả về giá trị trong Optional nếu có tồn tại. Nếu không, nó sẽ trả về giá trị được chỉ định.
 7. [orElseGet()](): Trả về giá trị trong Optional nếu có tồn tại. Nếu không, nó sẽ trả về giá trị được cung cấp bởi một Supplier.
 8. [map()](): Thực hiện một phép ánh xạ trên giá trị trong Optional và trả về một Optional mới chứa kết quả.

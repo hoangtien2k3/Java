@@ -4,17 +4,17 @@ import java.lang.annotation.*;
 import java.lang.reflect.Method;
 
 // Định nghĩa một Annotation đơn giản
-@Retention(RetentionPolicy.RUNTIME)
-@Target(ElementType.METHOD)
+@Retention(RetentionPolicy.RUNTIME) //
+@Target(ElementType.METHOD) // chú thích một annotation là hạn chế áp dụng với thành phần Java nào đó.
 @interface MyAnnotation {
     String value() default ""; // Định nghĩa một trường giá trị cho Annotation
 }
 
 // Sử dụng Annotation trong một lớp
 class MyClass {
-    @MyAnnotation(value = "Chào mừng đến với Java!")
+    @MyAnnotation(value = "welcome to Java !!! Annotation")
     public void myMethod() {
-        System.out.println("Hello, world!");
+        System.out.println("Hello, Annotation!");
     }
 }
 
