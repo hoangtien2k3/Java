@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="faedc056-e68a-483d-bcf1-dd3425de15ba" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/DataType/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/DataType/ReferenceDataType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/Annotation/Annotation_Java.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/Annotation/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Java.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +52,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -82,13 +85,13 @@
       <recent name="src.backend.JDBC_API.src.dao" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ReferenceDataType">
-    <configuration name="ReferenceDataType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.java.DataType.ReferenceDataType" />
+  <component name="RunManager" selected="Application.Annotation_Java (3)">
+    <configuration name="Annotation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.java.Annotation.Annotation" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.java.DataType.*" />
+          <option name="PATTERN" value="src.java.Annotation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestJDBCUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.backend.JDBC_API.src.test.TestJDBCUtil" />
+    <configuration name="Annotation_Java (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.java.Annotation.Annotation_Java" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.backend.JDBC_API.src.test.*" />
+          <option name="PATTERN" value="src.java.Annotation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestSachDAO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.backend.JDBC_API.src.test.TestSachDAO" />
+    <configuration name="Annotation_Java (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.java.Annotation.Annotation_Java" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.backend.JDBC_API.src.test.*" />
+          <option name="PATTERN" value="src.java.Annotation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestUser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.backend.JDBC_API.src.test.TestUser" />
+    <configuration name="Annotation_Java (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.java.Annotation.Annotation_Java" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.backend.JDBC_API.src.test.*" />
+          <option name="PATTERN" value="src.java.Annotation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,17 +138,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="mssql-jdbc-12.2.0.jre8.jar" type="JarApplication" temporary="true">
-      <option name="JAR_PATH" value="$PROJECT_DIR$/src/backend/JDBC_API/src/lib/mssql-jdbc-12.2.0.jre8.jar" />
-      <method v="2" />
+    <configuration name="Annotation_Java" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.java.Annotation.Annotation_Java" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.java.Annotation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ReferenceDataType" />
-        <item itemvalue="Application.TestUser" />
-        <item itemvalue="Application.TestSachDAO" />
-        <item itemvalue="Application.TestJDBCUtil" />
-        <item itemvalue="JAR Application.mssql-jdbc-12.2.0.jre8.jar" />
+        <item itemvalue="Application.Annotation_Java (3)" />
+        <item itemvalue="Application.Annotation_Java (2)" />
+        <item itemvalue="Application.Annotation_Java (1)" />
+        <item itemvalue="Application.Annotation_Java" />
+        <item itemvalue="Application.Annotation" />
       </list>
     </recent_temporary>
   </component>
