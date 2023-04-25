@@ -879,6 +879,9 @@
         * [Map Java](https://github.com/hoangtien2k3qx1/Java/blob/main/src/java/Sorting/Sort/Map_Java.java)
         * [Set Java](https://github.com/hoangtien2k3qx1/Java/blob/main/src/java/Sorting/Sort/Set_Java.java)
       * [sortingCollection](https://github.com/hoangtien2k3qx1/Java/blob/main/src/java/Sorting/sortingCollection.java)
+    * Static
+      * [Static](https://github.com/hoangtien2k3qx1/Java/blob/main/src/java/Static/Static.java)
+      * [test](https://github.com/hoangtien2k3qx1/Java/blob/main/src/java/Static/test.java)
     * Swing
       * [AWTExample](https://github.com/hoangtien2k3qx1/Java/blob/main/src/java/Swing/AWTExample.java)
       * [AWTExample2](https://github.com/hoangtien2k3qx1/Java/blob/main/src/java/Swing/AWTExample2.java)

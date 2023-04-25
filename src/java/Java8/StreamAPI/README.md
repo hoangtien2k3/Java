@@ -83,6 +83,7 @@ System.out.println(sortedPersons);
 ```
 
 7. [peek(Consumer<T> action)](): Thực hiện một hành động trên mỗi phần tử và trả về stream đầu vào.
+<<<<<<< HEAD
 ```java
 List<Integer> numbers = Arrays.asList(1, 2, 3, 4, 5);
 List<Integer> evenNumbers = numbers.stream()
@@ -117,6 +118,11 @@ numbers.stream()
        .forEach(System.out::println); // In ra từng số trên một dòng
 ```
 
+=======
+8. [forEach(Consumer<T> action)](): Thực hiện một hành động trên mỗi phần tử.
+9. [limit(long maxSize)](): Giới hạn số phần tử được trả về trong stream.
+10. [skip(long n)](): trả về 1 stream nhưng bỏ qua n phần tử đầu tiên từ stream ban đầu.
+>>>>>>> 60616610e02cff02b445cf00057b5853dbbac632
 11. [toArray()](): Chuyển stream thành một mảng.
 ```java
 List<Integer> numbers = Arrays.asList(1, 2, 3, 4, 5);
@@ -146,11 +152,18 @@ System.out.println(joinedNames); // Kết quả: "John, Jane, Alice, Bob"
 14. [anyMatch(Predicate<T> predicate)](): Kiểm tra xem có phần tử nào trong stream thỏa mãn điều kiện được đưa ra bởi predicate hay không.
 ```java
 List<Integer> numbers = Arrays.asList(1, 2, 3, 4, 5);
+<<<<<<< HEAD
 boolean hasEvenNumber = numbers.stream()
                                .anyMatch(n -> n % 2 == 0); // Kiểm tra xem có số chẵn nào trong Stream hay không
 System.out.println(hasEvenNumber); // Kết quả: true
 ```
 
+=======
+boolean allEven = numbers.stream()
+                         .allMatch(n -> n % 2 == 0);
+System.out.println(allEven); // Kết quả: false   
+```
+>>>>>>> 60616610e02cff02b445cf00057b5853dbbac632
 15. [allMatch(Predicate<T> predicate)](): Kiểm tra xem tất cả các phần tử trong stream đều thỏa mãn điều kiện được đưa ra bởi predicate hay không.
 ```java
 List<Integer> numbers = Arrays.asList(1, 2, 3, 4, 5);
