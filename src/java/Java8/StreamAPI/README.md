@@ -28,9 +28,9 @@ Stream trong Java là một thành phần quan trọng của Java 8 và được
 5. [sorted()](): Sắp xếp các phần tử theo thứ tự tăng dần.
 6. [sorted(Comparator<T> comparator)](): Sắp xếp các phần tử theo thứ tự được chỉ định bởi comparator.
 7. [peek(Consumer<T> action)](): Thực hiện một hành động trên mỗi phần tử và trả về stream đầu vào.
-8. [limit(long maxSize)](): Giới hạn số phần tử được trả về trong stream.
-9. [skip(long n)](): trả về 1 stream nhưng bỏ qua n phần tử đầu tiên từ stream ban đầu.
-10. [forEach(Consumer<T> action)](): Thực hiện một hành động trên mỗi phần tử.
+8. [forEach(Consumer<T> action)](): Thực hiện một hành động trên mỗi phần tử.
+9. [limit(long maxSize)](): Giới hạn số phần tử được trả về trong stream.
+10. [skip(long n)](): trả về 1 stream nhưng bỏ qua n phần tử đầu tiên từ stream ban đầu.
 11. [toArray()](): Chuyển stream thành một mảng.
 
 ### Reduce:
