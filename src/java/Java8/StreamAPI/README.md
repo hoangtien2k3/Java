@@ -39,6 +39,12 @@ Stream trong Java là một thành phần quan trọng của Java 8 và được
 
 ### Matching - khớp:
 14. [anyMatch(Predicate<T> predicate)](): Kiểm tra xem có phần tử nào trong stream thỏa mãn điều kiện được đưa ra bởi predicate hay không.
+```java
+List<Integer> numbers = Arrays.asList(1, 2, 3, 4, 5);
+boolean allEven = numbers.stream()
+                         .allMatch(n -> n % 2 == 0);
+System.out.println(allEven); // Kết quả: false   
+```
 15. [allMatch(Predicate<T> predicate)](): Kiểm tra xem tất cả các phần tử trong stream đều thỏa mãn điều kiện được đưa ra bởi predicate hay không.
 16. [noneMatch(Predicate<T> predicate)](): Kiểm tra xem không có phần tử nào trong stream thỏa mãn điều kiện được đưa ra bởi predicate hay không.
 
