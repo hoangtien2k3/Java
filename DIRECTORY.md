@@ -445,6 +445,9 @@
           * [TestThrows](https://github.com/hoangtien2k3qx1/Java/blob/main/src/java/ExceptionHandling/Throws/Try_Catch/TestThrows.java)
       * TryCatch
         * [Try Catch Finally](https://github.com/hoangtien2k3qx1/Java/blob/main/src/java/ExceptionHandling/TryCatch/Try_Catch_Finally.java)
+    * Generic
+      * [GenericWildcardExample](https://github.com/hoangtien2k3qx1/Java/blob/main/src/java/Generic/GenericWildcardExample.java)
+      * [WildcardDemo](https://github.com/hoangtien2k3qx1/Java/blob/main/src/java/Generic/WildcardDemo.java)
     * InnerClass
       * [Anonymous inner class](https://github.com/hoangtien2k3qx1/Java/blob/main/src/java/InnerClass/Anonymous_inner_class.java)
       * [Local inner class](https://github.com/hoangtien2k3qx1/Java/blob/main/src/java/InnerClass/Local_inner_class.java)
@@ -537,6 +540,7 @@
           * [ConvertToStreamExample](https://github.com/hoangtien2k3qx1/Java/blob/main/src/java/Java8/StreamAPI/StreamAPI/ConvertToStreamExample.java)
           * [stream api](https://github.com/hoangtien2k3qx1/Java/blob/main/src/java/Java8/StreamAPI/StreamAPI/stream_api.java)
           * [test](https://github.com/hoangtien2k3qx1/Java/blob/main/src/java/Java8/StreamAPI/StreamAPI/test.java)
+        * [test](https://github.com/hoangtien2k3qx1/Java/blob/main/src/java/Java8/StreamAPI/test.java)
     * JavaCore
       * [Abstract class and Interface](https://github.com/hoangtien2k3qx1/Java/blob/main/src/java/JavaCore/Abstract_class_and_Interface.java)
       * Array
@@ -587,9 +591,6 @@
       * Final
         * [Final](https://github.com/hoangtien2k3qx1/Java/blob/main/src/java/JavaCore/Final/Final.java)
       * [Function interface](https://github.com/hoangtien2k3qx1/Java/blob/main/src/java/JavaCore/Function_interface.java)
-      * Generic
-        * [GenericWildcardExample](https://github.com/hoangtien2k3qx1/Java/blob/main/src/java/JavaCore/Generic/GenericWildcardExample.java)
-        * [WildcardDemo](https://github.com/hoangtien2k3qx1/Java/blob/main/src/java/JavaCore/Generic/WildcardDemo.java)
       * [Interface](https://github.com/hoangtien2k3qx1/Java/blob/main/src/java/JavaCore/Interface.java)
       * [Interface and Function interface](https://github.com/hoangtien2k3qx1/Java/blob/main/src/java/JavaCore/Interface_and_Function_interface.java)
       * Math
