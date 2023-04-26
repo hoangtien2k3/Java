@@ -1,3 +1,13 @@
+# Giới thiệu về Stream API trong Java 8
+
+Giới thiệu về Stream trong Java 8
+- Stream (luồng) là một đối tượng mới của Java được giới thiệu từ phiên bản Java 8, giúp cho việc thao tác trên collection và array trở nên dễ dàng và tối ưu hơn.
+- Một Stream đại diện cho một chuỗi các phần tử hỗ trợ các hoạt động tổng hợp tuần tự (sequential) và song song (parallel).
+
+Trong Java 8, Collection interface được hỗ trợ 2 phương thức để tạo ra Stream bao gồm:
+- stream() : trả về một stream sẽ được xử lý theo tuần tự.
+- parallelStream() : trả về một Stream song song, các xử lý sau đó sẽ thực hiện song song.
+
 ![](https://gpcoder.com/wp-content/uploads/2018/05/java-stream-api.png)
 ## Method References in Java
 Trong Java 8, có ba kiểu method references:
