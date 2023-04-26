@@ -5,13 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="faedc056-e68a-483d-bcf1-dd3425de15ba" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/java/Annotation/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/Generic/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/Java8/StreamAPI/test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/Annotation/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Annotation/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/Java8/StreamAPI/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Java8/StreamAPI/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/JavaCore/Final/Final.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/JavaCore/Final/Final.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/JavaCore/Final/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/JavaCore/Final/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/Static/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Static/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/JavaCore/Generic/GenericWildcardExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Generic/GenericWildcardExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/JavaCore/Generic/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Generic/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/JavaCore/Generic/WildcardDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Generic/WildcardDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,13 +87,13 @@
       <recent name="src.backend.JDBC_API.src.dao" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.src.java.Annotation.test">
-    <configuration name="FlappyBirds" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.game.GameFlappyBirds.SourceFlappyBirds.flappybirds.FlappyBirds" />
+  <component name="RunManager" selected="Application.src.java.Generic.test">
+    <configuration name="GenericWildcardExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.java.Generic.GenericWildcardExample" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.game.GameFlappyBirds.SourceFlappyBirds.flappybirds.*" />
+          <option name="PATTERN" value="src.java.Generic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Object_Java (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.java.Object.Object_Java" />
+    <configuration name="src.java.Generic.test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.java.Generic.test" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.java.Object.*" />
+          <option name="PATTERN" value="src.java.Generic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Object_Java" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.java.Object.Object_Java" />
+    <configuration name="src.java.Generic.test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.java.Generic.test" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.java.Object.*" />
+          <option name="PATTERN" value="src.java.Generic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,12 +127,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="src.java.Annotation.test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.java.Annotation.test" />
+    <configuration name="src.java.Generic.test (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.java.Generic.test" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.java.Annotation.*" />
+          <option name="PATTERN" value="src.java.Generic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,12 +140,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.java.Java8.StreamAPI.test" />
+    <configuration name="src.java.Generic.test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.java.Generic.test" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.java.Java8.StreamAPI.*" />
+          <option name="PATTERN" value="src.java.Generic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.src.java.Annotation.test" />
-        <item itemvalue="Application.test" />
-        <item itemvalue="Application.FlappyBirds" />
-        <item itemvalue="Application.Object_Java" />
-        <item itemvalue="Application.Object_Java (1)" />
+        <item itemvalue="Application.src.java.Generic.test" />
+        <item itemvalue="Application.src.java.Generic.test (3)" />
+        <item itemvalue="Application.GenericWildcardExample" />
+        <item itemvalue="Application.src.java.Generic.test (2)" />
+        <item itemvalue="Application.src.java.Generic.test (1)" />
       </list>
     </recent_temporary>
   </component>
