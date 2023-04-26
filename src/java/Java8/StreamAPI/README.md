@@ -9,16 +9,6 @@ Trong Java 8, có ba kiểu method references:
    - Ví dụ: Person::new
 
 
-## Sử dụng Stream() Không cần tạo ra collection:
-Ex:
-```java
-Stream.of("a", "aa", "aaa")
-    .findFirst()
-    .ifPresent(System.out::println);  // a
-```
-
-
-
 ## Stream Method:
 Stream trong Java là một thành phần quan trọng của Java 8 và được sử dụng để thao tác trên các tập dữ liệu. Sau đây là danh sách các method có sẵn trong interface Stream trong Java:
 
