@@ -5,10 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="faedc056-e68a-483d-bcf1-dd3425de15ba" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/java/JavaCore/Static/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/Annotation/test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/JavaCore/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/JavaCore/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/Object/Object_Java.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Object/Object_Java.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Annotation/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Annotation/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Java8/StreamAPI/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Java8/StreamAPI/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/JavaCore/Final/Final.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/JavaCore/Final/Final.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/JavaCore/Final/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/JavaCore/Final/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Static/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Static/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,11 +74,11 @@
       <recent name="src.backend.JDBC_API.src.dao" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\CodeJava\Java\src\java" />
       <recent name="D:\CodeJava\Java\src\backend\JDBC_API\src\lib" />
       <recent name="D:\CodeJava\Java\src\backend\JDBC\src\lib" />
       <recent name="D:\Code Java\Java\GameFlappyBirds\Image" />
       <recent name="D:\Code Java\Java-Backend-Developer\GameFlappyBirds" />
-      <recent name="D:\Code Java\Java-Backend-Developer\src\backend\JDBC\src\lib" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\CodeJava\Java\src\backend\JDBC_API" />
@@ -85,7 +88,20 @@
       <recent name="src.backend.JDBC_API.src.dao" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Object_Java">
+  <component name="RunManager" selected="Application.src.java.Annotation.test">
+    <configuration name="FlappyBirds" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.game.GameFlappyBirds.SourceFlappyBirds.flappybirds.FlappyBirds" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.game.GameFlappyBirds.SourceFlappyBirds.flappybirds.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Object_Java (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.java.Object.Object_Java" />
       <module name="Java" />
@@ -112,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Optional_Java (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.java.Java8.Optional.Optional_Java" />
+    <configuration name="src.java.Annotation.test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.java.Annotation.test" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.java.Java8.Optional.*" />
+          <option name="PATTERN" value="src.java.Annotation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,25 +141,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Optional_Java" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.java.Java8.Optional.Optional_Java" />
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.java.Java8.StreamAPI.test" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.java.Java8.Optional.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Reflection_Java" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.java.Reflection.Reflection_Java" />
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.java.Reflection.*" />
+          <option name="PATTERN" value="src.java.Java8.StreamAPI.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.src.java.Annotation.test" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.FlappyBirds" />
         <item itemvalue="Application.Object_Java" />
         <item itemvalue="Application.Object_Java (1)" />
-        <item itemvalue="Application.Optional_Java (1)" />
-        <item itemvalue="Application.Optional_Java" />
-        <item itemvalue="Application.Reflection_Java" />
       </list>
     </recent_temporary>
   </component>

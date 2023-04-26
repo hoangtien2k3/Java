@@ -43,8 +43,15 @@ System.out.println(nameLengths); // Kết quả: [4, 4, 5, 3]
 ```
 
 3. [flatMap(Function<T, Stream<R>> mapper)](): Ánh xạ mỗi phần tử sang một stream mới và sau đó kết hợp các stream đó thành một stream duy nhất.
+```java
+List<String> words = Arrays.asList("Hello", "World");
 
+List<String> letters = words.stream()
+                            .flatMap(word -> Stream.of(word.split("")))
+                            .collect(Collectors.toList());
 
+System.out.println(letters); // In ra: [H, e, l, l, o, W, o, r, l, d]
+```
 
 ### Distinct - duy nhất:
 4. [distinct()](): Loại bỏ các phần tử trùng lặp, và đưa về các phần tử duy nhất.
@@ -83,7 +90,6 @@ System.out.println(sortedPersons);
 ```
 
 7. [peek(Consumer<T> action)](): Thực hiện một hành động trên mỗi phần tử và trả về stream đầu vào.
-<<<<<<< HEAD
 ```java
 List<Integer> numbers = Arrays.asList(1, 2, 3, 4, 5);
 List<Integer> evenNumbers = numbers.stream()
@@ -115,14 +121,9 @@ System.out.println(skippedNumbers); // Kết quả: [3, 4, 5]
 ```java
 List<Integer> numbers = Arrays.asList(1, 2, 3, 4, 5);
 numbers.stream()
-       .forEach(System.out::println); // In ra từng số trên một dòng
+        .forEach(System.out::println); // In ra từng số trên một dòng
 ```
 
-=======
-8. [forEach(Consumer<T> action)](): Thực hiện một hành động trên mỗi phần tử.
-9. [limit(long maxSize)](): Giới hạn số phần tử được trả về trong stream.
-10. [skip(long n)](): trả về 1 stream nhưng bỏ qua n phần tử đầu tiên từ stream ban đầu.
->>>>>>> 60616610e02cff02b445cf00057b5853dbbac632
 11. [toArray()](): Chuyển stream thành một mảng.
 ```java
 List<Integer> numbers = Arrays.asList(1, 2, 3, 4, 5);
@@ -152,18 +153,11 @@ System.out.println(joinedNames); // Kết quả: "John, Jane, Alice, Bob"
 14. [anyMatch(Predicate<T> predicate)](): Kiểm tra xem có phần tử nào trong stream thỏa mãn điều kiện được đưa ra bởi predicate hay không.
 ```java
 List<Integer> numbers = Arrays.asList(1, 2, 3, 4, 5);
-<<<<<<< HEAD
 boolean hasEvenNumber = numbers.stream()
                                .anyMatch(n -> n % 2 == 0); // Kiểm tra xem có số chẵn nào trong Stream hay không
 System.out.println(hasEvenNumber); // Kết quả: true
 ```
 
-=======
-boolean allEven = numbers.stream()
-                         .allMatch(n -> n % 2 == 0);
-System.out.println(allEven); // Kết quả: false   
-```
->>>>>>> 60616610e02cff02b445cf00057b5853dbbac632
 15. [allMatch(Predicate<T> predicate)](): Kiểm tra xem tất cả các phần tử trong stream đều thỏa mãn điều kiện được đưa ra bởi predicate hay không.
 ```java
 List<Integer> numbers = Arrays.asList(1, 2, 3, 4, 5);
@@ -317,8 +311,18 @@ intStream.forEach(System.out::println);
 
 Ngoài ra, Stream cũng có thể được tạo ra từ nhiều nguồn khác nhau, bao gồm các collection, mảng, các nguồn I/O và các generator. Các phương thức để tạo Stream từ các nguồn này bao gồm:
 
-1. [stream()](): Tạo Stream từ một collection.
+1. [stream()](): Tạo Stream từ một collection (tập hợp) như List, Set hoặc Map.
+```java
+List<Integer> numbers = Arrays.asList(1, 2, 3, 4, 5);
+Stream<Integer> stream = numbers.stream();
+```
+
 2. [parallelStream()](): Tạo Stream song song từ một collection.
+```java
+List<Integer> numbers = Arrays.asList(1, 2, 3, 4, 5);
+Stream<Integer> parallelStream = numbers.parallelStream();
+```
+
 3. [of(T... values)](): Tạo Stream từ một mảng giá trị.
 ```java
 Stream<String> stream = Stream.of("apple", "banana", "cherry", "date");

@@ -16,6 +16,7 @@
 
 
 ### 1. Biến static (static variables) trong Java:
+- Biến static có thể được sử dụng làm thuộc tính chung, để dùng chung dữ liệu cho tất cả objects (hoặc instances ) của lớp đó và điều đó giúp cho chương trình tiết kiệm bộ nhớ hơn
 ```java
 public static final PI = 3.14;
 ```
@@ -49,6 +50,13 @@ public class UsingStaticExample {
 ```java
 public class UsingStaticExample {
     private static String subject;
+
+    public static ArrayList<Fruit> fruits;
+    static {
+        fruits = new ArrayList<Fruit>();
+        fruits.add(new Fruit("Apple"));
+        fruits.add(new Fruit("Guava"));
+    }
 
     static {
         System.out.println("Khối static được gọi");
