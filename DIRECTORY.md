@@ -447,6 +447,7 @@
         * [Try Catch Finally](https://github.com/hoangtien2k3qx1/Java/blob/main/src/java/ExceptionHandling/TryCatch/Try_Catch_Finally.java)
     * Generic
       * [GenericWildcardExample](https://github.com/hoangtien2k3qx1/Java/blob/main/src/java/Generic/GenericWildcardExample.java)
+      * [main](https://github.com/hoangtien2k3qx1/Java/blob/main/src/java/Generic/main.java)
       * [WildcardDemo](https://github.com/hoangtien2k3qx1/Java/blob/main/src/java/Generic/WildcardDemo.java)
     * InnerClass
       * [Anonymous inner class](https://github.com/hoangtien2k3qx1/Java/blob/main/src/java/InnerClass/Anonymous_inner_class.java)
