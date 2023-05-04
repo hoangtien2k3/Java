@@ -8,11 +8,12 @@
 - V – It represents values.
 - N – It represents numbers.
 
+
 ## Generics terms:
 ![generics1](https://user-images.githubusercontent.com/122768076/234642733-85324b1a-a674-4f18-b878-9c359fe02cc4.jpg)
 
 
-## 1. Lớp generic (Generic class):
+## 1. Lớp generic (Generic class):  
 Lớp generic là một lớp có thể được khai báo với một hoặc nhiều tham số generic. Tham số generic có thể được sử dụng để xác định kiểu đối tượng mà lớp sẽ hoạt động trên.
 
 Syntax:

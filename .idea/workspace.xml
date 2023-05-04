@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="faedc056-e68a-483d-bcf1-dd3425de15ba" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/java/Generic/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/Java8/StreamAPI/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/Generic/main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/JavaCore/Generic/GenericWildcardExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Generic/GenericWildcardExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/JavaCore/Generic/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Generic/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/JavaCore/Generic/WildcardDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Generic/WildcardDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Generic/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Generic/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +84,7 @@
       <recent name="src.backend.JDBC_API.src.dao" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.src.java.Generic.test">
+  <component name="RunManager" selected="Application.main">
     <configuration name="GenericWildcardExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.java.Generic.GenericWildcardExample" />
       <module name="Java" />
@@ -101,8 +98,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="src.java.Generic.test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.java.Generic.test" />
+    <configuration name="main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.java.Generic.main" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
@@ -114,8 +111,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="src.java.Generic.test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.java.Generic.test" />
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.java.Generic.main" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
@@ -155,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.main" />
+        <item itemvalue="Application.main (1)" />
         <item itemvalue="Application.src.java.Generic.test" />
         <item itemvalue="Application.src.java.Generic.test (3)" />
         <item itemvalue="Application.GenericWildcardExample" />
-        <item itemvalue="Application.src.java.Generic.test (2)" />
-        <item itemvalue="Application.src.java.Generic.test (1)" />
       </list>
     </recent_temporary>
   </component>
