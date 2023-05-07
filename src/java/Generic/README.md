@@ -87,6 +87,25 @@ Syntax:
 public <T> void myMethod(T t) {
    //code
 }
+
+
+///////////////////////////////////////////
+
+interface IDemoClassA {
+    void print();
+}
+
+interface IDemoClassB {
+    void print();
+}
+
+public <T extends ClassA> void myMethod(T t) {
+    //code
+}
+
+public <T extends IDemoClassA & IDemoClassB> void myMethod(T t) {
+    //code
+}
 ```
 
 Ex:
