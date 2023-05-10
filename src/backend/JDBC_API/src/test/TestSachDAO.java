@@ -8,13 +8,11 @@ import java.util.ArrayList;
 public class TestSachDAO {
     public static void main(String[] args) {
 
-        /*
             // test insert giá trị
             for(int i = 0; i < 100; i++) {
                 Sach sach = new Sach("LT" + i, "Lập Trình " + i, "20000", 2023);
                 SachDAO.getInstance().insert(sach);
             }
-        */
 
 
         /*

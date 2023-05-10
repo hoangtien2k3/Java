@@ -7,8 +7,8 @@ import java.util.ArrayList;
 
 public class TestUser {
     public static void main(String[] args) {
-//        User u1 = new User("u1", "u123", "UUU");
-//        UserDAO.getInstance().insert(u1);
+        User u1 = new User("u1", "u123", "UUU");
+        UserDAO.getInstance().insert(u1);
 
 //        User u2 = new User("u2", "u1234", "UUUU");
 //        UserDAO.getInstance().insert(u2);

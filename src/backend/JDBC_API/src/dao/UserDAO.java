@@ -21,21 +21,18 @@ public class UserDAO implements DAOInterface<User> {
         try {
             // tạo kết nối đến MySql
             Connection con  = JDBCUtil.getConnection();
+            // Tạo đối tượng statement
+            Statement st = con.createStatement();
 
             // thực thi câu lệnh sql
             String query = "INSERT INTO user (username, password, hovaten)" +
-                    "VALUES (?, ?, ?)";
+                    "VALUES ('"+user.getUsername()+"', '"+user.getPassword()+"', '"+user.getHovaten()+"'";
 
-            // Tạo đối tượng statement
-            PreparedStatement pst = con.prepareStatement(query);
-            pst.setString(1, user.getUsername());
-            pst.setString(2, user.getPassword());
-            pst.setString(3, user.getHovaten());
-
-            ketQua = pst.executeUpdate();
+            ketQua = st.executeUpdate(query); // thưc hiện câu lệnh SQL
             System.out.println("Bạn đã thực thi: " + query);
             System.out.println("Có " + ketQua + " dòng bị thay đổi!!!");
-            JDBCUtil.closeConnection(con); // đóng kết nối
+            JDBCUtil.closeConnection(con); // đóng kết nối với MySql
+
         }catch (Exception ex) {
             ex.printStackTrace();
         }
@@ -60,12 +57,14 @@ public class UserDAO implements DAOInterface<User> {
             int ketQua = pst.executeUpdate();
             System.out.println("Bạn đã thực thi: " + query);
             System.out.println("Có " + ketQua + " dòng bị thay đổi!!!");
+
             JDBCUtil.closeConnection(con); // đóng kết nối
         }catch (Exception ex) {
             ex.printStackTrace();
         }
         return 0;
     }
+
 
     @Override
     public int delete(User user) {
@@ -75,7 +74,7 @@ public class UserDAO implements DAOInterface<User> {
             // Tạo đối tượng statement
 
             // thực thi câu lệnh sql
-            String query = "DELETE FROM user WHERE username=?";
+            String query = "DELETE FROM user WHERE username = ?";
 
             PreparedStatement pst = con.prepareStatement(query);
             pst.setString(1, user.getUsername());
@@ -84,6 +83,7 @@ public class UserDAO implements DAOInterface<User> {
             int ketQua = pst.executeUpdate();
             System.out.println("Bạn đã thực thi: " + query);
             System.out.println("Có " + ketQua + " dòng bị thay đổi!!!");
+
             JDBCUtil.closeConnection(con); // đóng kết nối
         }catch (Exception ex) {
             ex.printStackTrace();

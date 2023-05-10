@@ -16,7 +16,7 @@ public class JDBCUtil {
             // các thông số:
             String url = "jdbc:mySQL://localhost:3306/hoangtien2k3";
             String username = "root";
-            String password = "12042003";
+            String password = "";
             con = DriverManager.getConnection(url, username, password);
         } catch (SQLException ex) {
             ex.printStackTrace();
@@ -35,7 +35,7 @@ public class JDBCUtil {
         }
     }
 
-    //
+    // đẩy ra đường dẫn mà chúng ta connect tới database
     public static void printInfo(Connection con) {
         try {
             if (con != null) {
