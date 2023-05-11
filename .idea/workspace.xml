@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="faedc056-e68a-483d-bcf1-dd3425de15ba" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/backend/Advance/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/backend/test/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/backend/JDBC_API/src/dao/DAOInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/backend/JDBC_API/src/dao/DAOInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/backend/JDBC_API/src/dao/UserDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/backend/JDBC_API/src/dao/UserDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/backend/JDBC_API/src/database/JDBCUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/backend/JDBC_API/src/database/JDBCUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/backend/JDBC_API/src/test/TestSachDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/backend/JDBC_API/src/test/TestSachDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/backend/JDBC_API/src/test/TestUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/backend/JDBC_API/src/test/TestUser.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
