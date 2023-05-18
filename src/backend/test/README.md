@@ -52,10 +52,10 @@ Sau khi thực thi lệnh `tar -xvf xvnkb-0.2.9a.tar.bz2`, tất cả các tệp
 # Cài đặt công cụ quản lý gói:
 Gói `vlc` là một phần mềm mã nguồn mở và miễn phí dùng để phát các loại tập tin đa phương tiện như video và âm thanh trên các hệ điều hành khác nhau như Linux, macOS, Windows, Android, iOS,...
 
-## Lệnh `apt-cache search vlc` được sử dụng trong hệ điều hành Ubuntu:
+## 1. Lệnh `apt-cache search vlc` được sử dụng trong hệ điều hành Ubuntu:
 - để tìm kiếm các gói phần mềm có liên quan đến `vlc` trong kho lưu trữ của Ubuntu
 
-## Lệnh `sudo apt install vlc` được sử dụng trong Ubuntu
+## 2. Lệnh `sudo apt install vlc` được sử dụng trong Ubuntu
 - Sau khi thực thi lệnh `sudo apt install vlc`, hệ thống sẽ kiểm tra xem gói phần mềm `vlc` đã được cài đặt hay chưa. Nếu chưa, hệ thống sẽ tải về gói phần mềm `vlc` từ kho lưu trữ và cài đặt nó trên hệ thống.
 
 
