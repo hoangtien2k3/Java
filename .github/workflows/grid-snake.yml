@@ -1,0 +1,39 @@
+name: Grid snake
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+  schedule:
+    - cron: '0 */2 * * *' 
+
+concurrency:
+  group: ${{ github.head_ref || github.ref_name }}
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: generate github-contribution-grid-snake.svg
+        uses: Platane/snk@master
+        with:
+          github_user_name: hoangtien2k3qx1
+          gif_out_path: dist/github-contribution-grid-snake.gif
+          svg_out_path: dist/github-contribution-grid-snake.svg
+
+      - name: Pull
+        run: git pull origin main
+
+      - uses: stefanzweifel/git-auto-commit-action@v4.15.1
+        with:
+          commit_message: "( ͡° ͜ʖ ͡°)🔥ℝ𝔼𝔸𝔻𝕄𝔼 𝕌ℙ𝔻𝔸𝕋𝔼𝔻🔥( ͡° ͜ʖ ͡°)"
+          file_pattern: dist/github-contribution-grid-snake.svg
+          commit_user_name: hoangtien2k3qx1
+          commit_user_email: hoangtien2k3qx1@gmail.com 
+          commit_author: Hoàng Anh Tiến <hoangtien2k3qx1@gmail.com> 
