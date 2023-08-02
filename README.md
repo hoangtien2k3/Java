@@ -7,7 +7,7 @@
 [![Discord chat](https://img.shields.io/discord/808045925556682782.svg?logo=discord&colorB=7289DA&style=flat-square)](https://discord.gg/cFAkCXVQ)
 [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/hoangtien2k3qx1)
 
-Full My [**Directory**](DIRECTORY.md) has the full list of applications. [backend](https://github.com/hoangtien2k3qx1/Java/blob/main/src/java/ProgrammingBook/roadmap-backend.pdf)
+Full My [**Directory**](DIRECTORY.md) has the full list of applications. [Learn Backend](https://www.javaguides.net/p/java-tutorial-learn-java-programming.html)
 
 ### All Project are implemented in Java.
 These implementations are intended for learning purposes. As such, project java may be less efficient than the Java standard library.
