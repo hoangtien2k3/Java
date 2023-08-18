@@ -446,6 +446,11 @@
       * TryCatch
         * [Try Catch Finally](https://github.com/hoangtien2k3qx1/Java/blob/main/src/java/ExceptionHandling/TryCatch/Try_Catch_Finally.java)
     * Generic
+      * Example
+        * [Main](https://github.com/hoangtien2k3qx1/Java/blob/main/src/java/Generic/Example/Main.java)
+        * [Person](https://github.com/hoangtien2k3qx1/Java/blob/main/src/java/Generic/Example/Person.java)
+        * [Student](https://github.com/hoangtien2k3qx1/Java/blob/main/src/java/Generic/Example/Student.java)
+        * [Teacher](https://github.com/hoangtien2k3qx1/Java/blob/main/src/java/Generic/Example/Teacher.java)
       * [GenericWildcardExample](https://github.com/hoangtien2k3qx1/Java/blob/main/src/java/Generic/GenericWildcardExample.java)
       * [main](https://github.com/hoangtien2k3qx1/Java/blob/main/src/java/Generic/main.java)
       * [WildcardDemo](https://github.com/hoangtien2k3qx1/Java/blob/main/src/java/Generic/WildcardDemo.java)
