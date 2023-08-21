@@ -11,7 +11,7 @@ public class JDBCUtil {
         Connection con = null;
         try {
             // đăng ký MySQL
-            DriverManager.registerDriver(new com.mysql.jdbc.Driver());
+            // DriverManager.registerDriver(new com.mysql.jdbc.Driver());
 
             // các thông số:
             String url = "jdbc:mySQL://localhost:3306/hoangtien2k3";

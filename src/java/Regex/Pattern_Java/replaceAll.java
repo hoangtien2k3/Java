@@ -16,16 +16,16 @@ public class replaceAll {
         String input = sc.nextLine();
 
         //Regular expression to match spaces (one or more)
-        String regex = "\s+";
+        // String regex = "\s+";
 
         //Compiling the regular expression
-        Pattern pattern = Pattern.compile(regex);
+        // Pattern pattern = Pattern.compile(regex);
 
         //Retrieving the matcher object
-        Matcher matcher = pattern.matcher(input);
+        // Matcher matcher = pattern.matcher(input);
 
         //Replacing all space characters with single space
-        String result = matcher.replaceAll(" ");
-        System.out.print("Text after removing unwanted spaces: "+result);
+        // String result = matcher.replaceAll(" ");
+        //System.out.print("Text after removing unwanted spaces: "+result);
     }
 }
