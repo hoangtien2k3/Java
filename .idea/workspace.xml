@@ -5,14 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="faedc056-e68a-483d-bcf1-dd3425de15ba" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/java/Generic/Example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/Generic/Example/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/Generic/Example/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/Generic/Example/Teacher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/Multithread_Programming/Threading/DataRace/DataRace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/Multithread_Programming/Threading/DataRace/Insintric_lock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/Multithread_Programming/Threading/DataRace/ReentrantLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/Multithread_Programming/Threading/DataRace/SynchronizeMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/Multithread_Programming/Threading/DataRace/SynchronizeStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/Multithread_Programming/Threading/RaceCondition/RaceCondition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/Multithread_Programming/Threading/RaceCondition/RaceCondition1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/backend/JDBC_API/src/database/JDBCUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/backend/JDBC_API/src/database/JDBCUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/Regex/Pattern_Java/replaceAll.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Regex/Pattern_Java/replaceAll.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/backend/learn-spring-boot" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,24 +61,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/Backend/spring-security/Spring-Boot-Login-REST-API",
-    "project.structure.last.edited": "Libraries",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Code/Java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.new.ui&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="src.backend.JDBC_API.src.dao" />
@@ -97,7 +98,7 @@
       <recent name="src.backend.JDBC_API.src.dao" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.java.Generic.Example.Main" />
       <module name="Java" />
@@ -186,5 +187,21 @@
       <updated>1677402784864</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java/Multithread_Programming/Threading/RaceCondition/RaceCondition.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="shoppers.get(1)" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
