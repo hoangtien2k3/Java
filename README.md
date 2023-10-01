@@ -1,3 +1,4 @@
+
 ![image](https://github.com/hoangtien2k3qx1/Java/assets/122768076/c3b9c895-2123-4bb3-9c81-495958ea6f7d)<p align="center">
     <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.svg" height="150">
     <img src="https://2.bp.blogspot.com/-gphUOIAs3Fw/Xdj35REehzI/AAAAAABHMxM/EYOFvtkYx0A1AQo839vnfNnj0ORDf7SywCLcBGAsYHQ/s1600/AW4045541_23.gif" height="150">
@@ -353,10 +354,14 @@ Dưới đây là một số khái niệm mà bạn cần phải biết khi làm
 
 Reactor cung cấp 2 loại về Publisher :
 - Flux: là một steam phát ra từ 0...n phần tử.
+
 ![image](https://github.com/hoangtien2k3qx1/Java/assets/122768076/0bf0c90e-bde5-42be-b51d-4737325a8d30)
 
 - Mono: là một steam phát ra từ 0...1 phần tử.
+  
 ![image](https://github.com/hoangtien2k3qx1/Java/assets/122768076/9834d757-8cd0-492f-b917-794eba9a7ff9)
+
+
 
 
 
