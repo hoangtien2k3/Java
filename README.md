@@ -1,4 +1,4 @@
-<p align="center">
+![image](https://github.com/hoangtien2k3qx1/Java/assets/122768076/c3b9c895-2123-4bb3-9c81-495958ea6f7d)<p align="center">
     <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.svg" height="150">
     <img src="https://2.bp.blogspot.com/-gphUOIAs3Fw/Xdj35REehzI/AAAAAABHMxM/EYOFvtkYx0A1AQo839vnfNnj0ORDf7SywCLcBGAsYHQ/s1600/AW4045541_23.gif" height="150">
 </p>
@@ -336,6 +336,27 @@ These implementations are intended for learning purposes. As such, project java 
 - [Java Program to Reverse an Array Without Using Another Array]()
 - [Java Program to Check the Equality of Two Arrays]()
 
+
+## Reactive Programming (Project Reactor):
+Tông quan:
+- Reactive Programming là mô hình lập trình mà ở đó dữ liệu được truyền tải dưới dạng luồng ( stream). Mô hình này dưa trên nguyên tắc Asynchronous và Non-Blocking để làm việc với dữ liệu.
+
+Dưới đây là một số khái niệm mà bạn cần phải biết khi làm việc với mô hình này:
+- [Publisher](): Là nhà cung cấp dữ liệu, hoặc là nơi phát ra nguồn dữ liệu.
+- [Subscriber](): Lắng nghe Publisher, yêu cầu dữ liệu mới. Hay được gọi Là người tiêu thụ dữ liệu.
+- [Backpressure](): Là khả năng mà Subscriber cho phép Publisher có thể xử lý bao nhiêu yêu cầu tại thời điểm đó. Bởi vì Subscriber chịu trách nhiệm về luồng dữ liệu, không phải Publisher vì nó chỉ cung cấp dữ liệu.
+- [Stream](): Luồng dữ liệu bao gồm các dữ liệu trả về , các lỗi xảy ra và luồng này phải là luồng bất đồng bộ.
+
+
+## Reactor:
+- Reactor là một nền tảng để ta triển khai việc lập trình theo phong cách reactive programming. Nó được tích hợp trực tiếp với Java 8 funcion APIs như CompletableFuture, Stream, Duration.
+
+Reactor cung cấp 2 loại về Publisher :
+- Flux: là một steam phát ra từ 0...n phần tử.
+![image](https://github.com/hoangtien2k3qx1/Java/assets/122768076/0bf0c90e-bde5-42be-b51d-4737325a8d30)
+
+- Mono: là một steam phát ra từ 0...1 phần tử.
+![image](https://github.com/hoangtien2k3qx1/Java/assets/122768076/9834d757-8cd0-492f-b917-794eba9a7ff9)
 
 
 
