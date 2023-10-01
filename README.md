@@ -1,5 +1,5 @@
 
-![image](https://github.com/hoangtien2k3qx1/Java/assets/122768076/c3b9c895-2123-4bb3-9c81-495958ea6f7d)<p align="center">
+<p align="center">
     <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.svg" height="150">
     <img src="https://2.bp.blogspot.com/-gphUOIAs3Fw/Xdj35REehzI/AAAAAABHMxM/EYOFvtkYx0A1AQo839vnfNnj0ORDf7SywCLcBGAsYHQ/s1600/AW4045541_23.gif" height="150">
 </p>
