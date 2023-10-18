@@ -536,6 +536,8 @@
       * Optional
         * [Optional Java](https://github.com/hoangtien2k3qx1/Java/blob/main/src/java/Java8/Optional/Optional_Java.java)
         * OptionalExample
+          * [FloatMap](https://github.com/hoangtien2k3qx1/Java/blob/main/src/java/Java8/Optional/OptionalExample/FloatMap.java)
+          * [Map](https://github.com/hoangtien2k3qx1/Java/blob/main/src/java/Java8/Optional/OptionalExample/Map.java)
           * [OptionalExample](https://github.com/hoangtien2k3qx1/Java/blob/main/src/java/Java8/Optional/OptionalExample/OptionalExample.java)
       * StaticMethods
         * [Main](https://github.com/hoangtien2k3qx1/Java/blob/main/src/java/Java8/StaticMethods/Main.java)
