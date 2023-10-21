@@ -8,8 +8,11 @@ public class Char_to_Int {
         int b = c2;
 
 
+
         System.out.println(a);
         System.out.println(b);
+
+
 
         char c1 = '1';
         int a1 = Integer.parseInt(String.valueOf(c1));
