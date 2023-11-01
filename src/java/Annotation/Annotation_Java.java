@@ -23,7 +23,7 @@ public class Annotation_Java {
     public static void main(String[] args) {
         // Sử dụng Reflection để truy cập vào Annotation trong phương thức myMethod
         try {
-            
+
             Method myMethod = MyClass.class.getMethod("myMethod");
             MyAnnotation myAnnotation = myMethod.getAnnotation(MyAnnotation.class);
             if (myAnnotation != null) {
@@ -31,7 +31,7 @@ public class Annotation_Java {
             }
 
         } catch (NoSuchMethodException e) {
-            e.printStackTrace();
+            // e.printStackTrace();
         }
     }
 }
