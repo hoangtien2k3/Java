@@ -10,6 +10,7 @@ import java.lang.reflect.Method;
     String value() default ""; // Định nghĩa một trường giá trị cho Annotation
 }
 
+
 // Sử dụng Annotation trong một lớp
 class MyClass {
     @MyAnnotation(value = "welcome to Java !!! Annotation")
@@ -22,11 +23,13 @@ public class Annotation_Java {
     public static void main(String[] args) {
         // Sử dụng Reflection để truy cập vào Annotation trong phương thức myMethod
         try {
+            
             Method myMethod = MyClass.class.getMethod("myMethod");
             MyAnnotation myAnnotation = myMethod.getAnnotation(MyAnnotation.class);
             if (myAnnotation != null) {
                 System.out.println("Giá trị của MyAnnotation là: " + myAnnotation.value());
             }
+
         } catch (NoSuchMethodException e) {
             e.printStackTrace();
         }
