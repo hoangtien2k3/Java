@@ -5,16 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="faedc056-e68a-483d-bcf1-dd3425de15ba" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/Annotation/Annotation_Java.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Annotation/Annotation_Java.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/Java8/DateAndTimeAPI/LocalTime/localtime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Java8/DateAndTimeAPI/LocalTime/localtime.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/Multithread_Programming/Threading/DataRace/DataRace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Multithread_Programming/Threading/DataRace/DataRace.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/Multithread_Programming/Threading/DataRace/ReentrantLock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Multithread_Programming/Threading/DataRace/ReentrantLock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/Multithread_Programming/Threading/DataRace/SynchronizeMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Multithread_Programming/Threading/DataRace/SynchronizeMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/Multithread_Programming/Threading/DataRace/SynchronizeStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Multithread_Programming/Threading/DataRace/SynchronizeStatement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/Multithread_Programming/Threading/RaceCondition/RaceCondition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Multithread_Programming/Threading/RaceCondition/RaceCondition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/Multithread_Programming/Threading/RaceCondition/RaceCondition1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Multithread_Programming/Threading/RaceCondition/RaceCondition1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Regex/Pattern_Java/CANON_EQ.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Regex/Pattern_Java/CANON_EQ.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
