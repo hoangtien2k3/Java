@@ -1,5 +1,6 @@
 package src.java.Multithread_Programming.Threading.RaceCondition;
 
+import java.util.List;
 import java.util.concurrent.BrokenBarrierException;
 import java.util.concurrent.CyclicBarrier;
 import java.util.stream.Collectors;
@@ -8,13 +9,13 @@ import java.util.stream.IntStream;
 public class RaceCondition1 {
 
     public static void main(String... args) throws InterruptedException {
-        final var shoppers = IntStream.range(0, 6)
+        final List<Shopper1> shoppers = IntStream.range(0, 6)
                 .mapToObj(Shopper1::new)
                 .collect(Collectors.toList());
         // Chạy toàn bộ các thread
         shoppers.forEach(Thread::start);
         // Chờ tất cả thread hoàn thành
-        for (var shopper : shoppers) {
+        for (Shopper1 shopper : shoppers) {
             shopper.join();
         }
         System.out.println("Total packs: " + Shopper1.MASK_PACK_COUNT);

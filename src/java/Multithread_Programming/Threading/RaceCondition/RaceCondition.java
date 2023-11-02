@@ -1,11 +1,12 @@
 package src.java.Multithread_Programming.Threading.RaceCondition;
 
+import java.util.List;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
 public class RaceCondition {
     public static void main(String... args) throws InterruptedException {
-        final var shoppers = IntStream.range(0, 6)
+        final List<Shopper1> shoppers = IntStream.range(0, 6)
                 .mapToObj(Shopper1::new)
                 .collect(Collectors.toList());
 
@@ -13,7 +14,7 @@ public class RaceCondition {
         shoppers.forEach(Thread::start);
 
         // Chờ tất cả thread hoàn thành
-        for (var shopper : shoppers) {
+        for (Shopper1 shopper : shoppers) {
             shopper.join();
         }
 

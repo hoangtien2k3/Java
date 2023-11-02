@@ -9,11 +9,9 @@ public class localtime {
         LocalTime  time = LocalTime .now();
         System.out.println(time);
 
-
         // Java LocalTime Example: of()
         time = LocalTime.of(10,43,12);
         System.out.println(time);
-
 
         // Java LocalTime Example: minusHours() and minusMinutes()
         LocalTime time1 = LocalTime.of(10,43,12);
@@ -21,7 +19,6 @@ public class localtime {
         LocalTime time2 = time1.minusHours(2);
         LocalTime time3 = time2.minusMinutes(34);
         System.out.println(time3);
-
 
         // Java LocalTime Example: plusHours() and plusMinutes()
         LocalTime time11 = LocalTime.of(10,43,12);

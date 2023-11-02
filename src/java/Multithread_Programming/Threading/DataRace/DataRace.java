@@ -17,8 +17,8 @@ public class DataRace {
                 .range(0, 100)
                 .forEach(DataRace::increaseCounter);
 
-        final var first = new Thread(increaseCounterFunc);
-        final var second = new Thread(increaseCounterFunc);
+        final Thread first = new Thread(increaseCounterFunc);
+        final Thread second = new Thread(increaseCounterFunc);
 
         first.start();
         second.start();
