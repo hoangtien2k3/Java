@@ -13,7 +13,7 @@ Full My [**Directory**](DIRECTORY.md) has the full list of applications. [Learn 
 ### All Project are implemented in Java.
 These implementations are intended for learning purposes. As such, project java may be less efficient than the Java standard library.
 
-# Java Tutorial | Learn Java Programming
+# Java Tutorial | Learn Java Programming | [S.O.L.I.D](https://www.facebook.com/hoangtien2k3/posts/pfbid02jjffuekJ6pejHSbkifNLpeWaSApXZNosfkggrLML5PYMZqE5J4i6Kv7veToP23Zkl)
 
 ## Getting Started
 - [Java Programming Language - Getting Started]()
